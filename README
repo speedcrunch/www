@@ -1,0 +1,9 @@
+In order to generate the whole speedcrunch.org website, run the make.sh script.
+It requires bash (http://www.gnu.org/software/bash/bash.html) and can be run
+like this:
+
+    ./make.sh
+
+The website will be generated to a directory defined in the script through the
+$DOM variable.
+

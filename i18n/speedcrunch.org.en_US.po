@@ -1,0 +1,1016 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: speedcrunch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-22 17:11+0000\n"
+"PO-Revision-Date: 2007-07-29 00:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "calculator"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "SpeedCrunch - fast and usable calculator"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Home"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Try it out"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Download"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Learn more"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Features"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "See it in action"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Screenshots"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Frequently asked questions"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "FAQ"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Discuss with other users"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Forum"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Follow the development"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Blog"
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "icon"
+msgstr ""
+
+#: download.html
+msgid "Version 0.10.1 (May 2008)"
+msgstr ""
+
+#: download.html
+msgid "Download the installer:"
+msgstr ""
+
+#: download.html
+msgid ""
+"To perform the installation, just click on the file to run it and then "
+"follow the step-by-step instructions."
+msgstr ""
+
+#: download.html
+msgid ""
+"After installed, run SpeedCrunch using <i>Start</i> menu, <i>All Programs</"
+"i>, <i>SpeedCrunch</i>."
+msgstr ""
+
+#: download.html
+msgid "NEW!"
+msgstr ""
+
+#: download.html
+msgid "Now you can also run SpeedCrunch without the need of installing it."
+msgstr ""
+
+#: download.html
+msgid ""
+"So if you don't have permission to install it on your system or you want to "
+"take it everywhere with you on your pen drive, for instance, just download "
+"the archive below, extract it and click on the executable file inside the "
+"directory."
+msgstr ""
+
+#: download.html
+msgid "You can move the directory to any place and still run the application."
+msgstr ""
+
+#: download.html
+msgid "Download the bundle:"
+msgstr ""
+
+#: download.html
+msgid ""
+"This bundle is Universal Binary and should work on Mac OS X 10.3 (Panther), "
+"10.4 (Tiger), and 10.5 (Leopard)."
+msgstr ""
+
+#: download.html
+msgid ""
+"Note that SpeedCrunch packages available from various distribution are not "
+"necessarily the latest version."
+msgstr ""
+
+#: download.html
+msgid "SpeedCrunch is the default desktop calculator."
+msgstr ""
+
+#: download.html
+msgid ""
+"If it is not available, install it using the Adept package manager (search "
+"for <i>speedcrunch</i>) or by the following terminal command:"
+msgstr ""
+
+#: download.html
+msgid "Run SpeedCrunch using the <i>K Menu, Utilities, Calculator</i>."
+msgstr ""
+
+#: download.html
+msgid "Install it using the command:"
+msgstr ""
+
+#: download.html
+msgid "Currently SpeedCrunch is part of Debian unstable."
+msgstr ""
+
+#: download.html
+msgid ""
+"Unofficial ebuild is available at <a href=\"http://marcowegner.de/project/"
+"speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
+msgstr ""
+
+#: download.html
+msgid ""
+"See also the <a href=\"http://marcowegner.de/book/howto-install-custom-"
+"ebuilds\">step-by-step instructions</a> on how to install this ebuild."
+msgstr ""
+
+#: download.html
+msgid ""
+"After installation, run SpeedCrunch using the <i>K Menu, Utilities, "
+"SpeedCrunch</i>."
+msgstr ""
+
+#: download.html
+msgid ""
+"SpeedCrunch is part of Fedora Extras and is provided by the package named "
+"<i>speedcrunch</i>."
+msgstr ""
+
+#: download.html
+msgid ""
+"It can be installed using the graphical software management Pirut or by the "
+"following terminal command:"
+msgstr ""
+
+#: download.html
+msgid ""
+"SpeedCrunch is available from <a href=\"http://en.opensuse.org/"
+"Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
+"repository</a>."
+msgstr ""
+
+#: download.html
+msgid ""
+"After adding this repository to YaST (see <a href=\"http://en.opensuse.org/"
+"Add_Package_Repositories_to_YaST\">the instructions</a>), SpeedCrunch can be "
+"installed using YaST Software Management module or by the following command:"
+msgstr ""
+
+#: download.html
+msgid ""
+"After installation, run SpeedCrunch using the <i>SUSE Menu, Applications, "
+"Utilities, Calculator, SpeedCrunch</i>."
+msgstr ""
+
+#: download.html
+msgid "Other distributions"
+msgstr ""
+
+#: download.html
+msgid ""
+"For other Linux distributions, you can install SpeedCrunch by compiling it "
+"from source code."
+msgstr ""
+
+#: download.html
+msgid "See the instructions below."
+msgstr ""
+
+#: download.html
+msgid ""
+"Or try to get SpeedCrunch from <a href=\"http://speedcrunch.klik.atekon.de/"
+"\">speedcrunch.klik.atekon.de</a>."
+msgstr ""
+
+#: download.html
+msgid ""
+"It does not require <a href=\"http://klik.atekon.de/wiki/index.php/"
+"What_is_klik\">any installation</a> and so far has been <a href=\"http://"
+"speedcrunch.klik.atekon.de/comments/\">reported</a> to work under:"
+msgstr ""
+
+#: download.html
+msgid "Source code"
+msgstr ""
+
+#: download.html
+msgid "To build the source code and install:"
+msgstr ""
+
+#: download.html
+msgid "Download the tarball:"
+msgstr ""
+
+#: download.html
+msgid "Extract the package to a temporary directory"
+msgstr ""
+
+#: download.html
+msgid ""
+"Run <tt>cmake .</tt> from the <tt>src</tt> subfolder, followed by <tt>make</"
+"tt>"
+msgstr ""
+
+#: download.html
+msgid ""
+"To install it, run <tt>make install</tt> (might need administation "
+"privileges)"
+msgstr ""
+
+#: download.html
+msgid "NOTE: the following tools and libraries are required:"
+msgstr ""
+
+#: download.html
+msgid "<a href=\"http://www.cmake.org\">CMake</a> (minimum version 2.4.4)"
+msgstr ""
+
+#: download.html
+msgid ""
+"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.2 and "
+"including development environment)"
+msgstr ""
+
+#: download.html
+msgid "Main changes in version 0.10.1"
+msgstr ""
+
+#: download.html
+msgid "fixed virtual keypad button ="
+msgstr ""
+
+#: download.html
+msgid "fixed potential crashes"
+msgstr ""
+
+#: download.html
+msgid ""
+"fixed back and forward buttons that have the opposite meaning in RTL "
+"languages like Hebrew"
+msgstr ""
+
+#: download.html
+msgid "new Basque, Catalan and Simplified Chinese translations"
+msgstr ""
+
+#: download.html
+msgid ""
+"new Apple Mac OS X Universal Binary finally available (first since version "
+"0.7)"
+msgstr ""
+
+#: download.html
+msgid ""
+"Microsoft Windows installer and portable package reduced to around half of "
+"the size compared to version 0.10"
+msgstr ""
+
+#: download.html
+msgid "What's new in version 0.10"
+msgstr ""
+
+#: download.html
+msgid "bug fixing of almost all known bugs"
+msgstr ""
+
+#: download.html
+msgid "ERF, ERFC, GAMMA, LNGAMMA, IDIV and MOD functions"
+msgstr ""
+
+#: download.html
+msgid "math book browsable pages dock window"
+msgstr ""
+
+#: download.html
+msgid "automatic calculation of the selected text"
+msgstr ""
+
+#: download.html
+msgid "automatic syntax highlighting color generation"
+msgstr ""
+
+#: download.html
+msgid "complete support for RTL (right-to-left) written languages"
+msgstr ""
+
+#: download.html
+msgid "ability to change the language on-the-fly"
+msgstr ""
+
+#: download.html
+msgid "restore last session"
+msgstr ""
+
+#: download.html
+msgid "save and load session"
+msgstr ""
+
+#: download.html
+msgid "batch calculation"
+msgstr ""
+
+#: download.html
+msgid "full screen mode"
+msgstr ""
+
+#: download.html
+msgid "minimal view version"
+msgstr ""
+
+#: download.html
+msgid "status bar"
+msgstr ""
+
+#: download.html
+msgid "context menu for tray icon"
+msgstr ""
+
+#: download.html
+msgid "new keyboard shortcuts and redesigned menu"
+msgstr ""
+
+#: download.html
+msgid "new Turkish (incomplete) translation"
+msgstr ""
+
+#: download.html
+msgid "preliminary support of logic functions"
+msgstr ""
+
+#: download.html
+msgid "extended output of real-valued numbers to non-decimal modes"
+msgstr ""
+
+#: download.html
+msgid "allow real-valued arguments for NPR and NCR"
+msgstr ""
+
+#: download.html
+msgid "default desktop file for menu integration in Linux desktops"
+msgstr ""
+
+#: download.html
+msgid "possibility to package portable versions with no need for installation"
+msgstr ""
+
+#: download.html
+msgid ""
+"For more information, see also the complete <a href=\"features.html"
+"\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/svn/"
+"tags/0.10.1/ChangeLog\">list of changes</a>, and <a href=\"http://code."
+"google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified"
+"+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner"
+"+Summary&cells=tiles\">resolved bugs</a>."
+msgstr ""
+
+#: download.html
+msgid "System requirements"
+msgstr ""
+
+#: download.html
+msgid "Pentium-compatible processor"
+msgstr ""
+
+#: download.html
+msgid "RAM minimum 32 MB"
+msgstr ""
+
+#: download.html
+msgid "Hard disk space 16 MB"
+msgstr ""
+
+#: download.html
+msgid "Supported operating systems"
+msgstr ""
+
+#: download.html
+msgid "32- and 64-bit"
+msgstr ""
+
+#: download.html
+msgid "Development version"
+msgstr ""
+
+#: download.html
+msgid "Please go to:"
+msgstr ""
+
+#: download.html
+msgid "License"
+msgstr ""
+
+#: download.html
+msgid ""
+"SpeedCrunch is free software; you can redistribute it and/or modify it under "
+"the terms of the <a href=\"http://www.gnu.org/licenses/gpl.html\">GNU "
+"General Public License</a> as published by the <a href=\"http://www.fsf.org"
+"\">Free Software Foundation</a>; either version 2 of the License, or (at "
+"your option) any later version."
+msgstr ""
+
+#: download.html
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details."
+msgstr ""
+
+#: download.html, index.html, screenshots.html, faq.html, features.html
+msgid "Copyright"
+msgstr ""
+
+#: faq.html
+msgid "Here are some frequently asked questions (with answers):"
+msgstr ""
+
+#: faq.html
+msgid "What is <tt>ans</tt>?"
+msgstr ""
+
+#: faq.html
+msgid ""
+"<tt>ans</tt> is a special variable which always holds the last calculation "
+"result."
+msgstr ""
+
+#: faq.html
+msgid "You can use it to avoid typing the result again."
+msgstr ""
+
+#: faq.html
+msgid "For example, for finding <tt>sin(pi/3)</tt>, you can do these steps:"
+msgstr ""
+
+#: faq.html
+msgid "type <tt>pi/3</tt> and press Enter"
+msgstr ""
+
+#: faq.html
+msgid "type <tt>sin(ans)</tt> and press Enter"
+msgstr ""
+
+#: faq.html
+msgid "How do I separate function parameters?"
+msgstr ""
+
+#: faq.html
+msgid ""
+"When using functions that take more than one parameter, use semicolon ( <i>;"
+"</i> ) between all of them."
+msgstr ""
+
+#: faq.html
+msgid ""
+"For example, for finding the arithmetic mean of <tt>2</tt>, <tt>5</tt> and "
+"<tt>7</tt> just follow this:"
+msgstr ""
+
+#: faq.html
+msgid "type <tt>average(2;5;7)</tt> and press Enter"
+msgstr ""
+
+#: faq.html
+msgid "I do not like the keypad."
+msgstr ""
+
+#: faq.html
+msgid "How do I hide it?"
+msgstr ""
+
+#: faq.html
+msgid "Use menu <tt>View</tt>, <tt>Keypad</tt>."
+msgstr ""
+
+#: faq.html
+msgid ""
+"If the keypad is hidden, clicking this menu item will make it visible again."
+msgstr ""
+
+#: faq.html
+msgid "I found a bug! How can I report it?"
+msgstr ""
+
+#: faq.html
+msgid ""
+"The best way is to report the bug as a new issue in our <a href=\"http://"
+"code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
+msgstr ""
+
+#: faq.html
+msgid "Please check first that this bug has not been reported before."
+msgstr ""
+
+#: faq.html
+msgid ""
+"Do not forget to include the information about the program version (click "
+"menu <tt>Help</tt>, <tt>About</tt>) and your operating system."
+msgstr ""
+
+#: faq.html
+msgid "Help us!"
+msgstr ""
+
+#: faq.html
+msgid ""
+"If you find a bug, please report it in our <a href=\"http://code.google.com/"
+"p/speedcrunch/issues/entry\">issue tracker</a>."
+msgstr ""
+
+#: faq.html
+msgid "This will make sure that the report is not lost."
+msgstr ""
+
+#: faq.html
+msgid ""
+"We will work to make sure the bugs that you reported will be fixed in the "
+"next version."
+msgstr ""
+
+#: features.html
+msgid "At your fingertip"
+msgstr ""
+
+#: features.html
+msgid "Unlike traditional desktop calculator, SpeedCrunch is easier to use."
+msgstr ""
+
+#: features.html
+msgid ""
+"You just <em>type the expression</em> that you want to calculate and press "
+"Enter."
+msgstr ""
+
+#: features.html
+msgid ""
+"You can see clearly what you typed along with the result in the scrollable "
+"display."
+msgstr ""
+
+#: features.html
+msgid "That is faster and more convenient, isn't it?"
+msgstr ""
+
+#: features.html
+msgid ""
+"You can also paste the expression from the clipboard, that you copied from "
+"somewhere else."
+msgstr ""
+
+#: features.html
+msgid ""
+"And, you can quickly copy the last calculation result to the clipboard using "
+"Ctrl+R."
+msgstr ""
+
+#: features.html
+msgid ""
+"Before you finish, SpeedCrunch may even give already the answer (calc-as-you-"
+"type, anyone?)."
+msgstr ""
+
+#: features.html
+msgid "autocalc"
+msgstr ""
+
+#: features.html
+msgid ""
+"This allows you to &quot;fix&quot; your expression if you think it is not "
+"what you want."
+msgstr ""
+
+#: features.html
+msgid "Unlimited variables"
+msgstr ""
+
+#: features.html
+msgid "Advanced calculation sometimes needs memory feature."
+msgstr ""
+
+#: features.html
+msgid ""
+"SpeedCrunch allows <em>variables to hold calculation result</em>, e.g. <tt>x "
+"= 0.3</tt> which can be reused in <tt>y = 2*x</tt>."
+msgstr ""
+
+#: features.html
+msgid ""
+"Variables need not only a character, <tt>InterestRate</tt> is a perfect name "
+"as well."
+msgstr ""
+
+#: features.html
+msgid "And still, you can define as many variables as you want."
+msgstr ""
+
+#: features.html
+msgid ""
+"There is a special variable, <tt>ans</tt>, which <i>always</i> holds the "
+"last calculation result."
+msgstr ""
+
+#: features.html
+msgid ""
+"Another variable <tt>pi</tt> holds one of the most important constant in "
+"math world."
+msgstr ""
+
+#: features.html
+msgid "Syntax highlighting"
+msgstr ""
+
+#: features.html
+msgid "Do you close your parentheses correctly?"
+msgstr ""
+
+#: features.html
+msgid "Mistype the number?"
+msgstr ""
+
+#: features.html
+msgid ""
+"No need to worry again because SpeedCrunch can always <em>color the "
+"expression</em> according to the syntax."
+msgstr ""
+
+#: features.html
+msgid "syntax highlighting"
+msgstr ""
+
+#: features.html
+msgid "You can easily distinguish numbers from variables."
+msgstr ""
+
+#: features.html
+msgid "You can also see the matched parentheses."
+msgstr ""
+
+#: features.html
+msgid "Functions, with automatic completion"
+msgstr ""
+
+#: features.html
+msgid ""
+"Beside standard algebraic operator like + (addition), - (subtraction), * "
+"(multiplication), / (division), ^ or ** (exponentiation), there is support "
+"for some functions, for example <tt>sin</tt>, <tt>log</tt>, <tt>abs</tt>, "
+"and many more."
+msgstr ""
+
+#: features.html
+msgid ""
+"You do not need to memorize function names, use Ctrl+F to pop up a dialog "
+"where you can choose the function that you need."
+msgstr ""
+
+#: features.html
+msgid "Or take advantage of its <em>auto-completion</em>."
+msgstr ""
+
+#: features.html
+msgid "automatic completion"
+msgstr ""
+
+#: features.html
+msgid ""
+"Type the letter <tt>c</tt> only and in less than a second you will be "
+"automagically given with choices of <tt>cos</tt>, <tt>cosh</tt> or your "
+"variables whose name start with c."
+msgstr ""
+
+#: features.html
+msgid "50 decimals at your disposal"
+msgstr ""
+
+#: features.html
+msgid ""
+"With its unique calculation routines, you can get up to 50 decimals of "
+"precision."
+msgstr ""
+
+#: features.html
+msgid ""
+"Normally, all the important digits are shown, but you can also ask "
+"SpeedCrunch to round it to several digits."
+msgstr ""
+
+#: features.html
+msgid "precision"
+msgstr ""
+
+#: features.html
+msgid ""
+"When your calculation is quite complex and involving a chain of operations, "
+"this high precision ensures that you would get less rounding error in the "
+"end."
+msgstr ""
+
+#: features.html
+msgid "History repeats itself"
+msgstr ""
+
+#: features.html
+msgid ""
+"If you want to <em>recall again the expression</em> which you typed before, "
+"then press up and down arrow to access the expression history."
+msgstr ""
+
+#: features.html
+msgid ""
+"Moreover, your expression history (maximum last 100 expressions) is saved "
+"between sessions."
+msgstr ""
+
+#: features.html
+msgid ""
+"This means you can still invoke those calculations you have done yesterday "
+"or last week."
+msgstr ""
+
+#: features.html
+msgid "Smart correction"
+msgstr ""
+
+#: features.html
+msgid "Often, SpeedCrunch can still understand an incomplete expression."
+msgstr ""
+
+#: features.html
+msgid ""
+"For example, just typing <tt>sin</tt> followed by Enter - likely means "
+"taking the sine of last value - is automatically translated as <tt>sin(ans)</"
+"tt>."
+msgstr ""
+
+#: features.html
+msgid ""
+"Also, for some functions you may skip the parentheses if you pass simple "
+"number or variable, <tt>sin 0.1</tt> is as valid as <tt>sin(0.1)</tt>."
+msgstr ""
+
+#: features.html
+msgid ""
+"Speaking about parentheses, closing them can be left to SpeedCrunch, e.g. "
+"<tt>cos(pi/4</tt> is automatically corrected to <tt>cos(pi/4)</tt>."
+msgstr ""
+
+#: features.html
+msgid "Keyboard-friendly"
+msgstr ""
+
+#: features.html
+msgid "SpeedCrunch has many keyboard shortcuts to speed up your task:"
+msgstr ""
+
+#. shortcut for Previous/Next Expression
+#: features.html
+msgid "Up/Down"
+msgstr ""
+
+#: features.html
+msgid "recall last expression"
+msgstr ""
+
+#. shortcut for Insert Variable
+#: features.html
+msgid "Ctrl+I"
+msgstr ""
+
+#: features.html
+msgid "insert variable"
+msgstr ""
+
+#. shortcut for Insert Function
+#: features.html
+msgid "Ctrl+F"
+msgstr ""
+
+#: features.html
+msgid "insert function"
+msgstr ""
+
+#. shortcut for Copy Result
+#: features.html
+msgid "Ctrl+R"
+msgstr ""
+
+#: features.html
+msgid "copy last result to clipboard"
+msgstr ""
+
+#. shortcut for Save Session
+#: features.html
+msgid "Ctrl+S"
+msgstr ""
+
+#: features.html
+msgid "save current session to text file"
+msgstr ""
+
+#: features.html
+msgid "radians mode for trigonometric functions"
+msgstr ""
+
+#: features.html
+msgid "degrees mode for trigonometric functions"
+msgstr ""
+
+#: features.html
+msgid "Testimonials"
+msgstr ""
+
+#: features.html
+msgid ""
+"Wow! This little app has made my investigation. Well, it is just like saying "
+"that I went from hell to heaven. You have saved me hours and hours of long "
+"and boring statistical calculations, thank you, you are the best! I cannot "
+"wait until the next release ;) Keep up the great work!"
+msgstr ""
+
+#: features.html
+msgid ""
+"Mostly run by keyboard, SpeedCrunch is the calculator for the technical or "
+"engineer oriented professional."
+msgstr ""
+
+#: features.html
+msgid "A \"must look\" at."
+msgstr ""
+
+#: features.html
+msgid "...I found the closest calc app to what I wanted."
+msgstr ""
+
+#: features.html
+msgid ""
+"Overall, I think I’ll be using SpeedCrunch more and more for doing my "
+"mathematic evaluations. It works on Windows too, so if you’ve decided to "
+"stick with that operating system, here’s a better replacement for the "
+"included calculator, and at a great price with code you can trust that is "
+"actively being enhanced."
+msgstr ""
+
+#: index.html
+msgid "SpeedCrunch is a fast, high precision and powerful desktop calculator."
+msgstr ""
+
+#: index.html
+msgid ""
+"Available for <img src=\"../icons/tux.png\" alt=\"Linux\" style=\"vertical-"
+"align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../icons/win."
+"png\" alt=\"Windows\" style=\"vertical-align: middle; margin-right: 3px;\" /"
+"><b>Microsoft Windows</b>, and <img src=\"../icons/mac.png\" alt=\"Apple Mac "
+"OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Apple Mac "
+"OS X</b>."
+msgstr ""
+
+#: index.html
+msgid "See more screenshots!"
+msgstr ""
+
+#: index.html
+msgid "Screenshot"
+msgstr ""
+
+#: index.html
+msgid "Overview"
+msgstr ""
+
+#: index.html
+msgid "history and results on a scrollable display"
+msgstr ""
+
+#: index.html
+msgid "up to 50 decimal precisions"
+msgstr ""
+
+#: index.html
+msgid "unlimited variable storage"
+msgstr ""
+
+#: index.html
+msgid "intelligent automatic completion"
+msgstr ""
+
+#: index.html
+msgid "fully usable from the keyboard"
+msgstr ""
+
+#: index.html
+msgid "more than 50 built-in math functions"
+msgstr ""
+
+#: index.html
+msgid "optional virtual keypad to be used with a mouse"
+msgstr ""
+
+#: index.html
+msgid "on-the-fly and selection calculation"
+msgstr ""
+
+#: index.html
+msgid "customizable appearance"
+msgstr ""
+
+#: index.html
+msgid "syntax highlighting and parentheses matching"
+msgstr ""
+
+#: index.html
+msgid ""
+"<a href=\"features.html\">Learn more</a> or <a href=\"download.html"
+"\">download it now</a>"
+msgstr ""
+
+#: index.html
+msgid "It's completely <b>FREE</b>!"
+msgstr ""
+
+#: screenshots.html
+msgid "Go to home page"
+msgstr ""
+
+#: screenshots.html
+msgid "For each screenshot, click the preview to enlarge."
+msgstr ""
+
+#: screenshots.html
+msgid ""
+"All images are from version 0.10.1 running on Microsoft Windows Vista, Apple "
+"Mac OS X and KDE."
+msgstr ""
+
+#: screenshots.html
+msgid ""
+"In addition to the default appearance already visible in the home page "
+"(showing the menu bar, scrolling display, expression editor and virtual "
+"keypad), here you can see the extra visual elements at full capacity (status "
+"bar and all dock windows)."
+msgstr ""
+
+#: screenshots.html
+msgid ""
+"Finally, you can also see the application in its minimal appearance (just "
+"the scrolling display and the expression editor - even no menu bar!)."
+msgstr ""
+
+#: screenshots.html
+msgid ""
+"Check also the description of <a href=\"features.html\">many unique "
+"features</a> available only in SpeedCrunch!"
+msgstr ""
+
+#: screenshots.html
+msgid "Send your screenshot"
+msgstr ""
+
+#: screenshots.html
+msgid ""
+"Do you have a nice screenshot showing interesting features of SpeedCrunch?"
+msgstr ""
+
+#: screenshots.html
+msgid ""
+"Send it to us (<a href=\"mailto:screenshot@speedcrunch.org"
+"\">screenshot@speedcrunch.org</a>) and we'll place it here."
+msgstr ""
