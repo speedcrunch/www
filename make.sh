@@ -9,7 +9,8 @@
 # the directory defined by $DOM. It uses the Universal Template Translation    #
 # Tools (http://code.google.com/p/ut3/), as well as the msgmerge tool from the #
 # GNU Gettext project (http://www.gnu.org/software/gettext/). The bash shell   #
-# (http://www.gnu.org/software/bash/bash.html) is required to run this script. #
+# (http://www.gnu.org/software/bash/bash.html) and Python (http://python.org/) #
+# are required to run this script.                                             #
 #------------------------------------------------------------------------------#
 
 #------------------------------------------------------------------------------#
