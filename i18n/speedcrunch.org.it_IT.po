@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-10-22 17:11+0000\n"
+"POT-Creation-Date: 2008-11-25 00:14+0000\n"
 "PO-Revision-Date: 2007-11-07 00:16+0100\n"
 "Last-Translator: Alessio 'isazi' Sclocco <isazi@olografix.org>\n"
 "Language-Team: Italiano\n"
@@ -166,28 +166,8 @@ msgid "Currently SpeedCrunch is part of Debian unstable."
 msgstr "Al momento SpeedCrunch è parte di Debian unstable."
 
 #: download.html
-msgid ""
-"Unofficial ebuild is available at <a href=\"http://marcowegner.de/project/"
-"speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
+msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
 msgstr ""
-"L'ebuild non ufficiale è disponibile su <a href=\"http://marcowegner.de/"
-"project/speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
-
-#: download.html
-msgid ""
-"See also the <a href=\"http://marcowegner.de/book/howto-install-custom-"
-"ebuilds\">step-by-step instructions</a> on how to install this ebuild."
-msgstr ""
-"Leggere anche queste <a href=\"http://marcowegner.de/book/howto-install-"
-"custom-ebuilds\">istruzioni passo passo</a> su come installare questo ebuild."
-
-#: download.html
-msgid ""
-"After installation, run SpeedCrunch using the <i>K Menu, Utilities, "
-"SpeedCrunch</i>."
-msgstr ""
-"Dopo l'installazione avviare SpeedCrunch mediante <i>K Menu, Utilità, "
-"SpeedCrunch</i>."
 
 #: download.html
 msgid ""
@@ -306,7 +286,7 @@ msgstr ""
 
 #: download.html
 msgid ""
-"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.2 and "
+"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.3 and "
 "including development environment)"
 msgstr ""
 
@@ -1176,6 +1156,28 @@ msgid ""
 msgstr ""
 "Inviate i vostri (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>) e li metteremo su questa pagina."
+
+#~ msgid ""
+#~ "Unofficial ebuild is available at <a href=\"http://marcowegner.de/project/"
+#~ "speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
+#~ msgstr ""
+#~ "L'ebuild non ufficiale è disponibile su <a href=\"http://marcowegner.de/"
+#~ "project/speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
+
+#~ msgid ""
+#~ "See also the <a href=\"http://marcowegner.de/book/howto-install-custom-"
+#~ "ebuilds\">step-by-step instructions</a> on how to install this ebuild."
+#~ msgstr ""
+#~ "Leggere anche queste <a href=\"http://marcowegner.de/book/howto-install-"
+#~ "custom-ebuilds\">istruzioni passo passo</a> su come installare questo "
+#~ "ebuild."
+
+#~ msgid ""
+#~ "After installation, run SpeedCrunch using the <i>K Menu, Utilities, "
+#~ "SpeedCrunch</i>."
+#~ msgstr ""
+#~ "Dopo l'installazione avviare SpeedCrunch mediante <i>K Menu, Utilità, "
+#~ "SpeedCrunch</i>."
 
 #~ msgid "Syntax highlight"
 #~ msgstr "Evidenziatore sintattico"

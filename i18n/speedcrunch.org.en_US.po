@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-10-22 17:11+0000\n"
+"POT-Creation-Date: 2008-11-25 00:14+0000\n"
 "PO-Revision-Date: 2007-07-29 00:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: en\n"
@@ -153,21 +153,7 @@ msgid "Currently SpeedCrunch is part of Debian unstable."
 msgstr ""
 
 #: download.html
-msgid ""
-"Unofficial ebuild is available at <a href=\"http://marcowegner.de/project/"
-"speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
-msgstr ""
-
-#: download.html
-msgid ""
-"See also the <a href=\"http://marcowegner.de/book/howto-install-custom-"
-"ebuilds\">step-by-step instructions</a> on how to install this ebuild."
-msgstr ""
-
-#: download.html
-msgid ""
-"After installation, run SpeedCrunch using the <i>K Menu, Utilities, "
-"SpeedCrunch</i>."
+msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
 msgstr ""
 
 #: download.html
@@ -267,7 +253,7 @@ msgstr ""
 
 #: download.html
 msgid ""
-"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.2 and "
+"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.3 and "
 "including development environment)"
 msgstr ""
 
