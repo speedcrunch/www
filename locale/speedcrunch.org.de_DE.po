@@ -1,5 +1,6 @@
 # Translation of speedcrunch.org.po to German
 # Marco Wegner <ogre.crewman@googlemail.com>, 2007.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
@@ -1205,42 +1206,3 @@ msgstr ""
 "Dann senden Sie und das Foto doch an <a href=\"mailto:screenshot@speedcrunch."
 "org\">screenshot@speedcrunch.org</a> und wir fügen es auf dieser Seite ein."
 
-#~ msgid ""
-#~ "Unofficial ebuild is available at <a href=\"http://marcowegner.de/project/"
-#~ "speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
-#~ msgstr ""
-#~ "Ein inoffizieller Ebuild ist unter <a href=\"http://marcowegner.de/"
-#~ "project/speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a> "
-#~ "verfügbar."
-
-#~ msgid ""
-#~ "See also the <a href=\"http://marcowegner.de/book/howto-install-custom-"
-#~ "ebuilds\">step-by-step instructions</a> on how to install this ebuild."
-#~ msgstr ""
-#~ "Beachten Sie auch die <a href=\"http://marcowegner.de/book/howto-install-"
-#~ "custom-ebuilds\">Schritt-für-Schritt-Anleitung</a> zur Installation "
-#~ "dieses Ebuilds."
-
-#~ msgid ""
-#~ "After installation, run SpeedCrunch using the <i>K Menu, Utilities, "
-#~ "SpeedCrunch</i>."
-#~ msgstr ""
-#~ "Führen Sie nach der Installation <i>K-Menü, Werkzeuge, SpeedCrunch</i> "
-#~ "aus um SpeedCrunch zu starten."
-
-#~ msgid "Syntax highlight"
-#~ msgstr "Syntaxhervorhebung"
-
-#~ msgid "autocomplete"
-#~ msgstr "Autovervollständigung"
-
-#~ msgid "highlight"
-#~ msgstr "hervorheben"
-
-#~ msgid ""
-#~ "Simply customize the colors (from the <tt>Settings</tt> menu) if the "
-#~ "default don't please you."
-#~ msgstr ""
-#~ "Passen Sie die Farben einfach Ihren Bedürfnissen an (im Menü "
-#~ "<tt>Einstellungen</tt>), wenn Ihnen die Standardeinstellungen nicht "
-#~ "gefallen."

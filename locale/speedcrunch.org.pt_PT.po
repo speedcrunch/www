@@ -1,5 +1,6 @@
 # Translation of speedcrunch.org.pot to Portuguese
 # Helder Correia <helder.pereira.correia@gmail.com>, 2007-2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
@@ -1180,39 +1181,3 @@ msgstr ""
 "Envie-nos (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>) e colocá-la-emos aqui."
 
-#~ msgid ""
-#~ "Unofficial ebuild is available at <a href=\"http://marcowegner.de/project/"
-#~ "speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
-#~ msgstr ""
-#~ "ebuild não oficial disponível em <a href=\"http://marcowegner.de/project/"
-#~ "speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
-
-#~ msgid ""
-#~ "See also the <a href=\"http://marcowegner.de/book/howto-install-custom-"
-#~ "ebuilds\">step-by-step instructions</a> on how to install this ebuild."
-#~ msgstr ""
-#~ "Veja ainda as <a href=\"http://marcowegner.de/book/howto-install-custom-"
-#~ "ebuilds\">instruções passo a passo</a> sobre como instalar este ebuild."
-
-#~ msgid ""
-#~ "After installation, run SpeedCrunch using the <i>K Menu, Utilities, "
-#~ "SpeedCrunch</i>."
-#~ msgstr ""
-#~ "Após a instalação, inicie o SpeedCrunch através do menu <i>K, "
-#~ "Utilitários, SpeedCrunch</i>."
-
-#~ msgid "Syntax highlight"
-#~ msgstr "Realce de sintaxe"
-
-#~ msgid "autocomplete"
-#~ msgstr "completação automática"
-
-#~ msgid "highlight"
-#~ msgstr "realce de sintaxe"
-
-#~ msgid ""
-#~ "Simply customize the colors (from the <tt>Settings</tt> menu) if the "
-#~ "default don't please you."
-#~ msgstr ""
-#~ "Simplesmente configure as cores (no menu <tt>Preferências</tt>) se as "
-#~ "predefinidas não lhe agradam."

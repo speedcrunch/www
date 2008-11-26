@@ -1,3 +1,5 @@
+# Translation of speedcrunch.org.pot to American English
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
@@ -1000,3 +1002,4 @@ msgid ""
 "Send it to us (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>) and we'll place it here."
 msgstr ""
+

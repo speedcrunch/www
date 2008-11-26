@@ -1,12 +1,13 @@
 # Translation of speedcrunch.org.pot to Brazilian Portuguese
-# Fabio Margarido <fabiomargarido@gmail.com>, 2007.
+# Fábio Margarido <fabiomargarido@gmail.com>, 2007.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-11-25 00:14+0000\n"
 "PO-Revision-Date: 2007-11-05 17:13-0200\n"
-"Last-Translator: Fabio Margarido <fabiomargarido@gmail.com>\n"
+"Last-Translator: Fábio Margarido <fabiomargarido@gmail.com>\n"
 "Language-Team: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1161,154 +1162,3 @@ msgstr ""
 "Envie-a para nós (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>) e ela será colocada aqui."
 
-#~ msgid ""
-#~ "Unofficial ebuild is available at <a href=\"http://marcowegner.de/project/"
-#~ "speedcrunch/\">http://marcowegner.de/project/speedcrunch/</a>."
-#~ msgstr ""
-#~ "Um script ebuild não oficial está disponível em <a href=\"http://"
-#~ "marcowegner.de/project/speedcrunch/\">http://marcowegner.de/project/"
-#~ "speedcrunch/</a>."
-
-#~ msgid ""
-#~ "See also the <a href=\"http://marcowegner.de/book/howto-install-custom-"
-#~ "ebuilds\">step-by-step instructions</a> on how to install this ebuild."
-#~ msgstr ""
-#~ "Leia também as <a href=\"http://marcowegner.de/book/howto-install-custom-"
-#~ "ebuilds\">instruções passo a passo</a> de como instalar esse ebuild."
-
-#~ msgid ""
-#~ "After installation, run SpeedCrunch using the <i>K Menu, Utilities, "
-#~ "SpeedCrunch</i>."
-#~ msgstr ""
-#~ "Após a instalação, inicie a SpeedCrunch utilizando o menu <i>K, "
-#~ "Utilitários, SpeedCrunch</i>"
-
-#~ msgid "Syntax highlight"
-#~ msgstr "Destaque de sintaxe"
-
-#~ msgid "autocomplete"
-#~ msgstr "autocompletar"
-
-#~ msgid "highlight"
-#~ msgstr "destaque de sintaxe"
-
-#~ msgid ""
-#~ "Simply customize the colors (from the <tt>Settings</tt> menu) if the "
-#~ "default don't please you."
-#~ msgstr ""
-#~ "Basta personalizar as cores (pelo menu <tt>Preferências</tt>) se o padrão "
-#~ "não lhe agrada."
-
-#~ msgid "Alt+D"
-#~ msgstr "Alt+D"
-
-#~ msgid "Alt+R"
-#~ msgstr "Alt+R"
-
-#~ msgid "A <b>fast</b> and <b>usable</b> calculator for power users"
-#~ msgstr ""
-#~ "Uma calculadora <b>rápida</b> e com foco em <b>usabilidade</b> para "
-#~ "usuários avançados"
-
-#~ msgid "Few of its <a href=\"features.htm\">distinctive features</a> are:"
-#~ msgstr ""
-#~ "Algumas de suas <a href=\"features.htm\">funcionalidades de destaque</a> "
-#~ "são:"
-
-#~ msgid "And enjoy also the convenience featurelets:"
-#~ msgstr "Além das funcionalidades de conveniência:"
-
-#~ msgid "Get and install it"
-#~ msgstr "Baixe e instale"
-
-#~ msgid "Download:"
-#~ msgstr "Baixar:"
-
-#~ msgid "Download now"
-#~ msgstr "Baixe agora"
-
-#~ msgid "Mailing-list"
-#~ msgstr "Lista de discussão"
-
-#~ msgid "Result shown even before you finish"
-#~ msgstr "Resultado mostrado antes mesmo que você termine"
-
-#~ msgid "Automagic completion can help"
-#~ msgstr "Completar automaticamente sempre ajuda"
-
-#~ msgid "Exact precision up to 50 digits"
-#~ msgstr "Precisão exata de até 50 casas decimais"
-
-#~ msgid "And colorful highlight is surely fun"
-#~ msgstr "E destaque colorido certamente agradda"
-
-#~ msgid "Previous"
-#~ msgstr "Anterior"
-
-#~ msgid "Slideshow image"
-#~ msgstr "Imagem da seqüência de slides"
-
-#~ msgid "Next"
-#~ msgstr "Próxima"
-
-#~ msgid "With or Without Keypad"
-#~ msgstr "Com ou sem teclas numéricas"
-
-#~ msgid "Syntax Highlight"
-#~ msgstr "Destaque de sintaxe"
-
-#~ msgid "Aqua Calculator"
-#~ msgstr "Calculadora no estilo Aqua"
-
-#~ msgid "Initial View"
-#~ msgstr "Tela inicial"
-
-#~ msgid "Start Immediately"
-#~ msgstr "Comece imediatamente"
-
-#~ msgid "scrollable display"
-#~ msgstr "mostrador expansível"
-
-#~ msgid "full keyboard-friendly"
-#~ msgstr "totalmente usável pelo teclado"
-
-#~ msgid "Download the bundle (only 0.7 available at the moment):"
-#~ msgstr ""
-#~ "Baixe o pacote (apenas a versão 0.7 encontra-se disponível no momento):"
-
-#~ msgid "This is normally the case in most popular Linux distributions."
-#~ msgstr ""
-#~ "Nas distribuições Linux mais populares, é comum a biblioteca vir pré-"
-#~ "instalada."
-
-#~ msgid "To compile from source-code:"
-#~ msgstr "Para compilar a partir do código fonte:"
-
-#~ msgid ""
-#~ "So I started using SpeedCrunch, trying out a few moves I learned in High "
-#~ "School algebra and trig."
-#~ msgstr ""
-#~ "Então comecei a usar a SpeedCrunch, testando algumas operações de álgebra "
-#~ "e trigonometria que havia aprendido no colegial."
-
-#~ msgid "I wish I would have had this tool back then..."
-#~ msgstr "Quem me dera ter tido esta ferramenta naquela época..."
-
-#~ msgid "Just try it - it's worth."
-#~ msgstr "Apenas experimente - vale a pena."
-
-#~ msgid "Bastian and Marcel"
-#~ msgstr "Bastian e Marcel"
-
-#~ msgid ""
-#~ "a new, faster and more accurate math engine with a greatly extended "
-#~ "number range"
-#~ msgstr ""
-#~ "um motor matemático novo, mais rápido, mais preciso e com uma faixa "
-#~ "numérica suportada muito maior"
-
-#~ msgid "real-value factorials"
-#~ msgstr "fatoriais em valores reais"
-
-#~ msgid "stay always-on-top feature"
-#~ msgstr "funcionalidade de se manter sempre no topo de outras janelas"
