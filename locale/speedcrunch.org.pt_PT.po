@@ -175,7 +175,7 @@ msgstr "Actualmente, o SpeedCrunch está incluído na Debian unstable."
 
 #: download.html
 msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
-msgstr ""
+msgstr "SpeedCrunch é agora oficialmente distribuído pelo Gentoo Linux."
 
 #: download.html
 msgid ""
@@ -296,12 +296,11 @@ msgid "<a href=\"http://www.cmake.org\">CMake</a> (minimum version 2.4.4)"
 msgstr "<a href=\"http://www.cmake.org\">CMake</a> (mínimo versão 2.4.4)"
 
 #: download.html
-#, fuzzy
 msgid ""
 "<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.3 and "
 "including development environment)"
 msgstr ""
-"<a href=\"http://trolltech.com/products/qt\">Qt</a> (mínimo versão 4.2 e "
+"<a href=\"http://trolltech.com/products/qt\">Qt</a> (versão mínima 4.3 e "
 "incluindo ambiente de desenvolvimento)"
 
 #: download.html
@@ -434,7 +433,6 @@ msgstr ""
 "possibilidade de empacotar versões portáteis (sem necessidade de instalação)"
 
 #: download.html
-#, fuzzy
 msgid ""
 "For more information, see also the complete <a href=\"features.html"
 "\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/svn/"
@@ -750,7 +748,6 @@ msgstr ""
 "importantes do mundo da matemática."
 
 #: features.html
-#, fuzzy
 msgid "Syntax highlighting"
 msgstr "Realce de sintaxe"
 
@@ -771,9 +768,8 @@ msgstr ""
 "<em>colorir a expressão</em> de acordo com a sintaxe."
 
 #: features.html
-#, fuzzy
 msgid "syntax highlighting"
-msgstr "Realce de sintaxe"
+msgstr "realce de sintaxe"
 
 #: features.html
 msgid "You can easily distinguish numbers from variables."
@@ -784,7 +780,6 @@ msgid "You can also see the matched parentheses."
 msgstr "Pode também ver os parêntesis de abertura e fecho correpondentes."
 
 #: features.html
-#, fuzzy
 msgid "Functions, with automatic completion"
 msgstr "Funções, com completação automática"
 
@@ -812,9 +807,8 @@ msgid "Or take advantage of its <em>auto-completion</em>."
 msgstr "Ou tome vantagem da <em>completação automática</em>."
 
 #: features.html
-#, fuzzy
 msgid "automatic completion"
-msgstr "completação automática inteligente"
+msgstr "completação automática"
 
 #: features.html
 msgid ""
@@ -838,13 +832,12 @@ msgstr ""
 "Com rotinas únicas de cálculo, pode ter até 50 casas decimais de precisão."
 
 #: features.html
-#, fuzzy
 msgid ""
 "Normally, all the important digits are shown, but you can also ask "
 "SpeedCrunch to round it to several digits."
 msgstr ""
-"Normalmente todos os dígitos importantes são mostrados, mas pode pedir "
-"arredondamente para um determinado número de dígitos apenas."
+"Normalmente, todos os dígitos importantes são mostrados, mas pode pedir "
+"arredondamento para alguns números específicos de dígitos."
 
 #: features.html
 msgid "precision"
@@ -991,28 +984,31 @@ msgstr "Testemunhos"
 
 #: features.html
 msgid "Speedcrunch is better than a TI-83+."
-msgstr ""
+msgstr "SpeedCrunch é melhor que uma TI-83+."
 
 #: features.html
 msgid "source"
-msgstr ""
+msgstr "fonte"
 
 #: features.html
 msgid ""
 "We can conclude that this is THE most comprehensive calculator application "
 "available freely and you can hardly find anything better than this one."
 msgstr ""
+"Podemos concluir que esta é a melhor calculadora livremente disponível e "
+"dificilmente conseguirá encontrar algo melhor."
 
 #: features.html
-#, fuzzy
 msgid "SpeedCrunch is the best calculator available on Linux."
-msgstr "SpeedCrunch é a calculadora de ambiente de trabalho predefinida."
+msgstr "SpeedCrunch é a melhor calculadora disponível para Linux."
 
 #: features.html
 msgid ""
 "SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
 "powerful open-source calculator."
 msgstr ""
+"SpeedCrunch pode soar a cereais para pequeno-almoço, mas é na verdade uma "
+"calculadora livre muito poderosa."
 
 #: features.html
 msgid ""
@@ -1023,27 +1019,26 @@ msgid ""
 "actively being enhanced."
 msgstr ""
 "Em geral, penso que irei usar o SpeedCrunch cada vez mais para fazer os "
-"meuscálculos matemáticos. Também funciona em Windows, portanto se decidiu "
-"usareste sistema operativo, eis uma melhor alternativa para a calculadora "
-"incluídae a um óptimo preço, com código fonte em que pode confiar e que é "
-"activamentemantido."
+"meus cálculos matemáticos. Também funciona em Windows, portanto se decidiu "
+"usar este sistema operativo, eis uma melhor alternativa para a calculadora "
+"incluída e a um óptimo preço, com código fonte em que pode confiar e que é "
+"activamente mantido."
 
 #: features.html
 msgid ""
 "If I had had SpeedCrunch or Qalculate! during high school, finishing "
 "homework really would've been child's play."
 msgstr ""
+"Se eu tivesse o SpeedCrunch or o Qalculate! durante o liceu, teria sido "
+"canja terminar os trabalhos para casa."
 
 #: features.html
-#, fuzzy
 msgid ""
 "Wow! This little app has made my investigation. You have saved me hours and "
 "hours of long and boring statistical calculations!"
 msgstr ""
-"Uau! Este pequeno programa fez a minha investigação. Bem, é o mesmo que "
-"dizerque fui do inferno ao céu. Salvaram-me horas e horas de longos e "
-"tediososcálculos, obrigado, vocês são os melhores! Mal posso esperar até à "
-"próximaversão ;) Continuem o óptimo trabalho!"
+"Uau! Este pequeno programa fez a minha investigação. Salvaram-me horas e "
+"horas de longos e tediosos cálculos estatísticos!"
 
 #: features.html
 msgid ""
@@ -1132,7 +1127,6 @@ msgid "syntax highlighting and parentheses matching"
 msgstr "realce de sintaxe e correspondência de parêntesis"
 
 #: index.html
-#, fuzzy
 msgid ""
 "<a href=\"features.html\">Learn more</a> or <a href=\"download.html"
 "\">download it now</a>"
@@ -1181,7 +1175,6 @@ msgstr ""
 "o ecrã deslizante e o editor de expressões - nem mesmo barra de menus!)."
 
 #: screenshots.html
-#, fuzzy
 msgid ""
 "Check also the description of <a href=\"features.html\">many unique "
 "features</a> available only in SpeedCrunch!"
