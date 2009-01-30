@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-26 19:46+0000\n"
+"POT-Creation-Date: 2009-01-30 00:36+0000\n"
 "PO-Revision-Date: 2009-01-28 22:36+0300\n"
 "Last-Translator: Alexander Bushuev <avbushuev@yandex.ru>\n"
 "Language-Team: ru\n"
@@ -14,65 +14,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Bookmarks: 151,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "calculator"
 msgstr "калькулятор"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "SpeedCrunch - fast and usable calculator"
 msgstr "SpeedCrunch - быстрый и полезный калькулятор"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Home"
 msgstr "Домой"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Try it out"
 msgstr "Попробовать"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Download"
 msgstr "Загрузить"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Learn more"
 msgstr "Узнать больше"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Features"
 msgstr "Особенности"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "See it in action"
 msgstr "Увидеть в действии"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Screenshots"
 msgstr "Скриншоты"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Frequently asked questions"
 msgstr "Часто задаваемые вопросы"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "FAQ"
 msgstr "ЧаВО"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
+#, fuzzy
+msgid "Authors and contributors"
+msgstr "Другие дистрибутивы"
+
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
+msgid "Credits"
+msgstr ""
+
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Discuss with other users"
 msgstr "Обсудить с другими пользователями"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Forum"
 msgstr "Форум"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Follow the development"
 msgstr "Следить за процессом разработки"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Blog"
 msgstr "Блог"
+
+#: credits.html
+msgid "Maintainer"
+msgstr ""
+
+#: credits.html
+msgid "Authors"
+msgstr ""
+
+#: credits.html
+msgid "Based on original idea from"
+msgstr ""
+
+#: credits.html
+msgid "Special thanks to"
+msgstr ""
+
+#: credits.html
+msgid "Graphics"
+msgstr ""
+
+#: credits.html
+msgid "Thanks to"
+msgstr ""
+
+#: credits.html
+msgid "Website developers"
+msgstr ""
+
+#: credits.html
+msgid "Application and website translators"
+msgstr ""
+
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
+msgid "Copyright"
+msgstr "Права копирования"
 
 #: download.html, index.html, screenshots.html, faq.html, features.html
 msgid "icon"
@@ -87,12 +150,20 @@ msgid "Download the installer:"
 msgstr "Загрузить программу установки:"
 
 #: download.html
-msgid "To perform the installation, just click on the file to run it and then follow the step-by-step instructions."
-msgstr "Чтобы начать установку, просто нажмите на запускаемый файл и действуйте по инструкциям."
+msgid ""
+"To perform the installation, just click on the file to run it and then "
+"follow the step-by-step instructions."
+msgstr ""
+"Чтобы начать установку, просто нажмите на запускаемый файл и действуйте по "
+"инструкциям."
 
 #: download.html
-msgid "After installed, run SpeedCrunch using <i>Start</i> menu, <i>All Programs</i>, <i>SpeedCrunch</i>."
-msgstr "После установки запустите SpeedCrunch с помощью меню <i>\"Пуск\"</i> -> <i>\"Все программы\"</i> -> <i>\"SpeedCrunch\"</i>."
+msgid ""
+"After installed, run SpeedCrunch using <i>Start</i> menu, <i>All Programs</"
+"i>, <i>SpeedCrunch</i>."
+msgstr ""
+"После установки запустите SpeedCrunch с помощью меню <i>\"Пуск\"</i> -> <i>"
+"\"Все программы\"</i> -> <i>\"SpeedCrunch\"</i>."
 
 #: download.html
 msgid "NEW!"
@@ -103,36 +174,60 @@ msgid "Now you can also run SpeedCrunch without the need of installing it."
 msgstr "Теперь SpeedCrunch можно запускать без установки на компьютере."
 
 #: download.html
-msgid "So if you don't have permission to install it on your system or you want to take it everywhere with you on your pen drive, for instance, just download the archive below, extract it and click on the executable file inside the directory."
-msgstr "Таким образом, если у вас нет разрешения на установку в системе или вы хотите его везде брать с собой, к примеру, на USB-брелоке, то просто загрузите архив, указанный ниже, распакуйте его и кликните на исполняемом файле, находящемся в папке."
+msgid ""
+"So if you don't have permission to install it on your system or you want to "
+"take it everywhere with you on your pen drive, for instance, just download "
+"the archive below, extract it and click on the executable file inside the "
+"directory."
+msgstr ""
+"Таким образом, если у вас нет разрешения на установку в системе или вы "
+"хотите его везде брать с собой, к примеру, на USB-брелоке, то просто "
+"загрузите архив, указанный ниже, распакуйте его и кликните на исполняемом "
+"файле, находящемся в папке."
 
 #: download.html
 msgid "You can move the directory to any place and still run the application."
-msgstr "Если вы переместите папку в любое место, то все равно вы сможете запустить приложение."
+msgstr ""
+"Если вы переместите папку в любое место, то все равно вы сможете запустить "
+"приложение."
 
 #: download.html
 msgid "Download the bundle:"
 msgstr "Загрузить связку:"
 
 #: download.html
-msgid "This bundle is Universal Binary and should work on Mac OS X 10.3 (Panther), 10.4 (Tiger), and 10.5 (Leopard)."
-msgstr "Связка - это универсальный бинарный файл, предназначенный для работы в Mac OS X 10.3 (Panther), 10.4 (Tiger) и 10.5 (Leopard)."
+msgid ""
+"This bundle is Universal Binary and should work on Mac OS X 10.3 (Panther), "
+"10.4 (Tiger), and 10.5 (Leopard)."
+msgstr ""
+"Связка - это универсальный бинарный файл, предназначенный для работы в Mac "
+"OS X 10.3 (Panther), 10.4 (Tiger) и 10.5 (Leopard)."
 
 #: download.html
-msgid "Note that SpeedCrunch packages available from various distribution are not necessarily the latest version."
-msgstr "Внимание! Пакеты SpeedCrunch, доступные из других источников, кроме нашего сайта, не обязательно содержат последнюю версию программы."
+msgid ""
+"Note that SpeedCrunch packages available from various distribution are not "
+"necessarily the latest version."
+msgstr ""
+"Внимание! Пакеты SpeedCrunch, доступные из других источников, кроме нашего "
+"сайта, не обязательно содержат последнюю версию программы."
 
 #: download.html
 msgid "SpeedCrunch is the default desktop calculator."
 msgstr "SpeedCrunch по умолчанию - калькулятор рабочего стола."
 
 #: download.html
-msgid "If it is not available, install it using the Adept package manager (search for <i>speedcrunch</i>) or by the following terminal command:"
-msgstr "Если он не доступен на вашем компьютере, установите его с помощью менеджера пакетов Adept (ищите <i>speedcrunch</i>) или следующей команды терминала:"
+msgid ""
+"If it is not available, install it using the Adept package manager (search "
+"for <i>speedcrunch</i>) or by the following terminal command:"
+msgstr ""
+"Если он не доступен на вашем компьютере, установите его с помощью менеджера "
+"пакетов Adept (ищите <i>speedcrunch</i>) или следующей команды терминала:"
 
 #: download.html
 msgid "Run SpeedCrunch using the <i>K Menu, Utilities, Calculator</i>."
-msgstr "Запустите SpeedCrunch с помощью <i>\"K Menu\" -> \"Утилиты\" -> \"Калькулятор\"</i>."
+msgstr ""
+"Запустите SpeedCrunch с помощью <i>\"K Menu\" -> \"Утилиты\" -> \"Калькулятор"
+"\"</i>."
 
 #: download.html
 msgid "Install it using the command:"
@@ -140,51 +235,92 @@ msgstr "Установите с помощью команды:"
 
 #: download.html
 msgid "Currently SpeedCrunch is part of Debian unstable."
-msgstr "В настоящее время SpeedCrunch является частью \"нестабильного\" дистрибутива Debian."
+msgstr ""
+"В настоящее время SpeedCrunch является частью \"нестабильного\" дистрибутива "
+"Debian."
 
 #: download.html
 msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
 msgstr "SpeedCrunch официально включен в дистрибутив Gentoo Linux."
 
 #: download.html
-msgid "SpeedCrunch is part of Fedora Extras and is provided by the package named <i>speedcrunch</i>."
-msgstr "SpeedCrunch является частью Fedora Extras и доступен из пакета <i>speedcrunch</i>."
+msgid ""
+"SpeedCrunch is part of Fedora Extras and is provided by the package named "
+"<i>speedcrunch</i>."
+msgstr ""
+"SpeedCrunch является частью Fedora Extras и доступен из пакета "
+"<i>speedcrunch</i>."
 
 #: download.html
-msgid "It can be installed using the graphical software management Pirut or by the following terminal command:"
-msgstr "Его можно установить с помощью графического управления приложениями Pirut или следующей команды терминала"
+msgid ""
+"It can be installed using the graphical software management Pirut or by the "
+"following terminal command:"
+msgstr ""
+"Его можно установить с помощью графического управления приложениями Pirut "
+"или следующей команды терминала"
 
 #: download.html
-msgid "SpeedCrunch is available from <a href=\"http://en.opensuse.org/Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground repository</a>."
-msgstr "SpeedCrunch доступен из <a href=\"http://en.opensuse.org/Additional_YaST_Package_Repositories#KDE_Playground\">репозитория KDE Playground</a>"
+msgid ""
+"SpeedCrunch is available from <a href=\"http://en.opensuse.org/"
+"Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
+"repository</a>."
+msgstr ""
+"SpeedCrunch доступен из <a href=\"http://en.opensuse.org/"
+"Additional_YaST_Package_Repositories#KDE_Playground\">репозитория KDE "
+"Playground</a>"
 
 #: download.html
-msgid "After adding this repository to YaST (see <a href=\"http://en.opensuse.org/Add_Package_Repositories_to_YaST\">the instructions</a>), SpeedCrunch can be installed using YaST Software Management module or by the following command:"
-msgstr "После добавления этого репозитория в YaST (см. <a href=\"http://en.opensuse.org/Add_Package_Repositories_to_YaST\">инструкции</a>), SpeedCrunch можно установить с помощью модуля управления приложениями YaST или следующей команды терминала:"
+msgid ""
+"After adding this repository to YaST (see <a href=\"http://en.opensuse.org/"
+"Add_Package_Repositories_to_YaST\">the instructions</a>), SpeedCrunch can be "
+"installed using YaST Software Management module or by the following command:"
+msgstr ""
+"После добавления этого репозитория в YaST (см. <a href=\"http://en.opensuse."
+"org/Add_Package_Repositories_to_YaST\">инструкции</a>), SpeedCrunch можно "
+"установить с помощью модуля управления приложениями YaST или следующей "
+"команды терминала:"
 
 #: download.html
-msgid "After installation, run SpeedCrunch using the <i>SUSE Menu, Applications, Utilities, Calculator, SpeedCrunch</i>."
-msgstr "После установки запустите SpeedCrunch с помощью <i>\"Меню SUSE\" -> \"Программы\" -> \"Утилиты\" -> \"Калькулятор\" -> \"SpeedCrunch\"</i>."
+msgid ""
+"After installation, run SpeedCrunch using the <i>SUSE Menu, Applications, "
+"Utilities, Calculator, SpeedCrunch</i>."
+msgstr ""
+"После установки запустите SpeedCrunch с помощью <i>\"Меню SUSE\" -> "
+"\"Программы\" -> \"Утилиты\" -> \"Калькулятор\" -> \"SpeedCrunch\"</i>."
 
 #: download.html
 msgid "Other distributions"
 msgstr "Другие дистрибутивы"
 
 #: download.html
-msgid "For other Linux distributions, you can install SpeedCrunch by compiling it from source code."
-msgstr "Для других дистрибутивов Linux SpeedCrunch можно установить, компилируя его из исходного кода."
+msgid ""
+"For other Linux distributions, you can install SpeedCrunch by compiling it "
+"from source code."
+msgstr ""
+"Для других дистрибутивов Linux SpeedCrunch можно установить, компилируя его "
+"из исходного кода."
 
 #: download.html
 msgid "See the instructions below."
 msgstr "Инструкции см. ниже."
 
 #: download.html
-msgid "Or try to get SpeedCrunch from <a href=\"http://speedcrunch.klik.atekon.de/\">speedcrunch.klik.atekon.de</a>."
-msgstr "Или попробуйте закачать SpeedCrunch с сайта <a href=\"http://speedcrunch.klik.atekon.de/\">speedcrunch.klik.atekon.de</a>."
+msgid ""
+"Or try to get SpeedCrunch from <a href=\"http://speedcrunch.klik.atekon.de/"
+"\">speedcrunch.klik.atekon.de</a>."
+msgstr ""
+"Или попробуйте закачать SpeedCrunch с сайта <a href=\"http://speedcrunch."
+"klik.atekon.de/\">speedcrunch.klik.atekon.de</a>."
 
 #: download.html
-msgid "It does not require <a href=\"http://klik.atekon.de/wiki/index.php/What_is_klik\">any installation</a> and so far has been <a href=\"http://speedcrunch.klik.atekon.de/comments/\">reported</a> to work under:"
-msgstr "Ему не требуется <a href=\"http://klik.atekon.de/wiki/index.php/What_is_klik\">установка</a> и может <a href=\"http://speedcrunch.klik.atekon.de/comments/\">работать</a> под:"
+msgid ""
+"It does not require <a href=\"http://klik.atekon.de/wiki/index.php/"
+"What_is_klik\">any installation</a> and so far has been <a href=\"http://"
+"speedcrunch.klik.atekon.de/comments/\">reported</a> to work under:"
+msgstr ""
+"Ему не требуется <a href=\"http://klik.atekon.de/wiki/index.php/What_is_klik"
+"\">установка</a> и может <a href=\"http://speedcrunch.klik.atekon.de/"
+"comments/\">работать</a> под:"
 
 #: download.html
 msgid "Source code"
@@ -203,12 +339,20 @@ msgid "Extract the package to a temporary directory"
 msgstr "Распакуйте архив во временную директорию"
 
 #: download.html
-msgid "Run <tt>cmake .</tt> from the <tt>src</tt> subfolder, followed by <tt>make</tt>"
-msgstr "Запустите <tt>cmake .</tt> из поддиректории <tt>src</tt>, затем - <tt>make</tt>"
+msgid ""
+"Run <tt>cmake .</tt> from the <tt>src</tt> subfolder, followed by <tt>make</"
+"tt>"
+msgstr ""
+"Запустите <tt>cmake .</tt> из поддиректории <tt>src</tt>, затем - <tt>make</"
+"tt>"
 
 #: download.html
-msgid "To install it, run <tt>make install</tt> (might need administation privileges)"
-msgstr "Чтобы установить программу, запустите <tt>make install</tt> (могут потребоваться права администратора)"
+msgid ""
+"To install it, run <tt>make install</tt> (might need administation "
+"privileges)"
+msgstr ""
+"Чтобы установить программу, запустите <tt>make install</tt> (могут "
+"потребоваться права администратора)"
 
 #: download.html
 msgid "NOTE: the following tools and libraries are required:"
@@ -216,11 +360,16 @@ msgstr "ВНИМАНИЕ! Необходимы следующие инструм
 
 #: download.html
 msgid "<a href=\"http://www.cmake.org\">CMake</a> (minimum version 2.4.4)"
-msgstr "<a href=\"http://www.cmake.org\">CMake</a> (минимальная версия - 2.4.4)"
+msgstr ""
+"<a href=\"http://www.cmake.org\">CMake</a> (минимальная версия - 2.4.4)"
 
 #: download.html
-msgid "<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.3 and including development environment)"
-msgstr "<a href=\"http://trolltech.com/products/qt\">Qt</a> (минимальная версия - 4.3, включающая IDE (среду разработки))"
+msgid ""
+"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.3 and "
+"including development environment)"
+msgstr ""
+"<a href=\"http://trolltech.com/products/qt\">Qt</a> (минимальная версия - "
+"4.3, включающая IDE (среду разработки))"
 
 #: download.html
 msgid "Main changes in version 0.10.1"
@@ -235,20 +384,33 @@ msgid "fixed potential crashes"
 msgstr "исправлены возможные крахи программы"
 
 #: download.html
-msgid "fixed back and forward buttons that have the opposite meaning in RTL languages like Hebrew"
-msgstr "исправлены кнопки \"назад\" и \"вперед\", имеющие противоположное значение в языках с написанием справа-налево, наподобие иврита"
+msgid ""
+"fixed back and forward buttons that have the opposite meaning in RTL "
+"languages like Hebrew"
+msgstr ""
+"исправлены кнопки \"назад\" и \"вперед\", имеющие противоположное значение в "
+"языках с написанием справа-налево, наподобие иврита"
 
 #: download.html
 msgid "new Basque, Catalan and Simplified Chinese translations"
-msgstr "новые переводы с баскского, каталонского и упрощенного китайского языков"
+msgstr ""
+"новые переводы с баскского, каталонского и упрощенного китайского языков"
 
 #: download.html
-msgid "new Apple Mac OS X Universal Binary finally available (first since version 0.7)"
-msgstr "наконец-то доступен новый универсальный бинарник для Mac OS X (первый после версии 0.7)"
+msgid ""
+"new Apple Mac OS X Universal Binary finally available (first since version "
+"0.7)"
+msgstr ""
+"наконец-то доступен новый универсальный бинарник для Mac OS X (первый после "
+"версии 0.7)"
 
 #: download.html
-msgid "Microsoft Windows installer and portable package reduced to around half of the size compared to version 0.10"
-msgstr "Установщик для Microsoft Windows и портативный пакет уменьшены примерно вполовину по сравнению с версией 0.10"
+msgid ""
+"Microsoft Windows installer and portable package reduced to around half of "
+"the size compared to version 0.10"
+msgstr ""
+"Установщик для Microsoft Windows и портативный пакет уменьшены примерно "
+"вполовину по сравнению с версией 0.10"
 
 #: download.html
 msgid "What's new in version 0.10"
@@ -324,23 +486,39 @@ msgstr "первоначальная поддержка логических ф�
 
 #: download.html
 msgid "extended output of real-valued numbers to non-decimal modes"
-msgstr "расширенный вывод действительных (вещественных) чисел в недесятичных режимах"
+msgstr ""
+"расширенный вывод действительных (вещественных) чисел в недесятичных режимах"
 
 #: download.html
 msgid "allow real-valued arguments for NPR and NCR"
-msgstr "позволяет иметь действительные (вещественные) аргументы для функций NPR и NCR"
+msgstr ""
+"позволяет иметь действительные (вещественные) аргументы для функций NPR и NCR"
 
 #: download.html
 msgid "default desktop file for menu integration in Linux desktops"
-msgstr "стандартный файл рабочего стола для интеграции в меню в десктопных версиях Linux"
+msgstr ""
+"стандартный файл рабочего стола для интеграции в меню в десктопных версиях "
+"Linux"
 
 #: download.html
 msgid "possibility to package portable versions with no need for installation"
 msgstr "возможность создавать портативные версии, не нуждающиеся в установке"
 
 #: download.html
-msgid "For more information, see also the complete <a href=\"features.html\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/svn/tags/0.10.1/ChangeLog\">list of changes</a>, and <a href=\"http://code.google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles\">resolved bugs</a>."
-msgstr "Для получения большей информации см. также полные: <a href=\"features.html\">описание функций</a>, <a href=\"http://speedcrunch.googlecode.com/svn/tags/0.10.1/ChangeLog\">список изменений</a> и <a href=\"http://code.google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles\">решенных проблем</a>."
+msgid ""
+"For more information, see also the complete <a href=\"features.html"
+"\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/svn/"
+"tags/0.10.1/ChangeLog\">list of changes</a>, and <a href=\"http://code."
+"google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified"
+"+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner"
+"+Summary&cells=tiles\">resolved bugs</a>."
+msgstr ""
+"Для получения большей информации см. также полные: <a href=\"features.html"
+"\">описание функций</a>, <a href=\"http://speedcrunch.googlecode.com/svn/"
+"tags/0.10.1/ChangeLog\">список изменений</a> и <a href=\"http://code.google."
+"com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified+milestone%"
+"3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles"
+"\">решенных проблем</a>."
 
 #: download.html
 msgid "System requirements"
@@ -379,16 +557,30 @@ msgid "License"
 msgstr "Лицензия"
 
 #: download.html
-msgid "SpeedCrunch is free software; you can redistribute it and/or modify it under the terms of the <a href=\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</a> as published by the <a href=\"http://www.fsf.org\">Free Software Foundation</a>; either version 2 of the License, or (at your option) any later version."
-msgstr "SpeedCrunch - свободная программа; вы можете ее распространять и/или модифицировать по условиям <a href=\"http://www.gnu.org/licenses/gpl.html\">Общедоступной Лицензии GNU</a>, опубликованной <a href=\"http://www.fsf.org\">Фондом Свободного ПО</a>, согласно второй версии этой Лицензии либо любой более поздней версии, подходящей для Вашего случая."
+msgid ""
+"SpeedCrunch is free software; you can redistribute it and/or modify it under "
+"the terms of the <a href=\"http://www.gnu.org/licenses/gpl.html\">GNU "
+"General Public License</a> as published by the <a href=\"http://www.fsf.org"
+"\">Free Software Foundation</a>; either version 2 of the License, or (at "
+"your option) any later version."
+msgstr ""
+"SpeedCrunch - свободная программа; вы можете ее распространять и/или "
+"модифицировать по условиям <a href=\"http://www.gnu.org/licenses/gpl.html"
+"\">Общедоступной Лицензии GNU</a>, опубликованной <a href=\"http://www.fsf."
+"org\">Фондом Свободного ПО</a>, согласно второй версии этой Лицензии либо "
+"любой более поздней версии, подходящей для Вашего случая."
 
 #: download.html
-msgid "This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details."
-msgstr "Эта программа распространяется в надежде, что будет полезной, но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, даже без подразумеваемой гарантии ВОЗМОЖНОСТИ ПРОДАЖИ или ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННЫХ ЦЕЛЕЙ. Для дополнительной информации см. Общедоступную Лицензию GNU."
-
-#: download.html, index.html, screenshots.html, faq.html, features.html
-msgid "Copyright"
-msgstr "Права копирования"
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details."
+msgstr ""
+"Эта программа распространяется в надежде, что будет полезной, но БЕЗ КАКИХ-"
+"ЛИБО ГАРАНТИЙ, даже без подразумеваемой гарантии ВОЗМОЖНОСТИ ПРОДАЖИ или "
+"ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННЫХ ЦЕЛЕЙ. Для дополнительной информации см. "
+"Общедоступную Лицензию GNU."
 
 #: faq.html
 msgid "Here are some frequently asked questions (with answers):"
@@ -399,12 +591,17 @@ msgid "What is <tt>ans</tt>?"
 msgstr "Что такое <tt>ans</tt>?"
 
 #: faq.html
-msgid "<tt>ans</tt> is a special variable which always holds the last calculation result."
-msgstr "<tt>ans</tt> - это специальная переменная, в которой всегда содержится результат последних вычислений."
+msgid ""
+"<tt>ans</tt> is a special variable which always holds the last calculation "
+"result."
+msgstr ""
+"<tt>ans</tt> - это специальная переменная, в которой всегда содержится "
+"результат последних вычислений."
 
 #: faq.html
 msgid "You can use it to avoid typing the result again."
-msgstr "Она используется для того, чтобы вновь не приходилось набирать результат."
+msgstr ""
+"Она используется для того, чтобы вновь не приходилось набирать результат."
 
 #: faq.html
 msgid "For example, for finding <tt>sin(pi/3)</tt>, you can do these steps:"
@@ -423,12 +620,20 @@ msgid "How do I separate function parameters?"
 msgstr "Как разделить параметры функции?"
 
 #: faq.html
-msgid "When using functions that take more than one parameter, use semicolon ( <i>;</i> ) between all of them."
-msgstr "Когда функция использует более одного параметра, устанавливайте между каждым из них точку с запятой ( <i>;</i> )."
+msgid ""
+"When using functions that take more than one parameter, use semicolon ( <i>;"
+"</i> ) between all of them."
+msgstr ""
+"Когда функция использует более одного параметра, устанавливайте между каждым "
+"из них точку с запятой ( <i>;</i> )."
 
 #: faq.html
-msgid "For example, for finding the arithmetic mean of <tt>2</tt>, <tt>5</tt> and <tt>7</tt> just follow this:"
-msgstr "Например, для нахождения среднего арифметического чисел <tt>2</tt>, <tt>5</tt> и <tt>7</tt> просто сделайте следующее:"
+msgid ""
+"For example, for finding the arithmetic mean of <tt>2</tt>, <tt>5</tt> and "
+"<tt>7</tt> just follow this:"
+msgstr ""
+"Например, для нахождения среднего арифметического чисел <tt>2</tt>, <tt>5</"
+"tt> и <tt>7</tt> просто сделайте следующее:"
 
 #: faq.html
 msgid "type <tt>average(2;5;7)</tt> and press Enter"
@@ -447,40 +652,62 @@ msgid "Use menu <tt>View</tt>, <tt>Keypad</tt>."
 msgstr "Используйте меню <tt>Вид</tt>, <tt>Клавиатура</tt>."
 
 #: faq.html
-msgid "If the keypad is hidden, clicking this menu item will make it visible again."
-msgstr "Если клавиатура скрыта, то нажатием на этот пункт меню можно вновь сделать ее видимой."
+msgid ""
+"If the keypad is hidden, clicking this menu item will make it visible again."
+msgstr ""
+"Если клавиатура скрыта, то нажатием на этот пункт меню можно вновь сделать "
+"ее видимой."
 
 #: faq.html
 msgid "I found a bug! How can I report it?"
 msgstr "Я нашел ошибку! Как я могу сообщить о ней?"
 
 #: faq.html
-msgid "The best way is to report the bug as a new issue in our <a href=\"http://code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
-msgstr "Самый лучший способ сообщить об ошибке - создать новое сообщение <a href=\"http://code.google.com/p/speedcrunch/issues/entry\">в нашей системе отслеживания ошибок</a>."
+msgid ""
+"The best way is to report the bug as a new issue in our <a href=\"http://"
+"code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
+msgstr ""
+"Самый лучший способ сообщить об ошибке - создать новое сообщение <a href="
+"\"http://code.google.com/p/speedcrunch/issues/entry\">в нашей системе "
+"отслеживания ошибок</a>."
 
 #: faq.html
 msgid "Please check first that this bug has not been reported before."
-msgstr "Пожалуйста, сначала проверьте, было ли перед этим сообщение о такой же ошибке."
+msgstr ""
+"Пожалуйста, сначала проверьте, было ли перед этим сообщение о такой же "
+"ошибке."
 
 #: faq.html
-msgid "Do not forget to include the information about the program version (click menu <tt>Help</tt>, <tt>About</tt>) and your operating system."
-msgstr "Не забудьте включить информацию о версии программы (нажмите меню <tt>Справка</tt>, <tt>О программе</tt>) и о версии операционной системы."
+msgid ""
+"Do not forget to include the information about the program version (click "
+"menu <tt>Help</tt>, <tt>About</tt>) and your operating system."
+msgstr ""
+"Не забудьте включить информацию о версии программы (нажмите меню "
+"<tt>Справка</tt>, <tt>О программе</tt>) и о версии операционной системы."
 
 #: faq.html
 msgid "Help us!"
 msgstr "Помогите нам!"
 
 #: faq.html
-msgid "If you find a bug, please report it in our <a href=\"http://code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
-msgstr "Если вы нашли ошибку, пожалуйста, сообщите нам с помощью <a href=\"http://code.google.com/p/speedcrunch/issues/entry\">системы отслеживания ошибок</a>."
+msgid ""
+"If you find a bug, please report it in our <a href=\"http://code.google.com/"
+"p/speedcrunch/issues/entry\">issue tracker</a>."
+msgstr ""
+"Если вы нашли ошибку, пожалуйста, сообщите нам с помощью <a href=\"http://"
+"code.google.com/p/speedcrunch/issues/entry\">системы отслеживания ошибок</a>."
 
 #: faq.html
 msgid "This will make sure that the report is not lost."
 msgstr "Это поможет не потерять данное сообщение."
 
 #: faq.html
-msgid "We will work to make sure the bugs that you reported will be fixed in the next version."
-msgstr "Мы будем работать, чтобы в следующей версии исправить те ошибки, о которых вы сообщили нам."
+msgid ""
+"We will work to make sure the bugs that you reported will be fixed in the "
+"next version."
+msgstr ""
+"Мы будем работать, чтобы в следующей версии исправить те ошибки, о которых "
+"вы сообщили нам."
 
 #: features.html
 msgid "At your fingertip"
@@ -488,39 +715,66 @@ msgstr "У вас под рукой"
 
 #: features.html
 msgid "Unlike traditional desktop calculator, SpeedCrunch is easier to use."
-msgstr "По сравнению с традиционными настольными калькуляторами SpeedCrunch намного проще в использовании."
+msgstr ""
+"По сравнению с традиционными настольными калькуляторами SpeedCrunch намного "
+"проще в использовании."
 
 #: features.html
-msgid "You just <em>type the expression</em> that you want to calculate and press Enter."
-msgstr "Просто <em>наберите выражение</em>, значение которого нужно вычислить, и нажмите Enter."
+msgid ""
+"You just <em>type the expression</em> that you want to calculate and press "
+"Enter."
+msgstr ""
+"Просто <em>наберите выражение</em>, значение которого нужно вычислить, и "
+"нажмите Enter."
 
 #: features.html
-msgid "You can see clearly what you typed along with the result in the scrollable display."
-msgstr "Можно четко увидеть, что было набрано в процессе работы, с результатом в окне с прокруткой."
+msgid ""
+"You can see clearly what you typed along with the result in the scrollable "
+"display."
+msgstr ""
+"Можно четко увидеть, что было набрано в процессе работы, с результатом в "
+"окне с прокруткой."
 
 #: features.html
 msgid "That is faster and more convenient, isn't it?"
 msgstr "Он быстрее и намного удобнее, не так ли?"
 
 #: features.html
-msgid "You can also paste the expression from the clipboard, that you copied from somewhere else."
-msgstr "Можно также вставить выражение из буфера обмена, которое было скопировано в какой-либо другой программе."
+msgid ""
+"You can also paste the expression from the clipboard, that you copied from "
+"somewhere else."
+msgstr ""
+"Можно также вставить выражение из буфера обмена, которое было скопировано в "
+"какой-либо другой программе."
 
 #: features.html
-msgid "And, you can quickly copy the last calculation result to the clipboard using Ctrl+R."
-msgstr "Можно быстро скопировать в буфер обмена результат последнего вычисления с помощью Ctrl+R."
+msgid ""
+"And, you can quickly copy the last calculation result to the clipboard using "
+"Ctrl+R."
+msgstr ""
+"Можно быстро скопировать в буфер обмена результат последнего вычисления с "
+"помощью Ctrl+R."
 
 #: features.html
-msgid "Before you finish, SpeedCrunch may even give already the answer (calc-as-you-type, anyone?)."
-msgstr "Прежде, чем вы закончите, SpeedCrunch может уже сразу дать результат вычисления (расчеты-по-мере-набора, есть ли еще какая-либо программа, у которой это реализовано?)"
+msgid ""
+"Before you finish, SpeedCrunch may even give already the answer (calc-as-you-"
+"type, anyone?)."
+msgstr ""
+"Прежде, чем вы закончите, SpeedCrunch может уже сразу дать результат "
+"вычисления (расчеты-по-мере-набора, есть ли еще какая-либо программа, у "
+"которой это реализовано?)"
 
 #: features.html
 msgid "autocalc"
 msgstr "автоподсчет"
 
 #: features.html
-msgid "This allows you to &quot;fix&quot; your expression if you think it is not what you want."
-msgstr "Это позволяет вам &quot;исправлять&quot; выражения, если вы считаете, что в них что-то неправильно."
+msgid ""
+"This allows you to &quot;fix&quot; your expression if you think it is not "
+"what you want."
+msgstr ""
+"Это позволяет вам &quot;исправлять&quot; выражения, если вы считаете, что в "
+"них что-то неправильно."
 
 #: features.html
 msgid "Unlimited variables"
@@ -531,24 +785,42 @@ msgid "Advanced calculation sometimes needs memory feature."
 msgstr "Мощные вычисления иногда требуют больше памяти, чем обычно."
 
 #: features.html
-msgid "SpeedCrunch allows <em>variables to hold calculation result</em>, e.g. <tt>x = 0.3</tt> which can be reused in <tt>y = 2*x</tt>."
-msgstr "SpeedCrunch позволяет <em>сохранять результат вычислений в переменных</em>, например, <tt>x = 0.3</tt>, которую затем можно использовать в выражении <tt>y = 2*x</tt>."
+msgid ""
+"SpeedCrunch allows <em>variables to hold calculation result</em>, e.g. <tt>x "
+"= 0.3</tt> which can be reused in <tt>y = 2*x</tt>."
+msgstr ""
+"SpeedCrunch позволяет <em>сохранять результат вычислений в переменных</em>, "
+"например, <tt>x = 0.3</tt>, которую затем можно использовать в выражении "
+"<tt>y = 2*x</tt>."
 
 #: features.html
-msgid "Variables need not only a character, <tt>InterestRate</tt> is a perfect name as well."
-msgstr "Имена переменных могут состоять не только из одной буквы, <tt>InterestRate</tt>, наверно, более совершенное имя."
+msgid ""
+"Variables need not only a character, <tt>InterestRate</tt> is a perfect name "
+"as well."
+msgstr ""
+"Имена переменных могут состоять не только из одной буквы, <tt>InterestRate</"
+"tt>, наверно, более совершенное имя."
 
 #: features.html
 msgid "And still, you can define as many variables as you want."
-msgstr "И, по-прежнему, вы можете задавать столько переменных, сколько вам надо."
+msgstr ""
+"И, по-прежнему, вы можете задавать столько переменных, сколько вам надо."
 
 #: features.html
-msgid "There is a special variable, <tt>ans</tt>, which <i>always</i> holds the last calculation result."
-msgstr "Существует специальная переменная - <tt>ans</tt>,- которая <i>всегда</i> сохраняет результат последних вычислений."
+msgid ""
+"There is a special variable, <tt>ans</tt>, which <i>always</i> holds the "
+"last calculation result."
+msgstr ""
+"Существует специальная переменная - <tt>ans</tt>,- которая <i>всегда</i> "
+"сохраняет результат последних вычислений."
 
 #: features.html
-msgid "Another variable <tt>pi</tt> holds one of the most important constant in math world."
-msgstr "Другая переменная - <tt>pi</tt> - сохраняет в себе одну из самых важных констант в математическом мире."
+msgid ""
+"Another variable <tt>pi</tt> holds one of the most important constant in "
+"math world."
+msgstr ""
+"Другая переменная - <tt>pi</tt> - сохраняет в себе одну из самых важных "
+"констант в математическом мире."
 
 #: features.html
 msgid "Syntax highlighting"
@@ -563,8 +835,12 @@ msgid "Mistype the number?"
 msgstr "Пропустили число?"
 
 #: features.html
-msgid "No need to worry again because SpeedCrunch can always <em>color the expression</em> according to the syntax."
-msgstr "Больше нет необходимости волноваться, т.к. SpeedCrunch всегда <em>выделяет выражение цветом</em> в соответствии с синтаксисом."
+msgid ""
+"No need to worry again because SpeedCrunch can always <em>color the "
+"expression</em> according to the syntax."
+msgstr ""
+"Больше нет необходимости волноваться, т.к. SpeedCrunch всегда <em>выделяет "
+"выражение цветом</em> в соответствии с синтаксисом."
 
 #: features.html
 msgid "syntax highlighting"
@@ -583,12 +859,24 @@ msgid "Functions, with automatic completion"
 msgstr "Функции с автозавершением"
 
 #: features.html
-msgid "Beside standard algebraic operator like + (addition), - (subtraction), * (multiplication), / (division), ^ or ** (exponentiation), there is support for some functions, for example <tt>sin</tt>, <tt>log</tt>, <tt>abs</tt>, and many more."
-msgstr "Кроме стандартных алгебраических операторов типа + (сложение), - (вычитание), * (умножение), / (деление), ^ или ** (возведение в степень), поддерживаются некоторые функции, например, <tt>sin</tt>, <tt>log</tt>, <tt>abs</tt> и многие другие."
+msgid ""
+"Beside standard algebraic operator like + (addition), - (subtraction), * "
+"(multiplication), / (division), ^ or ** (exponentiation), there is support "
+"for some functions, for example <tt>sin</tt>, <tt>log</tt>, <tt>abs</tt>, "
+"and many more."
+msgstr ""
+"Кроме стандартных алгебраических операторов типа + (сложение), - "
+"(вычитание), * (умножение), / (деление), ^ или ** (возведение в степень), "
+"поддерживаются некоторые функции, например, <tt>sin</tt>, <tt>log</tt>, "
+"<tt>abs</tt> и многие другие."
 
 #: features.html
-msgid "You do not need to memorize function names, use Ctrl+F to pop up a dialog where you can choose the function that you need."
-msgstr "Нет необходимости запоминать названия функций, используйте Ctrl+F, чтобы появилось диалоговое окно, в котором можно выбрать нужную функцию."
+msgid ""
+"You do not need to memorize function names, use Ctrl+F to pop up a dialog "
+"where you can choose the function that you need."
+msgstr ""
+"Нет необходимости запоминать названия функций, используйте Ctrl+F, чтобы "
+"появилось диалоговое окно, в котором можно выбрать нужную функцию."
 
 #: features.html
 msgid "Or take advantage of its <em>auto-completion</em>."
@@ -599,44 +887,77 @@ msgid "automatic completion"
 msgstr "автозавершение"
 
 #: features.html
-msgid "Type the letter <tt>c</tt> only and in less than a second you will be automagically given with choices of <tt>cos</tt>, <tt>cosh</tt> or your variables whose name start with c."
-msgstr "Наберите только одну букву <tt>c</tt>, и меньше, чем за одну секунду вам автоматически будет предложен выбор из функций <tt>cos</tt>, <tt>cosh</tt> или переменных, начинающихся с буквы \"c\"."
+msgid ""
+"Type the letter <tt>c</tt> only and in less than a second you will be "
+"automagically given with choices of <tt>cos</tt>, <tt>cosh</tt> or your "
+"variables whose name start with c."
+msgstr ""
+"Наберите только одну букву <tt>c</tt>, и меньше, чем за одну секунду вам "
+"автоматически будет предложен выбор из функций <tt>cos</tt>, <tt>cosh</tt> "
+"или переменных, начинающихся с буквы \"c\"."
 
 #: features.html
 msgid "50 decimals at your disposal"
 msgstr "точность в 50 знаков на ваш выбор"
 
 #: features.html
-msgid "With its unique calculation routines, you can get up to 50 decimals of precision."
-msgstr "С его уникальными вычислительными возможностями можно достичь точности до 50 знаков."
+msgid ""
+"With its unique calculation routines, you can get up to 50 decimals of "
+"precision."
+msgstr ""
+"С его уникальными вычислительными возможностями можно достичь точности до 50 "
+"знаков."
 
 #: features.html
-msgid "Normally, all the important digits are shown, but you can also ask SpeedCrunch to round it to several digits."
-msgstr "Обычно отображаются все важные цифры, но можно также дать указание SpeedCrunch округлить их до нескольких цифр."
+msgid ""
+"Normally, all the important digits are shown, but you can also ask "
+"SpeedCrunch to round it to several digits."
+msgstr ""
+"Обычно отображаются все важные цифры, но можно также дать указание "
+"SpeedCrunch округлить их до нескольких цифр."
 
 #: features.html
 msgid "precision"
 msgstr "точность"
 
 #: features.html
-msgid "When your calculation is quite complex and involving a chain of operations, this high precision ensures that you would get less rounding error in the end."
-msgstr "Когда ваши вычисления - достаточно сложные, и содержат в себе цепочку операций, высокая точность дает гарантию, что у вас в конце будет меньше погрешностей при округлении."
+msgid ""
+"When your calculation is quite complex and involving a chain of operations, "
+"this high precision ensures that you would get less rounding error in the "
+"end."
+msgstr ""
+"Когда ваши вычисления - достаточно сложные, и содержат в себе цепочку "
+"операций, высокая точность дает гарантию, что у вас в конце будет меньше "
+"погрешностей при округлении."
 
 #: features.html
 msgid "History repeats itself"
 msgstr "Журнал повторяет сам себя"
 
 #: features.html
-msgid "If you want to <em>recall again the expression</em> which you typed before, then press up and down arrow to access the expression history."
-msgstr "Если вы хотите <em>повторно вызвать выражение</em>, которое вы перед этим набирали, нажмите кнопки \"вверх\" или \"вниз\", чтобы войти в журнал выражений."
+msgid ""
+"If you want to <em>recall again the expression</em> which you typed before, "
+"then press up and down arrow to access the expression history."
+msgstr ""
+"Если вы хотите <em>повторно вызвать выражение</em>, которое вы перед этим "
+"набирали, нажмите кнопки \"вверх\" или \"вниз\", чтобы войти в журнал "
+"выражений."
 
 #: features.html
-msgid "Moreover, your expression history (maximum last 100 expressions) is saved between sessions."
-msgstr "Более того, журнал выражений сохраняется между сеансами (максимум - 100 последних выражений)."
+msgid ""
+"Moreover, your expression history (maximum last 100 expressions) is saved "
+"between sessions."
+msgstr ""
+"Более того, журнал выражений сохраняется между сеансами (максимум - 100 "
+"последних выражений)."
 
 #: features.html
-msgid "This means you can still invoke those calculations you have done yesterday or last week."
-msgstr "Это значит, что по-прежнему можно вызывать вычисления, выполненные вчера или на прошлой неделе."
+msgid ""
+"This means you can still invoke those calculations you have done yesterday "
+"or last week."
+msgstr ""
+"Это значит, что по-прежнему можно вызывать вычисления, выполненные вчера или "
+"на прошлой неделе."
 
 #: features.html
 msgid "Smart correction"
@@ -647,16 +968,31 @@ msgid "Often, SpeedCrunch can still understand an incomplete expression."
 msgstr "Часто SpeedCrunch \"понимает\" незавершенное выражение."
 
 #: features.html
-msgid "For example, just typing <tt>sin</tt> followed by Enter - likely means taking the sine of last value - is automatically translated as <tt>sin(ans)</tt>."
-msgstr "Например, простой набор функции <tt>sin</tt>, завершившийся нажатием клавиши Enter - означает взять синус последнего значения - будет автоматически переведен, как <tt>sin(ans)</tt>."
+msgid ""
+"For example, just typing <tt>sin</tt> followed by Enter - likely means "
+"taking the sine of last value - is automatically translated as <tt>sin(ans)</"
+"tt>."
+msgstr ""
+"Например, простой набор функции <tt>sin</tt>, завершившийся нажатием клавиши "
+"Enter - означает взять синус последнего значения - будет автоматически "
+"переведен, как <tt>sin(ans)</tt>."
 
 #: features.html
-msgid "Also, for some functions you may skip the parentheses if you pass simple number or variable, <tt>sin 0.1</tt> is as valid as <tt>sin(0.1)</tt>."
-msgstr "Также для некоторых функций необязательно вводить скобки, если пишется простое число или переменная, например, <tt>sin 0.1</tt> так же верно, как и <tt>sin(0.1)</tt>."
+msgid ""
+"Also, for some functions you may skip the parentheses if you pass simple "
+"number or variable, <tt>sin 0.1</tt> is as valid as <tt>sin(0.1)</tt>."
+msgstr ""
+"Также для некоторых функций необязательно вводить скобки, если пишется "
+"простое число или переменная, например, <tt>sin 0.1</tt> так же верно, как и "
+"<tt>sin(0.1)</tt>."
 
 #: features.html
-msgid "Speaking about parentheses, closing them can be left to SpeedCrunch, e.g. <tt>cos(pi/4</tt> is automatically corrected to <tt>cos(pi/4)</tt>."
-msgstr "Кстати, и закрытие скобок можно оставить для SpeedCrunch, например, <tt>cos(pi/4</tt> будет автоматически исправлено на <tt>cos(pi/4)</tt>."
+msgid ""
+"Speaking about parentheses, closing them can be left to SpeedCrunch, e.g. "
+"<tt>cos(pi/4</tt> is automatically corrected to <tt>cos(pi/4)</tt>."
+msgstr ""
+"Кстати, и закрытие скобок можно оставить для SpeedCrunch, например, <tt>cos"
+"(pi/4</tt> будет автоматически исправлено на <tt>cos(pi/4)</tt>."
 
 #: features.html
 msgid "Keyboard-friendly"
@@ -732,32 +1068,75 @@ msgid "source"
 msgstr "источник"
 
 #: features.html
-msgid "We can conclude that this is THE most comprehensive calculator application available freely and you can hardly find anything better than this one."
-msgstr "В заключение хочется сказать, что это САМЫЙ всеобъемлющий калькулятор из имеющихся в свободном доступе, и трудно найти что-то лучше, чем он."
+msgid ""
+"We can conclude that this is THE most comprehensive calculator application "
+"available freely and you can hardly find anything better than this one."
+msgstr ""
+"В заключение хочется сказать, что это САМЫЙ всеобъемлющий калькулятор из "
+"имеющихся в свободном доступе, и трудно найти что-то лучше, чем он."
+
+#: features.html
+msgid ""
+"The most powerful desktop calculator you can have, it's like you don’t need "
+"to buy a pro calci if you want to work all time on computer."
+msgstr ""
+
+#: features.html
+msgid ""
+"Its easy to use functionality and keyboard driven powers make it the best "
+"calculator for a student or engineer."
+msgstr ""
 
 #: features.html
 msgid "SpeedCrunch is the best calculator available on Linux."
 msgstr "SpeedCrunch - лучший калькулятор, работающий под Linux."
 
 #: features.html
-msgid "SpeedCrunch may sound like a breakfast cereal, but it's actually a very powerful open-source calculator."
-msgstr "SpeedCrunch, может, и звучит, как овсянка на завтрак, но это действительно очень мощный калькулятор с открытыми исходными кодами."
+msgid ""
+"SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
+"powerful open-source calculator."
+msgstr ""
+"SpeedCrunch, может, и звучит, как овсянка на завтрак, но это действительно "
+"очень мощный калькулятор с открытыми исходными кодами."
 
 #: features.html
-msgid "Overall, I think I’ll be using SpeedCrunch more and more for doing my mathematic evaluations. It works on Windows too, so if you’ve decided to stick with that operating system, here’s a better replacement for the included calculator, and at a great price with code you can trust that is actively being enhanced."
-msgstr "В общем, я думаю, что буду все чаще и чаще использовать SpeedCrunch в своих математических расчетах. Он также работает под Windows, так что, если кто решит постоянно трудиться в этой операционной системе, то это самая лучшая замена для калькулятора, включенного в Windows, и при высокой стоимости кода, можно надеяться, что SpeedCrunch будет активно улучшаться."
+msgid ""
+"Overall, I think I’ll be using SpeedCrunch more and more for doing my "
+"mathematic evaluations. It works on Windows too, so if you’ve decided to "
+"stick with that operating system, here’s a better replacement for the "
+"included calculator, and at a great price with code you can trust that is "
+"actively being enhanced."
+msgstr ""
+"В общем, я думаю, что буду все чаще и чаще использовать SpeedCrunch в своих "
+"математических расчетах. Он также работает под Windows, так что, если кто "
+"решит постоянно трудиться в этой операционной системе, то это самая лучшая "
+"замена для калькулятора, включенного в Windows, и при высокой стоимости "
+"кода, можно надеяться, что SpeedCrunch будет активно улучшаться."
 
 #: features.html
-msgid "If I had had SpeedCrunch or Qalculate! during high school, finishing homework really would've been child's play."
-msgstr "Если б у меня во время учебы в вузе были SpeedCrunch или Qalculate!, то закончив с домашними делами и заданиями можно было бы поиграть с ребенком."
+msgid ""
+"If I had had SpeedCrunch or Qalculate! during high school, finishing "
+"homework really would've been child's play."
+msgstr ""
+"Если б у меня во время учебы в вузе были SpeedCrunch или Qalculate!, то "
+"закончив с домашними делами и заданиями можно было бы поиграть с ребенком."
 
 #: features.html
-msgid "Wow! This little app has made my investigation. You have saved me hours and hours of long and boring statistical calculations!"
-msgstr "Ух ты! Это маленькое приложение помогло мне выполнить научное исследование! Вы сэкономили мне многие и многие часы долгих и скучных статистических расчетов!"
+msgid ""
+"Wow! This little app has made my investigation. You have saved me hours and "
+"hours of long and boring statistical calculations!"
+msgstr ""
+"Ух ты! Это маленькое приложение помогло мне выполнить научное исследование! "
+"Вы сэкономили мне многие и многие часы долгих и скучных статистических "
+"расчетов!"
 
 #: features.html
-msgid "Mostly run by keyboard, SpeedCrunch is the calculator for the technical or engineer oriented professional."
-msgstr "Поскольку SpeedCrunch, в основном, работает с клавиатурой, то он является калькулятором для технических специалистов или инженеров."
+msgid ""
+"Mostly run by keyboard, SpeedCrunch is the calculator for the technical or "
+"engineer oriented professional."
+msgstr ""
+"Поскольку SpeedCrunch, в основном, работает с клавиатурой, то он является "
+"калькулятором для технических специалистов или инженеров."
 
 #: features.html
 msgid "A \"must look\" at."
@@ -768,8 +1147,20 @@ msgid "SpeedCrunch is a fast, high precision and powerful desktop calculator."
 msgstr "SpeedCrunch - быстрый, высокоточный и мощный настольный калькулятор."
 
 #: index.html
-msgid "Available for <img src=\"../icons/tux.png\" alt=\"Linux\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../icons/win.png\" alt=\"Windows\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Microsoft Windows</b>, and <img src=\"../icons/mac.png\" alt=\"Apple Mac OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Apple Mac OS X</b>."
-msgstr "Доступен для <img src=\"../icons/tux.png\" alt=\"Linux\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../icons/win.png\" alt=\"Windows\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Microsoft Windows</b>, and <img src=\"../icons/mac.png\" alt=\"Apple Mac OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Apple Mac OS X</b>."
+msgid ""
+"Available for <img src=\"../icons/tux.png\" alt=\"Linux\" style=\"vertical-"
+"align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../icons/win."
+"png\" alt=\"Windows\" style=\"vertical-align: middle; margin-right: 3px;\" /"
+"><b>Microsoft Windows</b>, and <img src=\"../icons/mac.png\" alt=\"Apple Mac "
+"OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Apple Mac "
+"OS X</b>."
+msgstr ""
+"Доступен для <img src=\"../icons/tux.png\" alt=\"Linux\" style=\"vertical-"
+"align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../icons/win."
+"png\" alt=\"Windows\" style=\"vertical-align: middle; margin-right: 3px;\" /"
+"><b>Microsoft Windows</b>, and <img src=\"../icons/mac.png\" alt=\"Apple Mac "
+"OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Apple Mac "
+"OS X</b>."
 
 #: index.html
 msgid "See more screenshots!"
@@ -824,8 +1215,12 @@ msgid "syntax highlighting and parentheses matching"
 msgstr "подсветка синтаксиса и соответствия скобок"
 
 #: index.html
-msgid "<a href=\"features.html\">Learn more</a> or <a href=\"download.html\">download it now</a>"
-msgstr "<a href=\"features.html\">Узнайте больше</a> или <a href=\"download.html\">загрузите калькулятор сейчас</a>"
+msgid ""
+"<a href=\"features.html\">Learn more</a> or <a href=\"download.html"
+"\">download it now</a>"
+msgstr ""
+"<a href=\"features.html\">Узнайте больше</a> или <a href=\"download.html"
+"\">загрузите калькулятор сейчас</a>"
 
 #: index.html
 msgid "It's completely <b>FREE</b>!"
@@ -837,33 +1232,61 @@ msgstr "Зайдите на главную страницу"
 
 #: screenshots.html
 msgid "For each screenshot, click the preview to enlarge."
-msgstr "Для каждого скриншота нажмите значок предварительного просмотра, чтобы его развернуть."
+msgstr ""
+"Для каждого скриншота нажмите значок предварительного просмотра, чтобы его "
+"развернуть."
 
 #: screenshots.html
-msgid "All images are from version 0.10.1 running on Microsoft Windows Vista, Apple Mac OS X and KDE."
-msgstr "Все скриншоты сделаны с версии 0.10.1, запущенной в Microsoft Windows Vista, Apple Mac OS X и KDE."
+msgid ""
+"All images are from version 0.10.1 running on Microsoft Windows Vista, Apple "
+"Mac OS X and KDE."
+msgstr ""
+"Все скриншоты сделаны с версии 0.10.1, запущенной в Microsoft Windows Vista, "
+"Apple Mac OS X и KDE."
 
 #: screenshots.html
-msgid "In addition to the default appearance already visible in the home page (showing the menu bar, scrolling display, expression editor and virtual keypad), here you can see the extra visual elements at full capacity (status bar and all dock windows)."
-msgstr "В дополнение к стандартному внешнему виду, который вы уже видели на главной странице (показывает строку меню, окно с прокруткой, редактор формул и виртуальную клавиатуру), здесь также можно увидеть дополнительные элементы в полном варианте (строка состояния и все пристыковываемые окна)."
+msgid ""
+"In addition to the default appearance already visible in the home page "
+"(showing the menu bar, scrolling display, expression editor and virtual "
+"keypad), here you can see the extra visual elements at full capacity (status "
+"bar and all dock windows)."
+msgstr ""
+"В дополнение к стандартному внешнему виду, который вы уже видели на главной "
+"странице (показывает строку меню, окно с прокруткой, редактор формул и "
+"виртуальную клавиатуру), здесь также можно увидеть дополнительные элементы в "
+"полном варианте (строка состояния и все пристыковываемые окна)."
 
 #: screenshots.html
-msgid "Finally, you can also see the application in its minimal appearance (just the scrolling display and the expression editor - even no menu bar!)."
-msgstr "Наконец, вы можете увидеть приложение в минимальном виде (только окно с прокруткой и редактор выражений - нет даже строки меню!)."
+msgid ""
+"Finally, you can also see the application in its minimal appearance (just "
+"the scrolling display and the expression editor - even no menu bar!)."
+msgstr ""
+"Наконец, вы можете увидеть приложение в минимальном виде (только окно с "
+"прокруткой и редактор выражений - нет даже строки меню!)."
 
 #: screenshots.html
-msgid "Check also the description of <a href=\"features.html\">many unique features</a> available only in SpeedCrunch!"
-msgstr "Посмотрите также описание <a href=\"features.html\">многих уникальных возможностей</a>, доступных только в SpeedCrunch!"
+msgid ""
+"Check also the description of <a href=\"features.html\">many unique "
+"features</a> available only in SpeedCrunch!"
+msgstr ""
+"Посмотрите также описание <a href=\"features.html\">многих уникальных "
+"возможностей</a>, доступных только в SpeedCrunch!"
 
 #: screenshots.html
 msgid "Send your screenshot"
 msgstr "Пришлите свой скриншот"
 
 #: screenshots.html
-msgid "Do you have a nice screenshot showing interesting features of SpeedCrunch?"
-msgstr "У вас есть любопытный скриншот, показывающий интересные возможности SpeedCrunch?"
+msgid ""
+"Do you have a nice screenshot showing interesting features of SpeedCrunch?"
+msgstr ""
+"У вас есть любопытный скриншот, показывающий интересные возможности "
+"SpeedCrunch?"
 
 #: screenshots.html
-msgid "Send it to us (<a href=\"mailto:screenshot@speedcrunch.org\">screenshot@speedcrunch.org</a>) and we'll place it here."
-msgstr "Отправьте его нам (<a href=\"mailto:screenshot@speedcrunch.org\">screenshot@speedcrunch.org</a>), и мы разместим его здесь."
-
+msgid ""
+"Send it to us (<a href=\"mailto:screenshot@speedcrunch.org"
+"\">screenshot@speedcrunch.org</a>) and we'll place it here."
+msgstr ""
+"Отправьте его нам (<a href=\"mailto:screenshot@speedcrunch.org"
+"\">screenshot@speedcrunch.org</a>), и мы разместим его здесь."

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-26 19:46+0000\n"
+"POT-Creation-Date: 2009-01-30 00:36+0000\n"
 "PO-Revision-Date: 2007-11-07 00:16+0100\n"
 "Last-Translator: Alessio 'isazi' Sclocco <isazi@olografix.org>\n"
 "Language-Team: Italiano\n"
@@ -14,65 +14,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "calculator"
 msgstr "calcolatrice"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "SpeedCrunch - fast and usable calculator"
 msgstr "SpeedCrunch - una calcolatrice veloce a facile da utilizzare"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Home"
 msgstr "Pagina principale"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Try it out"
 msgstr ""
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Download"
 msgstr "Scarica"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Learn more"
 msgstr "Impara di più"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Features"
 msgstr "Funzionalità"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "See it in action"
 msgstr "Guardalo in azione"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Screenshots"
 msgstr "Istantanee"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Frequently asked questions"
 msgstr "Domande frequenti"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "FAQ"
 msgstr "Domande Frequenti"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
+#, fuzzy
+msgid "Authors and contributors"
+msgstr "Altre distribuzioni"
+
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
+msgid "Credits"
+msgstr ""
+
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Discuss with other users"
 msgstr "Discutere con altri utenti"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Forum"
 msgstr ""
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Follow the development"
 msgstr "Segui lo sviluppo"
 
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
 msgid "Blog"
 msgstr "Blog"
+
+#: credits.html
+msgid "Maintainer"
+msgstr ""
+
+#: credits.html
+msgid "Authors"
+msgstr ""
+
+#: credits.html
+msgid "Based on original idea from"
+msgstr ""
+
+#: credits.html
+msgid "Special thanks to"
+msgstr ""
+
+#: credits.html
+msgid "Graphics"
+msgstr ""
+
+#: credits.html
+msgid "Thanks to"
+msgstr ""
+
+#: credits.html
+msgid "Website developers"
+msgstr ""
+
+#: credits.html
+msgid "Application and website translators"
+msgstr ""
+
+#: download.html, index.html, credits.html, screenshots.html, faq.html,
+#: features.html
+msgid "Copyright"
+msgstr "Copyright"
 
 #: download.html, index.html, screenshots.html, faq.html, features.html
 msgid "icon"
@@ -491,10 +554,6 @@ msgstr ""
 "senza ALCUNA GARANZIA; neanche la garanzia implicita di COMMERCIABILITÀ o "
 "MODIFICA PER UNO SCOPO PRECISO. Leggere la GN General Public License per "
 "maggiori dettagli."
-
-#: download.html, index.html, screenshots.html, faq.html, features.html
-msgid "Copyright"
-msgstr "Copyright"
 
 #: faq.html
 msgid "Here are some frequently asked questions (with answers):"
@@ -996,6 +1055,18 @@ msgstr ""
 msgid ""
 "We can conclude that this is THE most comprehensive calculator application "
 "available freely and you can hardly find anything better than this one."
+msgstr ""
+
+#: features.html
+msgid ""
+"The most powerful desktop calculator you can have, it's like you don’t need "
+"to buy a pro calci if you want to work all time on computer."
+msgstr ""
+
+#: features.html
+msgid ""
+"Its easy to use functionality and keyboard driven powers make it the best "
+"calculator for a student or engineer."
 msgstr ""
 
 #: features.html

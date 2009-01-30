@@ -47,11 +47,12 @@ do
 	touch locale/speedcrunch.org.$lang.po
 	mkdir -p $DOM/$lang
 	$MSM locale/speedcrunch.org.$lang.po locale/speedcrunch.org.pot
-	$P2H -t templates/index.html       -i locale/$DOM.$lang.po -o $DOM/$lang/index.html
-	$P2H -t templates/features.html    -i locale/$DOM.$lang.po -o $DOM/$lang/features.html
-	$P2H -t templates/screenshots.html -i locale/$DOM.$lang.po -o $DOM/$lang/screenshots.html
-	$P2H -t templates/faq.html         -i locale/$DOM.$lang.po -o $DOM/$lang/faq.html
+	$P2H -t templates/credits.html     -i locale/$DOM.$lang.po -o $DOM/$lang/credits.html
 	$P2H -t templates/download.html    -i locale/$DOM.$lang.po -o $DOM/$lang/download.html
+	$P2H -t templates/faq.html         -i locale/$DOM.$lang.po -o $DOM/$lang/faq.html
+	$P2H -t templates/features.html    -i locale/$DOM.$lang.po -o $DOM/$lang/features.html
+	$P2H -t templates/index.html       -i locale/$DOM.$lang.po -o $DOM/$lang/index.html
+	$P2H -t templates/screenshots.html -i locale/$DOM.$lang.po -o $DOM/$lang/screenshots.html
 done
 
 #------------------------------------------------------------------------------#
