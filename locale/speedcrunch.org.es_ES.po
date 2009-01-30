@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-30 00:36+0000\n"
+"POT-Creation-Date: 2009-01-30 00:43+0000\n"
 "PO-Revision-Date: 2008-04-25 20:03+0100\n"
 "Last-Translator: Francesc <franfar@gmail.com>\n"
 "Language-Team: es\n"
@@ -99,6 +99,10 @@ msgstr "Seguir el desarrollo"
 #: features.html
 msgid "Blog"
 msgstr "Bitácora"
+
+#: credits.html
+msgid "Original author"
+msgstr ""
 
 #: credits.html
 msgid "Maintainer"

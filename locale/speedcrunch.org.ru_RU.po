@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-30 00:36+0000\n"
+"POT-Creation-Date: 2009-01-30 00:43+0000\n"
 "PO-Revision-Date: 2009-01-28 22:36+0300\n"
 "Last-Translator: Alexander Bushuev <avbushuev@yandex.ru>\n"
 "Language-Team: ru\n"
@@ -99,6 +99,10 @@ msgstr "Следить за процессом разработки"
 #: features.html
 msgid "Blog"
 msgstr "Блог"
+
+#: credits.html
+msgid "Original author"
+msgstr ""
 
 #: credits.html
 msgid "Maintainer"
