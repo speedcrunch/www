@@ -74,12 +74,12 @@ msgstr "FAQ"
 #: features.html
 #, fuzzy
 msgid "Authors and contributors"
-msgstr "Andere Distributionen"
+msgstr "Autoren und Beitragende"
 
 #: download.html, index.html, credits.html, screenshots.html, faq.html,
 #: features.html
 msgid "Credits"
-msgstr ""
+msgstr "Dank an"
 
 #: download.html, index.html, credits.html, screenshots.html, faq.html,
 #: features.html
@@ -103,39 +103,39 @@ msgstr "Blog"
 
 #: credits.html
 msgid "Original author"
-msgstr ""
+msgstr "Ursprünglicher Autor"
 
 #: credits.html
 msgid "Maintainer"
-msgstr ""
+msgstr "Projektleitung"
 
 #: credits.html
 msgid "Authors"
-msgstr ""
+msgstr "Autoren"
 
 #: credits.html
 msgid "Based on original idea from"
-msgstr ""
+msgstr "Einer Idee entsprungen von"
 
 #: credits.html
 msgid "Special thanks to"
-msgstr ""
+msgstr "Mit besonderem Dank an"
 
 #: credits.html
 msgid "Graphics"
-msgstr ""
+msgstr "Grafik"
 
 #: credits.html
 msgid "Thanks to"
-msgstr ""
+msgstr "Dank an"
 
 #: credits.html
 msgid "Website developers"
-msgstr ""
+msgstr "Entwickler des Webauftritts"
 
 #: credits.html
 msgid "Application and website translators"
-msgstr ""
+msgstr "Übersetzer des Programms und des Webauftritts"
 
 #: download.html, index.html, credits.html, screenshots.html, faq.html,
 #: features.html
@@ -159,8 +159,8 @@ msgid ""
 "To perform the installation, just click on the file to run it and then "
 "follow the step-by-step instructions."
 msgstr ""
-"Zur Installation klicken Sie einfach auf die Datei, um sie zu starten, und "
-"folgen den Anweisungen"
+"Die Installation starten Sie einfach durch Klick auf die Datei, und "
+"folgen dann den Anweisungen"
 
 #: download.html
 msgid ""
@@ -245,7 +245,7 @@ msgstr "SpeedCrunch ist zurzeit in Debian unstable enthalten."
 
 #: download.html
 msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
-msgstr ""
+msgstr "SpeedCrunch wird jetzt offiziell in Gentoo Linux vertrieben"
 
 #: download.html
 msgid ""
@@ -1073,40 +1073,49 @@ msgstr "Erfahrungsberichte"
 
 #: features.html
 msgid "Speedcrunch is better than a TI-83+."
-msgstr ""
+msgstr "Speedcrunch ist besser als der TI-83+"
 
 #: features.html
 msgid "source"
-msgstr ""
+msgstr "Quelle"
 
 #: features.html
 msgid ""
 "We can conclude that this is THE most comprehensive calculator application "
 "available freely and you can hardly find anything better than this one."
 msgstr ""
+"Abschließend stellen wir fest, dass dies ist DAS umfangreichste, frei "
+"erhältliche Tachenrechnerprogramm ist, und Sie werden kaum ein besseres "
+"finden."
 
 #: features.html
 msgid ""
 "The most powerful desktop calculator you can have, it's like you don’t need "
 "to buy a pro calci if you want to work all time on computer."
 msgstr ""
+"Der mächtigste verfügbare Tischrechner, wenn Sie nur am Computer arbeiten, "
+"ist es so als ob Sie keinen Profi-Rechner mehr brauchen."
 
 #: features.html
 msgid ""
 "Its easy to use functionality and keyboard driven powers make it the best "
 "calculator for a student or engineer."
 msgstr ""
+"Seine einfach anzuwendende Funktionalität und seine Tastaturbedienung "
+"machen ihn zum besten Rechner für den Studenten oder Ingenieur."
 
 #: features.html
 #, fuzzy
 msgid "SpeedCrunch is the best calculator available on Linux."
-msgstr "SpeedCrunch ist der standardmäßige Taschenrechner."
+msgstr "SpeedCrunch ist der beste Taschenrechner unter Linux."
 
 #: features.html
 msgid ""
 "SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
 "powerful open-source calculator."
 msgstr ""
+"SpeedCrunch mag wie ein Frühstücksmüsli klingen, ist aber in Wahrheit ein "
+"mächtiges Open-Source Taschenrechnerprogramm."
 
 #: features.html
 msgid ""
@@ -1127,6 +1136,8 @@ msgid ""
 "If I had had SpeedCrunch or Qalculate! during high school, finishing "
 "homework really would've been child's play."
 msgstr ""
+"Hätte ich SpeedCrunch oder Qualculate! in der Oberschule gehabt, "
+"so wären die Hausaufgaben ein reines Kinderspiel gewesen."
 
 #: features.html
 #, fuzzy
@@ -1136,9 +1147,7 @@ msgid ""
 msgstr ""
 "Oha! Diese kleine Anwendung hat meine Untersuchung erledigt. Nun, es ist so, "
 "als ob ich von der Hölle in den Himmel gekommen wäre. Ihr habt mir Stunden "
-"langer und langweiliger statistischer Berechnungen erspart, dafür danke, Ihr "
-"seid die Größten! Ich kann die nächste Version gar nicht abwarten ;) Weiter "
-"so!"
+"langer und langweiliger statistischer Berechnungen erspart!"
 
 #: features.html
 msgid ""
