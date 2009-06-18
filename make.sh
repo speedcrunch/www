@@ -40,7 +40,7 @@ $T2P -o locale/speedcrunch.org.pot templates/*.html
 # merge and generate pages                                                     #
 #------------------------------------------------------------------------------#
 
-LANGS="de_DE en_US es_ES fr_FR it_IT nl_NL pt_BR pt_PT ru_RU"
+LANGS="de_DE en_US es_ES fr_FR it_IT nl_NL pl_PL pt_BR pt_PT ru_RU"
 
 for lang in $LANGS
 do
