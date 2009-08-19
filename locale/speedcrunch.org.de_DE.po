@@ -275,7 +275,7 @@ msgstr "Starten Sie <tt>cmake .</tt> aus dem <tt>src</tt> Unterordner, gefolgt v
 
 #: download.html
 msgid "To install it, run <tt>make install</tt> (might need administation privileges)"
-msgstr "Zue Installation starten Sie <tt>make install</tt> (Eventuell Administatorrechte erforderlich)"
+msgstr "Zur Installation starten Sie <tt>make install</tt> (Eventuell Administatorrechte erforderlich)"
 
 #: download.html
 msgid "NOTE: the following tools and libraries are required:"
