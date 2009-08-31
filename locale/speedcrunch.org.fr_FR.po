@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-08-31 15:18+0000\n"
+"POT-Creation-Date: 2009-08-31 23:22+0000\n"
 "PO-Revision-Date: 2008-11-26 13:17-0000\n"
 "Last-Translator: Laurent Cozic <laurent@pogopixels.com>\n"
 "Language-Team: fr\n"
@@ -1088,7 +1088,7 @@ msgstr ""
 
 #: features.html
 msgid ""
-"Speed Crunch is a good free alternative to buying expensive scientific "
+"SpeedCrunch is a good free alternative to buying expensive scientific "
 "calculators."
 msgstr ""
 
