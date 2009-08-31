@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-01-30 00:43+0000\n"
+"POT-Creation-Date: 2009-08-31 15:18+0000\n"
 "PO-Revision-Date: 2007-11-07 00:16+0100\n"
 "Last-Translator: Alessio 'isazi' Sclocco <isazi@olografix.org>\n"
 "Language-Team: Italiano\n"
@@ -1057,6 +1057,18 @@ msgstr ""
 
 #: features.html
 msgid ""
+"SpeedCrunch performs all of the functions necessary for high school Algebra "
+"and Geometry courses."
+msgstr ""
+
+#: features.html
+msgid ""
+"Speed Crunch is a good free alternative to buying expensive scientific "
+"calculators."
+msgstr ""
+
+#: features.html
+msgid ""
 "We can conclude that this is THE most comprehensive calculator application "
 "available freely and you can hardly find anything better than this one."
 msgstr ""
@@ -1065,6 +1077,16 @@ msgstr ""
 msgid ""
 "The most powerful desktop calculator you can have, it's like you don’t need "
 "to buy a pro calci if you want to work all time on computer."
+msgstr ""
+
+#: features.html
+msgid "We were completely bowled over when we came across SpeedCrunch."
+msgstr ""
+
+#: features.html
+msgid ""
+"Overall this is a must have utility and goes in to the Techie Buzz Hall of "
+"Fame for applications."
 msgstr ""
 
 #: features.html
@@ -1116,6 +1138,35 @@ msgstr ""
 #: features.html
 msgid "A \"must look\" at."
 msgstr "Da non perdere."
+
+#: features.html
+msgid ""
+"All in all, SpeedCrunch lives up to its claim of being a fast, precise "
+"scientific calculator."
+msgstr ""
+
+#: features.html
+#, fuzzy
+msgid ""
+"From the perspective of a non-math guy, SpeedCrunch is the best calculator "
+"on Linux."
+msgstr "SpeedCrunch è la calcolatrice di default."
+
+#: features.html
+msgid ""
+"SpeedCrunch brings so much more to the table than the traditional Windows "
+"calculator, with it’s fresh looks, powerful features and customization."
+msgstr ""
+
+#: features.html
+msgid ""
+"I am wondering why they didn’t offer a basic free version and a low-priced "
+"upgrade with more functionality."
+msgstr ""
+
+#: features.html
+msgid "Leave Windows Calculator behind and use SpeedCrunch instead."
+msgstr ""
 
 #: index.html
 msgid "SpeedCrunch is a fast, high precision and powerful desktop calculator."
