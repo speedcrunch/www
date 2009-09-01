@@ -9,5 +9,7 @@ Please read all the internal script dependencies required to execute the whole
 process in the file header.
 
 The website will be generated to a directory defined in the script through the
-$DOM variable.
+$PREFIX variable. Thus, the generation target directory can be easily modified:
+
+    PREFIX=/tmp/speedcrunch.org ./make.sh
 

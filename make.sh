@@ -1,62 +1,62 @@
 #! /usr/bin/env bash
 
 #------------------------------------------------------------------------------#
-# This file is part of the speedcrunch.org website development.                #
+# This file is part of the speedcrunch.org website development tree.           #
 #                                                                              #
-# Helder Correia <helder.pereira.correia@gmail.com>                            #
+# Helder Correia <helder.pereira.correia@gmail.com>, 2009                      #
 #                                                                              #
 # It generates the whole speedcrunch.org website (including translations) to   #
-# the directory defined by $DOM.                                               #
+# the directory defined by $PREFIX. Before, it validates the transations and   #
+# aborts in case of error.                                                     #
 #                                                                              #
-# It uses the Universal Template Translation Tools - bundled -                 #
-# (http://code.google.com/p/ut3/). The msgmerge tool from GNU Gettext          #
-# (http://www.gnu.org/software/gettext/), the bash shell                       #
-# (http://www.gnu.org/software/bash/bash.html) and Python (http://python.org/) #
-# are required to run this script.                                             #
+# It uses the Universal Template Translation Tools - already included          #
+# (http://code.google.com/p/ut3/).                                             #
+#                                                                              #
+# The msgmerge tool from GNU Gettext (http://www.gnu.org/software/gettext/),   #
+# Bash (http://www.gnu.org/software/bash/bash.html), and Python                #
+# (http://python.org/) are required in the system in order to run this script. #
 #------------------------------------------------------------------------------#
 
-#------------------------------------------------------------------------------#
-# directories                                                                  #
-#------------------------------------------------------------------------------#
+if [ $PREFIX ]
+then
+    DIR=$PREFIX
+else
+    DIR="speedcrunch.org"
+fi
 
-DOM="speedcrunch.org"
-UT3="ut3"
-
-#------------------------------------------------------------------------------#
-# macros                                                                       #
-#------------------------------------------------------------------------------#
-
-T2P="python $UT3/template2pot.py -l ""<i18n>"" -r ""</i18n>"" -s ""<hint>"" -e ""</hint>"""
-P2H="python $UT3/po2final.py     -l ""<i18n>"" -r ""</i18n>"" -s ""<hint>"" -e ""</hint>"""
-MSM="msgmerge -U --quiet"
-
-#------------------------------------------------------------------------------#
-# extract marked strings and create POT                                        #
-#------------------------------------------------------------------------------#
-
-$T2P -o locale/speedcrunch.org.pot templates/*.html
-
-#------------------------------------------------------------------------------#
-# merge and generate pages                                                     #
-#------------------------------------------------------------------------------#
-
-LANGS="de_DE en_US es_ES fr_FR hu_HU it_IT nl_NL pl_PL pt_BR pt_PT ru_RU"
-
-for lang in $LANGS
+# check translation files validity
+for file in locale/*po
 do
-	touch locale/speedcrunch.org.$lang.po
-	mkdir -p $DOM/$lang
-	$MSM locale/speedcrunch.org.$lang.po locale/speedcrunch.org.pot
-	$P2H -t templates/credits.html     -i locale/$DOM.$lang.po -o $DOM/$lang/credits.html
-	$P2H -t templates/download.html    -i locale/$DOM.$lang.po -o $DOM/$lang/download.html
-	$P2H -t templates/faq.html         -i locale/$DOM.$lang.po -o $DOM/$lang/faq.html
-	$P2H -t templates/features.html    -i locale/$DOM.$lang.po -o $DOM/$lang/features.html
-	$P2H -t templates/index.html       -i locale/$DOM.$lang.po -o $DOM/$lang/index.html
-	$P2H -t templates/screenshots.html -i locale/$DOM.$lang.po -o $DOM/$lang/screenshots.html
+    if msgfmt -c -o /dev/null "$file"
+    then
+        echo -n ""
+    else
+        exit
+    fi
 done
 
-#------------------------------------------------------------------------------#
-# copy images, CSS, JS and redirecting root files                              #
-#------------------------------------------------------------------------------#
-cp -Rf css flags icons images js root/* $DOM
+# macros
+T2P="python ut3/template2pot.py -l ""<i18n>"" -r ""</i18n>"" -s ""<hint>"" -e ""</hint>"""
+P2H="python ut3/po2final.py     -l ""<i18n>"" -r ""</i18n>"" -s ""<hint>"" -e ""</hint>"""
+
+# extract marked strings and create POT
+$T2P -o locale/speedcrunch.org.pot templates/*.html
+
+# merge strings and generate pages
+for poFile in locale/*.po
+do
+    file=${poFile#locale/speedcrunch.org.}
+    lang=${file%.po}
+    touch locale/speedcrunch.org."$lang".po
+    mkdir -p "$DIR"/"$lang"
+    msgmerge -U --quiet locale/speedcrunch.org."$lang".po locale/speedcrunch.org.pot
+    for htmlFile in templates/*.html
+    do
+        file=${htmlFile#templates/}
+        $P2H -t templates/"$file" -i locale/speedcrunch.org."$lang".po -o "$DIR"/"$lang"/"$file"
+    done
+done
+
+# copy images, CSS, JS and redirecting root files
+cp -Rf css flags icons images js root/* $DIR
 
