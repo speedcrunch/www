@@ -1183,8 +1183,11 @@ msgid ""
 "All in all, SpeedCrunch lives up to its claim of being a fast, precise "
 "scientific calculator."
 msgstr ""
+"Alles in allem erfüllt SpeedCrunch den Anspruch ein schneller genauer "
+"wissenschaftlicher Rechner zu sein."
 
 #: features.html
+#, fuzzy
 msgid ""
 "From the perspective of a non-math guy, SpeedCrunch is the best calculator "
 "on Linux."
