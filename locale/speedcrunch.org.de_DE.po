@@ -1076,12 +1076,16 @@ msgid ""
 "SpeedCrunch performs all of the functions necessary for high school Algebra "
 "and Geometry courses."
 msgstr ""
+"SpeedCrunch führt alle Funktionen aus, die für die Algebra- und "
+"Geometrieklassen der Oberschule benötigt werden."
 
 #: features.html
 msgid ""
 "SpeedCrunch is a good free alternative to buying expensive scientific "
 "calculators."
 msgstr ""
+"SpeedCrunch ist eine gute Alternative zum Erwerb teurer wissenschaftlicher "
+"Rechner."
 
 #: features.html
 msgid ""
@@ -1102,13 +1106,15 @@ msgstr ""
 
 #: features.html
 msgid "We were completely bowled over when we came across SpeedCrunch."
-msgstr ""
+msgstr "Es hat uns völlig umgehauen als wir SpeedCrunch entdeckten."
 
 #: features.html
 msgid ""
 "Overall this is a must have utility and goes in to the Techie Buzz Hall of "
 "Fame for applications."
 msgstr ""
+"Im Ganzen gesehen ist dies ein Programm, was man haben muss, und gehört in "
+"Technik-Ruhmeshalle für Anwendungen." 
 
 #: features.html
 msgid ""
@@ -1177,29 +1183,35 @@ msgid ""
 "All in all, SpeedCrunch lives up to its claim of being a fast, precise "
 "scientific calculator."
 msgstr ""
+"Alles in allem erfüllt SpeedCrunch den Anspruch ein schneller genauer "
+"wissenschaftlicher Rechner zu sein."
 
 #: features.html
 #, fuzzy
 msgid ""
 "From the perspective of a non-math guy, SpeedCrunch is the best calculator "
 "on Linux."
-msgstr "SpeedCrunch ist der beste Taschenrechner unter Linux."
+msgstr "Aus Sicht eines Nicht-mathematikers ist SpeedCrunch das beste "
+"Rechnerprogramm unter Linux."
 
 #: features.html
 msgid ""
 "SpeedCrunch brings so much more to the table than the traditional Windows "
 "calculator, with it’s fresh looks, powerful features and customization."
 msgstr ""
+"SpeedCrunch zeigt mit seinem frischen Aussehen, den mächtigen Funktionen und "
+"seiner Anpassbarkeit deutlich mehr als der traditionelle Windows Rechner."
 
 #: features.html
 msgid ""
 "I am wondering why they didn’t offer a basic free version and a low-priced "
 "upgrade with more functionality."
-msgstr ""
+msgstr "Ich frage mich, warum sie keine kostenlose Basisversion anbieten und "
+"einen kleinen Aufschlag mehr Funktionalität nehmen."
 
 #: features.html
 msgid "Leave Windows Calculator behind and use SpeedCrunch instead."
-msgstr ""
+msgstr "Vergiss den Windows Rechner und nehme stattdessen SpeedCrunch."
 
 #: index.html
 msgid "SpeedCrunch is a fast, high precision and powerful desktop calculator."
