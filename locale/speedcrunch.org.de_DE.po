@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-08-31 23:22+0000\n"
-"PO-Revision-Date: 2009-06-18 03:15+0100\n"
+"POT-Creation-Date: 2009-09-13 23:04+0000\n"
+"PO-Revision-Date: 2009-09-13 04:12+0100\n"
 "Last-Translator: Michał Trzebiatowski <hippie_1968@hotmail.com>\n"
 "Language-Team: de\n"
 "MIME-Version: 1.0\n"
@@ -355,7 +355,7 @@ msgid ""
 "To install it, run <tt>make install</tt> (might need administation "
 "privileges)"
 msgstr ""
-"Zur Installation starten Sie <tt>make install</tt> (Eventuell "
+"Zue Installation starten Sie <tt>make install</tt> (Eventuell "
 "Administatorrechte erforderlich)"
 
 #: download.html
@@ -1076,16 +1076,16 @@ msgid ""
 "SpeedCrunch performs all of the functions necessary for high school Algebra "
 "and Geometry courses."
 msgstr ""
-"SpeedCrunch führt alle Funktionen aus, die für die Algebra- und "
-"Geometrieklassen der Oberschule benötigt werden."
+"SpeedCrunch vereint alle notwendigen Funktionen für Oberstufen Algebra und "
+"Geometrie Kurse."
 
 #: features.html
 msgid ""
 "SpeedCrunch is a good free alternative to buying expensive scientific "
 "calculators."
 msgstr ""
-"SpeedCrunch ist eine gute Alternative zum Erwerb teurer wissenschaftlicher "
-"Rechner."
+"SpeedCrunch ist eine gute kostenlose Alternative zur teuren "
+"wissenschaftlichen Taschenrechnern."
 
 #: features.html
 msgid ""
@@ -1097,24 +1097,25 @@ msgstr ""
 "finden."
 
 #: features.html
+#, fuzzy
 msgid ""
 "The most powerful desktop calculator you can have, it's like you don’t need "
 "to buy a pro calci if you want to work all time on computer."
 msgstr ""
 "Der mächtigste verfügbare Tischrechner, wenn Sie nur am Computer arbeiten, "
-"ist es so als ob Sie keinen Profi-Rechner mehr brauchen."
+"brauchen Sie ab jetzt keinen Profi-Taschenrechner mehr ."
 
 #: features.html
 msgid "We were completely bowled over when we came across SpeedCrunch."
-msgstr "Es hat uns völlig umgehauen als wir SpeedCrunch entdeckten."
+msgstr "Wir waren völlig aus der Rolle, als wir über SpeedCrunch stolperten."
 
 #: features.html
 msgid ""
 "Overall this is a must have utility and goes in to the Techie Buzz Hall of "
 "Fame for applications."
 msgstr ""
-"Im Ganzen gesehen ist dies ein Programm, was man haben muss, und gehört in "
-"Technik-Ruhmeshalle für Anwendungen." 
+"Jedenfalls ist dies ein Programm, dass unbedingt in die Techie Buzz Hall of "
+"Fame für Anwendungen gehört."
 
 #: features.html
 msgid ""
@@ -1137,6 +1138,7 @@ msgstr ""
 "mächtiges Open-Source Taschenrechnerprogramm."
 
 #: features.html
+#, fuzzy
 msgid ""
 "Overall, I think I’ll be using SpeedCrunch more and more for doing my "
 "mathematic evaluations. It works on Windows too, so if you’ve decided to "
@@ -1145,10 +1147,10 @@ msgid ""
 "actively being enhanced."
 msgstr ""
 "Alles in allem werde ich SpeedCrunch mehr und mehr für meine mathematischen "
-"Rechnungen einsetzen. Er läuft auch auf Windows, wenn Sie also diesem "
-"Betriebssystem zugetan sind: Hier ist der bessere Ersatz für den beigegeben "
-"Rechner, zu einem tollen Preis mit Quellcode, so darf man glauben, der aktiv "
-"entwickelt wird. "
+"Rechnungen benutzen. Er läuft auch unter Windows, wenn Sie also mit diesem "
+"Betriebssystem arbeiten: Hier ist der bessere Ersatz für den vorhandenen "
+"Taschenrechner, zu einem guten Preis mit Quellcode, und Sie können sicher "
+"sein, dass dieser aktiv weiterentwickelt wird."
 
 #: features.html
 msgid ""
@@ -1183,35 +1185,41 @@ msgid ""
 "All in all, SpeedCrunch lives up to its claim of being a fast, precise "
 "scientific calculator."
 msgstr ""
-"Alles in allem erfüllt SpeedCrunch den Anspruch ein schneller genauer "
-"wissenschaftlicher Rechner zu sein."
+"Alles in allem wird SpeedCrunch seinem Anspruch gerecht, ein schneller, "
+"präziser wissenschaftlicher Taschenrechner zu sein."
+
+#: features.html
+msgid ""
+"From the perspective of a non-math guy, SpeedCrunch is the best calculator "
+"on Linux."
+msgstr ""
+"Aus Sicht einer nicht-mathematisch gewandten Person, ist SpeedCrunch der "
+"beste Taschenrechner unter Linux."
 
 #: features.html
 #, fuzzy
 msgid ""
-"From the perspective of a non-math guy, SpeedCrunch is the best calculator "
-"on Linux."
-msgstr "Aus Sicht eines Nicht-mathematikers ist SpeedCrunch das beste "
-"Rechnerprogramm unter Linux."
-
-#: features.html
-msgid ""
 "SpeedCrunch brings so much more to the table than the traditional Windows "
 "calculator, with it’s fresh looks, powerful features and customization."
 msgstr ""
-"SpeedCrunch zeigt mit seinem frischen Aussehen, den mächtigen Funktionen und "
-"seiner Anpassbarkeit deutlich mehr als der traditionelle Windows Rechner."
+"SpeedCrunch bringt so viel mehr auf dem Tisch, als der herkömmliche Windows "
+"Taschenrechner, mit seinem frischen Aussehen, leistungsstarken Funktionen "
+"und Anpassungsmöglichkeiten."
 
 #: features.html
+#, fuzzy
 msgid ""
 "I am wondering why they didn’t offer a basic free version and a low-priced "
 "upgrade with more functionality."
-msgstr "Ich frage mich, warum sie keine kostenlose Basisversion anbieten und "
-"einen kleinen Aufschlag mehr Funktionalität nehmen."
+msgstr ""
+"Ich frage mich, warum sie nicht eine kostenlose Basis-Version und ein "
+"günstiges Upgrade mit mehr Funktionen anbieten."
 
 #: features.html
 msgid "Leave Windows Calculator behind and use SpeedCrunch instead."
-msgstr "Vergiss den Windows Rechner und nehme stattdessen SpeedCrunch."
+msgstr ""
+"Lassen Sie den Windows Taschenrechner hinter sich und nutzen Sie stattdessen "
+"SpeedCrunch."
 
 #: index.html
 msgid "SpeedCrunch is a fast, high precision and powerful desktop calculator."
