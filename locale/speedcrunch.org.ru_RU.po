@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-08-31 23:22+0000\n"
+"POT-Creation-Date: 2010-06-23 19:10+0000\n"
 "PO-Revision-Date: 2009-01-28 22:36+0300\n"
 "Last-Translator: Alexander Bushuev <avbushuev@yandex.ru>\n"
 "Language-Team: ru\n"
@@ -136,11 +136,6 @@ msgstr ""
 msgid "Application and website translators"
 msgstr ""
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Copyright"
-msgstr "Права копирования"
-
 #: download.html, index.html, screenshots.html, faq.html, features.html
 msgid "icon"
 msgstr "значок"
@@ -208,89 +203,17 @@ msgstr ""
 "OS X 10.3 (Panther), 10.4 (Tiger) и 10.5 (Leopard)."
 
 #: download.html
+msgid "SpeedCrunch is packaged by the following Linux distributions."
+msgstr ""
+
+#: download.html
+#, fuzzy
 msgid ""
-"Note that SpeedCrunch packages available from various distribution are not "
-"necessarily the latest version."
+"Note that packages available from various distributions are not necessarily "
+"the latest version."
 msgstr ""
 "Внимание! Пакеты SpeedCrunch, доступные из других источников, кроме нашего "
 "сайта, не обязательно содержат последнюю версию программы."
-
-#: download.html
-msgid "SpeedCrunch is the default desktop calculator."
-msgstr "SpeedCrunch по умолчанию - калькулятор рабочего стола."
-
-#: download.html
-msgid ""
-"If it is not available, install it using the Adept package manager (search "
-"for <i>speedcrunch</i>) or by the following terminal command:"
-msgstr ""
-"Если он не доступен на вашем компьютере, установите его с помощью менеджера "
-"пакетов Adept (ищите <i>speedcrunch</i>) или следующей команды терминала:"
-
-#: download.html
-msgid "Run SpeedCrunch using the <i>K Menu, Utilities, Calculator</i>."
-msgstr ""
-"Запустите SpeedCrunch с помощью <i>\"K Menu\" -> \"Утилиты\" -> \"Калькулятор"
-"\"</i>."
-
-#: download.html
-msgid "Install it using the command:"
-msgstr "Установите с помощью команды:"
-
-#: download.html
-msgid "Currently SpeedCrunch is part of Debian unstable."
-msgstr ""
-"В настоящее время SpeedCrunch является частью \"нестабильного\" дистрибутива "
-"Debian."
-
-#: download.html
-msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
-msgstr "SpeedCrunch официально включен в дистрибутив Gentoo Linux."
-
-#: download.html
-msgid ""
-"SpeedCrunch is part of Fedora Extras and is provided by the package named "
-"<i>speedcrunch</i>."
-msgstr ""
-"SpeedCrunch является частью Fedora Extras и доступен из пакета "
-"<i>speedcrunch</i>."
-
-#: download.html
-msgid ""
-"It can be installed using the graphical software management Pirut or by the "
-"following terminal command:"
-msgstr ""
-"Его можно установить с помощью графического управления приложениями Pirut "
-"или следующей команды терминала"
-
-#: download.html
-msgid ""
-"SpeedCrunch is available from <a href=\"http://en.opensuse.org/"
-"Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
-"repository</a>."
-msgstr ""
-"SpeedCrunch доступен из <a href=\"http://en.opensuse.org/"
-"Additional_YaST_Package_Repositories#KDE_Playground\">репозитория KDE "
-"Playground</a>"
-
-#: download.html
-msgid ""
-"After adding this repository to YaST (see <a href=\"http://en.opensuse.org/"
-"Add_Package_Repositories_to_YaST\">the instructions</a>), SpeedCrunch can be "
-"installed using YaST Software Management module or by the following command:"
-msgstr ""
-"После добавления этого репозитория в YaST (см. <a href=\"http://en.opensuse."
-"org/Add_Package_Repositories_to_YaST\">инструкции</a>), SpeedCrunch можно "
-"установить с помощью модуля управления приложениями YaST или следующей "
-"команды терминала:"
-
-#: download.html
-msgid ""
-"After installation, run SpeedCrunch using the <i>SUSE Menu, Applications, "
-"Utilities, Calculator, SpeedCrunch</i>."
-msgstr ""
-"После установки запустите SpeedCrunch с помощью <i>\"Меню SUSE\" -> "
-"\"Программы\" -> \"Утилиты\" -> \"Калькулятор\" -> \"SpeedCrunch\"</i>."
 
 #: download.html
 msgid "Other distributions"
@@ -307,24 +230,6 @@ msgstr ""
 #: download.html
 msgid "See the instructions below."
 msgstr "Инструкции см. ниже."
-
-#: download.html
-msgid ""
-"Or try to get SpeedCrunch from <a href=\"http://speedcrunch.klik.atekon.de/"
-"\">speedcrunch.klik.atekon.de</a>."
-msgstr ""
-"Или попробуйте закачать SpeedCrunch с сайта <a href=\"http://speedcrunch."
-"klik.atekon.de/\">speedcrunch.klik.atekon.de</a>."
-
-#: download.html
-msgid ""
-"It does not require <a href=\"http://klik.atekon.de/wiki/index.php/"
-"What_is_klik\">any installation</a> and so far has been <a href=\"http://"
-"speedcrunch.klik.atekon.de/comments/\">reported</a> to work under:"
-msgstr ""
-"Ему не требуется <a href=\"http://klik.atekon.de/wiki/index.php/What_is_klik"
-"\">установка</a> и может <a href=\"http://speedcrunch.klik.atekon.de/"
-"comments/\">работать</a> под:"
 
 #: download.html
 msgid "Source code"
@@ -1345,3 +1250,90 @@ msgid ""
 msgstr ""
 "Отправьте его нам (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>), и мы разместим его здесь."
+
+#~ msgid "SpeedCrunch is the default desktop calculator."
+#~ msgstr "SpeedCrunch по умолчанию - калькулятор рабочего стола."
+
+#~ msgid ""
+#~ "If it is not available, install it using the Adept package manager "
+#~ "(search for <i>speedcrunch</i>) or by the following terminal command:"
+#~ msgstr ""
+#~ "Если он не доступен на вашем компьютере, установите его с помощью "
+#~ "менеджера пакетов Adept (ищите <i>speedcrunch</i>) или следующей команды "
+#~ "терминала:"
+
+#~ msgid "Run SpeedCrunch using the <i>K Menu, Utilities, Calculator</i>."
+#~ msgstr ""
+#~ "Запустите SpeedCrunch с помощью <i>\"K Menu\" -> \"Утилиты\" -> "
+#~ "\"Калькулятор\"</i>."
+
+#~ msgid "Install it using the command:"
+#~ msgstr "Установите с помощью команды:"
+
+#~ msgid "Currently SpeedCrunch is part of Debian unstable."
+#~ msgstr ""
+#~ "В настоящее время SpeedCrunch является частью \"нестабильного\" "
+#~ "дистрибутива Debian."
+
+#~ msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
+#~ msgstr "SpeedCrunch официально включен в дистрибутив Gentoo Linux."
+
+#~ msgid ""
+#~ "SpeedCrunch is part of Fedora Extras and is provided by the package named "
+#~ "<i>speedcrunch</i>."
+#~ msgstr ""
+#~ "SpeedCrunch является частью Fedora Extras и доступен из пакета "
+#~ "<i>speedcrunch</i>."
+
+#~ msgid ""
+#~ "It can be installed using the graphical software management Pirut or by "
+#~ "the following terminal command:"
+#~ msgstr ""
+#~ "Его можно установить с помощью графического управления приложениями Pirut "
+#~ "или следующей команды терминала"
+
+#~ msgid ""
+#~ "SpeedCrunch is available from <a href=\"http://en.opensuse.org/"
+#~ "Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
+#~ "repository</a>."
+#~ msgstr ""
+#~ "SpeedCrunch доступен из <a href=\"http://en.opensuse.org/"
+#~ "Additional_YaST_Package_Repositories#KDE_Playground\">репозитория KDE "
+#~ "Playground</a>"
+
+#~ msgid ""
+#~ "After adding this repository to YaST (see <a href=\"http://en.opensuse."
+#~ "org/Add_Package_Repositories_to_YaST\">the instructions</a>), SpeedCrunch "
+#~ "can be installed using YaST Software Management module or by the "
+#~ "following command:"
+#~ msgstr ""
+#~ "После добавления этого репозитория в YaST (см. <a href=\"http://en."
+#~ "opensuse.org/Add_Package_Repositories_to_YaST\">инструкции</a>), "
+#~ "SpeedCrunch можно установить с помощью модуля управления приложениями "
+#~ "YaST или следующей команды терминала:"
+
+#~ msgid ""
+#~ "After installation, run SpeedCrunch using the <i>SUSE Menu, Applications, "
+#~ "Utilities, Calculator, SpeedCrunch</i>."
+#~ msgstr ""
+#~ "После установки запустите SpeedCrunch с помощью <i>\"Меню SUSE\" -> "
+#~ "\"Программы\" -> \"Утилиты\" -> \"Калькулятор\" -> \"SpeedCrunch\"</i>."
+
+#~ msgid ""
+#~ "Or try to get SpeedCrunch from <a href=\"http://speedcrunch.klik.atekon."
+#~ "de/\">speedcrunch.klik.atekon.de</a>."
+#~ msgstr ""
+#~ "Или попробуйте закачать SpeedCrunch с сайта <a href=\"http://speedcrunch."
+#~ "klik.atekon.de/\">speedcrunch.klik.atekon.de</a>."
+
+#~ msgid ""
+#~ "It does not require <a href=\"http://klik.atekon.de/wiki/index.php/"
+#~ "What_is_klik\">any installation</a> and so far has been <a href=\"http://"
+#~ "speedcrunch.klik.atekon.de/comments/\">reported</a> to work under:"
+#~ msgstr ""
+#~ "Ему не требуется <a href=\"http://klik.atekon.de/wiki/index.php/"
+#~ "What_is_klik\">установка</a> и может <a href=\"http://speedcrunch.klik."
+#~ "atekon.de/comments/\">работать</a> под:"
+
+#~ msgid "Copyright"
+#~ msgstr "Права копирования"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-09-13 23:01+0000\n"
+"POT-Creation-Date: 2010-06-23 19:10+0000\n"
 "PO-Revision-Date: 2009-08-31 21:00+0000\n"
 "Last-Translator: Bálint Török <torokbalint@hdsnet.hu>\n"
 "Language-Team: hu\n"
@@ -134,11 +134,6 @@ msgstr "Honlap fejlesztõk"
 msgid "Application and website translators"
 msgstr "Az alkalmazás és a honlap fordítói"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Copyright"
-msgstr "Szerzõi jog"
-
 #: download.html, index.html, screenshots.html, faq.html, features.html
 msgid "icon"
 msgstr "ikon"
@@ -204,86 +199,17 @@ msgstr ""
 "(Leopard) rendszereken is egyaránt fut."
 
 #: download.html
+msgid "SpeedCrunch is packaged by the following Linux distributions."
+msgstr ""
+
+#: download.html
+#, fuzzy
 msgid ""
-"Note that SpeedCrunch packages available from various distribution are not "
-"necessarily the latest version."
+"Note that packages available from various distributions are not necessarily "
+"the latest version."
 msgstr ""
 "Figyelmedbe ajánljuk, hogy a csomagok változó forrásból származnak és nem "
 "feltétlenül a legfrissebb verziót tartalmazzák."
-
-#: download.html
-msgid "SpeedCrunch is the default desktop calculator."
-msgstr "A SpeedCrunch az alapértelmezett számológép."
-
-#: download.html
-msgid ""
-"If it is not available, install it using the Adept package manager (search "
-"for <i>speedcrunch</i>) or by the following terminal command:"
-msgstr ""
-"Ha mégsem elérhetõ, telepítheted az Adept csomagkezelõvel (keress rá a "
-"<i>SpeedCrunch</i> kifejezésre) vagy a következõ terminál paranccsal:"
-
-#: download.html
-msgid "Run SpeedCrunch using the <i>K Menu, Utilities, Calculator</i>."
-msgstr ""
-"A SpeedCrunchot a <i>K Menü, Eszközök, Számológép</i> menübõl futtathatod."
-
-#: download.html
-msgid "Install it using the command:"
-msgstr "Telepíthetõ a következõ paranccsal:"
-
-#: download.html
-msgid "Currently SpeedCrunch is part of Debian unstable."
-msgstr "A SpeedCrunch része a Debian instabil verziójának."
-
-#: download.html
-msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
-msgstr "A SpeedCrunh már hivatalosan is elérhetõ a Gentoo Linuxban."
-
-#: download.html
-msgid ""
-"SpeedCrunch is part of Fedora Extras and is provided by the package named "
-"<i>speedcrunch</i>."
-msgstr ""
-"A SpeedCrunh része a Fedora Extrasnak és elérhetõ a <i>speedcrunch</i> nevû "
-"csomagban."
-
-#: download.html
-msgid ""
-"It can be installed using the graphical software management Pirut or by the "
-"following terminal command:"
-msgstr ""
-"Telepíthetõ a Pirut grafikai szoftverkezelõ segítségével, vagy a következõ "
-"terminál paranccsal:"
-
-#: download.html
-msgid ""
-"SpeedCrunch is available from <a href=\"http://en.opensuse.org/"
-"Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
-"repository</a>."
-msgstr ""
-"A SpeedCrunch elérthetõ a <a href=\"http://en.opensuse.org/"
-"Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
-"repository</a>-ból."
-
-#: download.html
-msgid ""
-"After adding this repository to YaST (see <a href=\"http://en.opensuse.org/"
-"Add_Package_Repositories_to_YaST\">the instructions</a>), SpeedCrunch can be "
-"installed using YaST Software Management module or by the following command:"
-msgstr ""
-"Miután hozzáadtuk a csomagok a YaST-hoz (további <a href=\"http://en."
-"opensuse.org/Add_Package_Repositories_to_YaST\">segítség</a> angolul), a "
-"SpeedCrunh telepíthetõ a YaST Szoftverkezelõ modullal, vagy a következõ "
-"parancssal:"
-
-#: download.html
-msgid ""
-"After installation, run SpeedCrunch using the <i>SUSE Menu, Applications, "
-"Utilities, Calculator, SpeedCrunch</i>."
-msgstr ""
-"A telepítés után a SpeedCrunchot a <i>SUSE Menü, Alkalmazások, Eszközök, "
-"Számológép, SpeedCrunch</i> menübõl futtathatjuk."
 
 #: download.html
 msgid "Other distributions"
@@ -300,24 +226,6 @@ msgstr ""
 #: download.html
 msgid "See the instructions below."
 msgstr "Kövesd az alábbi utasításokat!"
-
-#: download.html
-msgid ""
-"Or try to get SpeedCrunch from <a href=\"http://speedcrunch.klik.atekon.de/"
-"\">speedcrunch.klik.atekon.de</a>."
-msgstr ""
-"Vagy próbáld meg beszerezni a <a href=\"http://speedcrunch.klik.atekon.de/"
-"\">speedcrunch.klik.atekon.de</a> oldalról."
-
-#: download.html
-msgid ""
-"It does not require <a href=\"http://klik.atekon.de/wiki/index.php/"
-"What_is_klik\">any installation</a> and so far has been <a href=\"http://"
-"speedcrunch.klik.atekon.de/comments/\">reported</a> to work under:"
-msgstr ""
-"Semmilyen <a href=\"http://klik.atekon.de/wiki/index.php/What_is_klik"
-"\">telepítés</a> nem szükséges hozzá és a <a href=\"http://speedcrunch.klik."
-"atekon.de/comments/\">jelek szerint</a> fut a következõ rendszereken:"
 
 #: download.html
 msgid "Source code"
@@ -1337,3 +1245,86 @@ msgid ""
 msgstr ""
 "Küldd el nekünk (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>) és mi kirakjuk ide!"
+
+#~ msgid "SpeedCrunch is the default desktop calculator."
+#~ msgstr "A SpeedCrunch az alapértelmezett számológép."
+
+#~ msgid ""
+#~ "If it is not available, install it using the Adept package manager "
+#~ "(search for <i>speedcrunch</i>) or by the following terminal command:"
+#~ msgstr ""
+#~ "Ha mégsem elérhetõ, telepítheted az Adept csomagkezelõvel (keress rá a "
+#~ "<i>SpeedCrunch</i> kifejezésre) vagy a következõ terminál paranccsal:"
+
+#~ msgid "Run SpeedCrunch using the <i>K Menu, Utilities, Calculator</i>."
+#~ msgstr ""
+#~ "A SpeedCrunchot a <i>K Menü, Eszközök, Számológép</i> menübõl futtathatod."
+
+#~ msgid "Install it using the command:"
+#~ msgstr "Telepíthetõ a következõ paranccsal:"
+
+#~ msgid "Currently SpeedCrunch is part of Debian unstable."
+#~ msgstr "A SpeedCrunch része a Debian instabil verziójának."
+
+#~ msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
+#~ msgstr "A SpeedCrunh már hivatalosan is elérhetõ a Gentoo Linuxban."
+
+#~ msgid ""
+#~ "SpeedCrunch is part of Fedora Extras and is provided by the package named "
+#~ "<i>speedcrunch</i>."
+#~ msgstr ""
+#~ "A SpeedCrunh része a Fedora Extrasnak és elérhetõ a <i>speedcrunch</i> "
+#~ "nevû csomagban."
+
+#~ msgid ""
+#~ "It can be installed using the graphical software management Pirut or by "
+#~ "the following terminal command:"
+#~ msgstr ""
+#~ "Telepíthetõ a Pirut grafikai szoftverkezelõ segítségével, vagy a "
+#~ "következõ terminál paranccsal:"
+
+#~ msgid ""
+#~ "SpeedCrunch is available from <a href=\"http://en.opensuse.org/"
+#~ "Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
+#~ "repository</a>."
+#~ msgstr ""
+#~ "A SpeedCrunch elérthetõ a <a href=\"http://en.opensuse.org/"
+#~ "Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
+#~ "repository</a>-ból."
+
+#~ msgid ""
+#~ "After adding this repository to YaST (see <a href=\"http://en.opensuse."
+#~ "org/Add_Package_Repositories_to_YaST\">the instructions</a>), SpeedCrunch "
+#~ "can be installed using YaST Software Management module or by the "
+#~ "following command:"
+#~ msgstr ""
+#~ "Miután hozzáadtuk a csomagok a YaST-hoz (további <a href=\"http://en."
+#~ "opensuse.org/Add_Package_Repositories_to_YaST\">segítség</a> angolul), a "
+#~ "SpeedCrunh telepíthetõ a YaST Szoftverkezelõ modullal, vagy a következõ "
+#~ "parancssal:"
+
+#~ msgid ""
+#~ "After installation, run SpeedCrunch using the <i>SUSE Menu, Applications, "
+#~ "Utilities, Calculator, SpeedCrunch</i>."
+#~ msgstr ""
+#~ "A telepítés után a SpeedCrunchot a <i>SUSE Menü, Alkalmazások, Eszközök, "
+#~ "Számológép, SpeedCrunch</i> menübõl futtathatjuk."
+
+#~ msgid ""
+#~ "Or try to get SpeedCrunch from <a href=\"http://speedcrunch.klik.atekon."
+#~ "de/\">speedcrunch.klik.atekon.de</a>."
+#~ msgstr ""
+#~ "Vagy próbáld meg beszerezni a <a href=\"http://speedcrunch.klik.atekon.de/"
+#~ "\">speedcrunch.klik.atekon.de</a> oldalról."
+
+#~ msgid ""
+#~ "It does not require <a href=\"http://klik.atekon.de/wiki/index.php/"
+#~ "What_is_klik\">any installation</a> and so far has been <a href=\"http://"
+#~ "speedcrunch.klik.atekon.de/comments/\">reported</a> to work under:"
+#~ msgstr ""
+#~ "Semmilyen <a href=\"http://klik.atekon.de/wiki/index.php/What_is_klik"
+#~ "\">telepítés</a> nem szükséges hozzá és a <a href=\"http://speedcrunch."
+#~ "klik.atekon.de/comments/\">jelek szerint</a> fut a következõ rendszereken:"
+
+#~ msgid "Copyright"
+#~ msgstr "Szerzõi jog"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-08-31 23:22+0000\n"
+"POT-Creation-Date: 2010-06-23 19:10+0000\n"
 "PO-Revision-Date: 2007-07-29 00:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: en\n"
@@ -133,11 +133,6 @@ msgstr ""
 msgid "Application and website translators"
 msgstr ""
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Copyright"
-msgstr ""
-
 #: download.html, index.html, screenshots.html, faq.html, features.html
 msgid "icon"
 msgstr ""
@@ -193,67 +188,13 @@ msgid ""
 msgstr ""
 
 #: download.html
-msgid ""
-"Note that SpeedCrunch packages available from various distribution are not "
-"necessarily the latest version."
-msgstr ""
-
-#: download.html
-msgid "SpeedCrunch is the default desktop calculator."
+msgid "SpeedCrunch is packaged by the following Linux distributions."
 msgstr ""
 
 #: download.html
 msgid ""
-"If it is not available, install it using the Adept package manager (search "
-"for <i>speedcrunch</i>) or by the following terminal command:"
-msgstr ""
-
-#: download.html
-msgid "Run SpeedCrunch using the <i>K Menu, Utilities, Calculator</i>."
-msgstr ""
-
-#: download.html
-msgid "Install it using the command:"
-msgstr ""
-
-#: download.html
-msgid "Currently SpeedCrunch is part of Debian unstable."
-msgstr ""
-
-#: download.html
-msgid "SpeedCrunch is now officially distributed in Gentoo Linux."
-msgstr ""
-
-#: download.html
-msgid ""
-"SpeedCrunch is part of Fedora Extras and is provided by the package named "
-"<i>speedcrunch</i>."
-msgstr ""
-
-#: download.html
-msgid ""
-"It can be installed using the graphical software management Pirut or by the "
-"following terminal command:"
-msgstr ""
-
-#: download.html
-msgid ""
-"SpeedCrunch is available from <a href=\"http://en.opensuse.org/"
-"Additional_YaST_Package_Repositories#KDE_Playground\">KDE Playground "
-"repository</a>."
-msgstr ""
-
-#: download.html
-msgid ""
-"After adding this repository to YaST (see <a href=\"http://en.opensuse.org/"
-"Add_Package_Repositories_to_YaST\">the instructions</a>), SpeedCrunch can be "
-"installed using YaST Software Management module or by the following command:"
-msgstr ""
-
-#: download.html
-msgid ""
-"After installation, run SpeedCrunch using the <i>SUSE Menu, Applications, "
-"Utilities, Calculator, SpeedCrunch</i>."
+"Note that packages available from various distributions are not necessarily "
+"the latest version."
 msgstr ""
 
 #: download.html
@@ -268,19 +209,6 @@ msgstr ""
 
 #: download.html
 msgid "See the instructions below."
-msgstr ""
-
-#: download.html
-msgid ""
-"Or try to get SpeedCrunch from <a href=\"http://speedcrunch.klik.atekon.de/"
-"\">speedcrunch.klik.atekon.de</a>."
-msgstr ""
-
-#: download.html
-msgid ""
-"It does not require <a href=\"http://klik.atekon.de/wiki/index.php/"
-"What_is_klik\">any installation</a> and so far has been <a href=\"http://"
-"speedcrunch.klik.atekon.de/comments/\">reported</a> to work under:"
 msgstr ""
 
 #: download.html
