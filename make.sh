@@ -58,5 +58,5 @@ do
 done
 
 # copy images, CSS, JS and redirecting root files
-cp -Rf css flags icons images js root/* $DIR
+cp -Rf css flags icons images root/* $DIR
 
