@@ -90,6 +90,10 @@ em {
     width: 88%;
     background: -webkit-gradient(linear, left top, right top, from(#fff), to(#faabff));
     background: -moz-linear-gradient(left, #fff, #faabff);
+    /* IE 5.5-7 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=#FFFFFFFF, endColorStr=#FFFAABFF, GradientType=1);
+    /* IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#FFFAABFF, GradientType=1)";
     border-width: 60px 30px;
     border-radius: 110px 35px;
     padding: 30px;
