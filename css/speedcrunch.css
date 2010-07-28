@@ -21,6 +21,7 @@ em {
 #header {
     border-width: 60px 30px;
     border-radius: 95px 95px;
+    -moz-border-radius: 95px 95px;
     font-weight: 900;
     margin-top: -95px;
     margin-left: 10px;
@@ -96,6 +97,7 @@ em {
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#FFFAABFF, GradientType=1)";
     border-width: 60px 30px;
     border-radius: 110px 35px;
+    -moz-border-radius: 110px 35px;
     padding: 30px;
     margin: 0px;
     text-align: left;
