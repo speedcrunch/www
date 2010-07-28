@@ -89,7 +89,7 @@ em {
 #box {
     width: 88%;
     background: -webkit-gradient(linear, left top, right top, from(#fff), to(#faabff));
-    background: -moz-linear-gradient(top, #fff, #faabff);
+    background: -moz-linear-gradient(left, #fff, #faabff);
     border-width: 60px 30px;
     border-radius: 110px 35px;
     padding: 30px;
