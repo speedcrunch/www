@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-07-13 18:29+0000\n"
+"POT-Creation-Date: 2010-08-11 08:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -215,7 +215,7 @@ msgid "<a href=\"http://www.cmake.org\">CMake</a> (minimum version 2.4.4)"
 msgstr ""
 
 #: download.html
-msgid "<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.3 and including development environment)"
+msgid "<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.6 and including development environment)"
 msgstr ""
 
 #: download.html

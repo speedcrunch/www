@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-06-23 19:10+0000\n"
+"POT-Creation-Date: 2010-08-11 08:15+0000\n"
 "PO-Revision-Date: 2007-07-29 00:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: en\n"
@@ -249,7 +249,7 @@ msgstr ""
 
 #: download.html
 msgid ""
-"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.3 and "
+"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.6 and "
 "including development environment)"
 msgstr ""
 
