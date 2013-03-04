@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-04 09:40+0000\n"
+"POT-Creation-Date: 2013-03-04 09:57+0000\n"
 "PO-Revision-Date: 2007-11-07 00:16+0100\n"
 "Last-Translator: Alessio 'isazi' Sclocco <isazi@olografix.org>\n"
 "Language-Team: Italiano\n"
@@ -954,12 +954,6 @@ msgstr "SpeedCrunch è la calcolatrice di default."
 
 #: features.html
 msgid ""
-"SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
-"powerful open-source calculator."
-msgstr ""
-
-#: features.html
-msgid ""
 "Overall, I think I’ll be using SpeedCrunch more and more for doing my "
 "mathematic evaluations. It works on Windows too, so if you’ve decided to "
 "stick with that operating system, here’s a better replacement for the "
@@ -1003,12 +997,6 @@ msgid ""
 "From the perspective of a non-math guy, SpeedCrunch is the best calculator "
 "on Linux."
 msgstr "SpeedCrunch è la calcolatrice di default."
-
-#: features.html
-msgid ""
-"SpeedCrunch brings so much more to the table than the traditional Windows "
-"calculator, with it’s fresh looks, powerful features and customization."
-msgstr ""
 
 #: features.html
 msgid ""

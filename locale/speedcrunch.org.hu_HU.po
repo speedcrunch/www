@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-04 09:40+0000\n"
+"POT-Creation-Date: 2013-03-04 09:57+0000\n"
 "PO-Revision-Date: 2009-08-31 21:00+0000\n"
 "Last-Translator: Bálint Török <torokbalint@hdsnet.hu>\n"
 "Language-Team: hu\n"
@@ -958,14 +958,6 @@ msgid "SpeedCrunch is the best calculator available on Linux."
 msgstr "A SpeedCrunch az elérhetõ legjobb számológép Linuxra."
 
 #: features.html
-msgid ""
-"SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
-"powerful open-source calculator."
-msgstr ""
-"A SpeedCrunch lehet, hogy úgy hangzik, mint egy müzli márka, de igazából egy "
-"rettentõ erõs nyílt forráskódú számológép."
-
-#: features.html
 #, fuzzy
 msgid ""
 "Overall, I think I’ll be using SpeedCrunch more and more for doing my "
@@ -1022,15 +1014,6 @@ msgid ""
 msgstr ""
 "Egy nem matekos srác szemszögébõl: a SpeedCrunch a legjobb számológép "
 "Linuxra."
-
-#: features.html
-#, fuzzy
-msgid ""
-"SpeedCrunch brings so much more to the table than the traditional Windows "
-"calculator, with it’s fresh looks, powerful features and customization."
-msgstr ""
-"A SpeedCrunch mérföldekkel megelõzi az eredeti Windows számológépet a friss "
-"kinézettel, az ügyes funkciókkal és a testreszabhatósággal"
 
 #: features.html
 #, fuzzy
@@ -1190,6 +1173,21 @@ msgid ""
 msgstr ""
 "Küldd el nekünk (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>) és mi kirakjuk ide!"
+
+#~ msgid ""
+#~ "SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
+#~ "powerful open-source calculator."
+#~ msgstr ""
+#~ "A SpeedCrunch lehet, hogy úgy hangzik, mint egy müzli márka, de igazából "
+#~ "egy rettentõ erõs nyílt forráskódú számológép."
+
+#, fuzzy
+#~ msgid ""
+#~ "SpeedCrunch brings so much more to the table than the traditional Windows "
+#~ "calculator, with it’s fresh looks, powerful features and customization."
+#~ msgstr ""
+#~ "A SpeedCrunch mérföldekkel megelõzi az eredeti Windows számológépet a "
+#~ "friss kinézettel, az ügyes funkciókkal és a testreszabhatósággal"
 
 #~ msgid ""
 #~ "For more information, see also the complete <a href=\"features.html"

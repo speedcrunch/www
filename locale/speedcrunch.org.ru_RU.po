@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-04 09:40+0000\n"
+"POT-Creation-Date: 2013-03-04 09:57+0000\n"
 "PO-Revision-Date: 2009-01-28 22:36+0300\n"
 "Last-Translator: Alexander Bushuev <avbushuev@yandex.ru>\n"
 "Language-Team: ru\n"
@@ -967,14 +967,6 @@ msgstr "SpeedCrunch - лучший калькулятор, работающий 
 
 #: features.html
 msgid ""
-"SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
-"powerful open-source calculator."
-msgstr ""
-"SpeedCrunch, может, и звучит, как овсянка на завтрак, но это действительно "
-"очень мощный калькулятор с открытыми исходными кодами."
-
-#: features.html
-msgid ""
 "Overall, I think I’ll be using SpeedCrunch more and more for doing my "
 "mathematic evaluations. It works on Windows too, so if you’ve decided to "
 "stick with that operating system, here’s a better replacement for the "
@@ -1028,12 +1020,6 @@ msgid ""
 "From the perspective of a non-math guy, SpeedCrunch is the best calculator "
 "on Linux."
 msgstr "SpeedCrunch - лучший калькулятор, работающий под Linux."
-
-#: features.html
-msgid ""
-"SpeedCrunch brings so much more to the table than the traditional Windows "
-"calculator, with it’s fresh looks, powerful features and customization."
-msgstr ""
 
 #: features.html
 msgid ""
@@ -1193,6 +1179,13 @@ msgid ""
 msgstr ""
 "Отправьте его нам (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>), и мы разместим его здесь."
+
+#~ msgid ""
+#~ "SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
+#~ "powerful open-source calculator."
+#~ msgstr ""
+#~ "SpeedCrunch, может, и звучит, как овсянка на завтрак, но это "
+#~ "действительно очень мощный калькулятор с открытыми исходными кодами."
 
 #~ msgid "Download the tarball:"
 #~ msgstr "Загрузите тарбол:"
