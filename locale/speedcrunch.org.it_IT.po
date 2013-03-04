@@ -5,10 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-11 08:15+0000\n"
+"POT-Creation-Date: 2013-03-04 09:40+0000\n"
 "PO-Revision-Date: 2007-11-07 00:16+0100\n"
 "Last-Translator: Alessio 'isazi' Sclocco <isazi@olografix.org>\n"
 "Language-Team: Italiano\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -145,8 +146,8 @@ msgid "Version 0.10.1 (May 2008)"
 msgstr ""
 
 #: download.html
-msgid "Download the installer:"
-msgstr "Scaricare la procedura d'installazione:"
+msgid "Installer:"
+msgstr ""
 
 #: download.html
 msgid ""
@@ -155,100 +156,84 @@ msgid ""
 msgstr "Per installare cliccare sul file e seguire le istruzioni passo passo."
 
 #: download.html
+#, fuzzy
 msgid ""
-"After installed, run SpeedCrunch using <i>Start</i> menu, <i>All Programs</"
-"i>, <i>SpeedCrunch</i>."
+"After installed, run it from <i>Start</i> &gt; <i>All Programs</i>  &gt; "
+"<i>SpeedCrunch</i>."
 msgstr ""
 "Dopo averlo installato avviare SpeedCrunch mediante il menu <i>Avvio</i>, "
 "<i>tutti i programmi</i>, <i>SpeedCrunch</i>."
 
 #: download.html
-msgid "NEW!"
+msgid "Portable Edition:"
 msgstr ""
 
 #: download.html
-msgid "Now you can also run SpeedCrunch without the need of installing it."
+msgid "No installation."
 msgstr ""
 
 #: download.html
-msgid ""
-"So if you don't have permission to install it on your system or you want to "
-"take it everywhere with you on your pen drive, for instance, just download "
-"the archive below, extract it and click on the executable file inside the "
-"directory."
-msgstr ""
-
-#: download.html
-msgid "You can move the directory to any place and still run the application."
-msgstr ""
-
-#: download.html
-msgid "Download the bundle:"
+msgid "Take it everywhere."
 msgstr ""
 
 #: download.html
 msgid ""
-"This bundle is Universal Binary and should work on Mac OS X 10.3 (Panther), "
-"10.4 (Tiger), and 10.5 (Leopard)."
+"Simply download the archive, extract and run by clicking on the executable "
+"file inside."
+msgstr ""
+
+#: download.html
+msgid "Universal Binary bundle:"
+msgstr ""
+
+#: download.html
+#, fuzzy
+msgid "It should work on Mac OS X 10.3 (Panther) and above."
 msgstr ""
 "Questo pacchetto è un Binario Universale e funziona su Mac OS X 10.3 "
 "(Panther), 10.4 (Tiger), and 10.5 (Leopard)."
 
 #: download.html
-msgid "SpeedCrunch is packaged by the following Linux distributions."
+#, fuzzy
+msgid "SpeedCrunch is available on all major Linux distributions."
+msgstr "SpeedCrunch è la calcolatrice di default."
+
+#: download.html
+msgid ""
+"Please use your distribution's software center application to search and "
+"install Speedrunch."
 msgstr ""
 
 #: download.html
 #, fuzzy
 msgid ""
-"Note that packages available from various distributions are not necessarily "
-"the latest version."
+"Note that packages available from distributions are not necessarily the "
+"latest version."
 msgstr ""
 "È da notare che i pacchetti di SpeedCrunch disponibile con le varie "
 "distribuzioni non necessariamente comprendono l'ultima versione."
-
-#: download.html
-msgid "Other distributions"
-msgstr "Altre distribuzioni"
-
-#: download.html
-msgid ""
-"For other Linux distributions, you can install SpeedCrunch by compiling it "
-"from source code."
-msgstr ""
-"Per le altre distribuzioni è possibile installare SpeedCrunch compilandolo a "
-"partire dal codice sorgente."
-
-#: download.html
-msgid "See the instructions below."
-msgstr "Leggere le istruzioni in basso."
 
 #: download.html
 msgid "Source code"
 msgstr "Codice sorgente"
 
 #: download.html
-msgid "To build the source code and install:"
+msgid "Tarball:"
 msgstr ""
 
 #: download.html
-msgid "Download the tarball:"
-msgstr "Scarica l'archivio:"
-
-#: download.html
-msgid "Extract the package to a temporary directory"
+#, fuzzy
+msgid "Extract to temporary directory"
 msgstr "Estrarre il pacchetto in una directory provvisoria"
 
 #: download.html
 msgid ""
-"Run <tt>cmake .</tt> from the <tt>src</tt> subfolder, followed by <tt>make</"
-"tt>"
+"Run <tt>cmake .</tt> from the <tt>src</tt> folder, followed by <tt>make</tt>"
 msgstr ""
 
 #: download.html
 msgid ""
-"To install it, run <tt>make install</tt> (might need administation "
-"privileges)"
+"Install with <tt>make install</tt> (might need administration privileges)"
 msgstr ""
 
 #: download.html
@@ -261,8 +246,17 @@ msgstr ""
 
 #: download.html
 msgid ""
-"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.6 and "
-"including development environment)"
+"<a href=\"http://qt.digia.com\">Qt</a> (minimum version 4.6 and including "
+"development environment)"
+msgstr ""
+
+#: download.html
+#, fuzzy
+msgid "Development repository"
+msgstr "Versione di sviluppo"
+
+#: download.html
+msgid "Clone one of the redundant Git repositories:"
 msgstr ""
 
 #: download.html
@@ -386,55 +380,6 @@ msgstr ""
 #: download.html
 msgid "possibility to package portable versions with no need for installation"
 msgstr ""
-
-#: download.html
-#, fuzzy
-msgid ""
-"For more information, see also the complete <a href=\"features.html"
-"\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/svn/"
-"tags/0.10.1/ChangeLog\">list of changes</a>, and <a href=\"http://code."
-"google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified"
-"+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner"
-"+Summary&cells=tiles\">resolved bugs</a>."
-msgstr ""
-"Per maggiori informazioni consultare <a href=\"features.htm\">la descrizione "
-"completa delle funzionalità</a>, <a href=\"http://speedcrunch.googlecode.com/"
-"svn/tags/0.10.1/ChangeLog\">la lista dei cambiamenti</a> e <a href=\"http://"
-"code.google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified"
-"+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner"
-"+Summary&cells=tiles\">gli errori corretti</a>."
-
-#: download.html
-msgid "System requirements"
-msgstr "Requisiti di sistema"
-
-#: download.html
-msgid "Pentium-compatible processor"
-msgstr "Un processore Pentium-compatibile"
-
-#: download.html
-msgid "RAM minimum 32 MB"
-msgstr "RAM minima 32 MB"
-
-#: download.html
-msgid "Hard disk space 16 MB"
-msgstr "16 MB di spazio sul disco fisso"
-
-#: download.html
-msgid "Supported operating systems"
-msgstr "Sistemi operativi supportati"
-
-#: download.html
-msgid "32- and 64-bit"
-msgstr "32- e 64-bit"
-
-#: download.html
-msgid "Development version"
-msgstr "Versione di sviluppo"
-
-#: download.html
-msgid "Please go to:"
-msgstr "Per favore andare su:"
 
 #: download.html
 msgid "License"
@@ -1215,6 +1160,62 @@ msgid ""
 msgstr ""
 "Inviate i vostri (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>) e li metteremo su questa pagina."
+
+#, fuzzy
+#~ msgid ""
+#~ "For more information, see also the complete <a href=\"features.html"
+#~ "\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/"
+#~ "svn/tags/0.10.1/ChangeLog\">list of changes</a>, and <a href=\"http://"
+#~ "code.google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed"
+#~ "%2CVerified+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone"
+#~ "+Owner+Summary&cells=tiles\">resolved bugs</a>."
+#~ msgstr ""
+#~ "Per maggiori informazioni consultare <a href=\"features.htm\">la "
+#~ "descrizione completa delle funzionalità</a>, <a href=\"http://speedcrunch."
+#~ "googlecode.com/svn/tags/0.10.1/ChangeLog\">la lista dei cambiamenti</a> e "
+#~ "<a href=\"http://code.google.com/p/speedcrunch/issues/list?can=1&q=status"
+#~ "%3AFixed%2CVerified+milestone%3A0.10.1&colspec=ID+Type+Status+Priority"
+#~ "+Milestone+Owner+Summary&cells=tiles\">gli errori corretti</a>."
+
+#~ msgid "System requirements"
+#~ msgstr "Requisiti di sistema"
+
+#~ msgid "Pentium-compatible processor"
+#~ msgstr "Un processore Pentium-compatibile"
+
+#~ msgid "RAM minimum 32 MB"
+#~ msgstr "RAM minima 32 MB"
+
+#~ msgid "Hard disk space 16 MB"
+#~ msgstr "16 MB di spazio sul disco fisso"
+
+#~ msgid "Supported operating systems"
+#~ msgstr "Sistemi operativi supportati"
+
+#~ msgid "32- and 64-bit"
+#~ msgstr "32- e 64-bit"
+
+#~ msgid "Please go to:"
+#~ msgstr "Per favore andare su:"
+
+#~ msgid "Download the tarball:"
+#~ msgstr "Scarica l'archivio:"
+
+#~ msgid "Download the installer:"
+#~ msgstr "Scaricare la procedura d'installazione:"
+
+#~ msgid "Other distributions"
+#~ msgstr "Altre distribuzioni"
+
+#~ msgid ""
+#~ "For other Linux distributions, you can install SpeedCrunch by compiling "
+#~ "it from source code."
+#~ msgstr ""
+#~ "Per le altre distribuzioni è possibile installare SpeedCrunch "
+#~ "compilandolo a partire dal codice sorgente."
+
+#~ msgid "See the instructions below."
+#~ msgstr "Leggere le istruzioni in basso."
 
 #~ msgid "SpeedCrunch is the default desktop calculator."
 #~ msgstr "SpeedCrunch è la calcolatrice di default."

@@ -5,10 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-11 08:15+0000\n"
+"POT-Creation-Date: 2013-03-04 09:40+0000\n"
 "PO-Revision-Date: 2009-09-13 03:47+0100\n"
 "Last-Translator: Michał Trzebiatowski <hippie_1968@hotmail.com>\n"
 "Language-Team: Michał Trzebiatowski <hippie_1968@hotmail.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -145,8 +146,8 @@ msgid "Version 0.10.1 (May 2008)"
 msgstr "Wersja 0.10.1 (maj 2008)"
 
 #: download.html
-msgid "Download the installer:"
-msgstr "Pobierz instalator:"
+msgid "Installer:"
+msgstr ""
 
 #: download.html
 msgid ""
@@ -157,106 +158,87 @@ msgstr ""
 "instrukcjami."
 
 #: download.html
+#, fuzzy
 msgid ""
-"After installed, run SpeedCrunch using <i>Start</i> menu, <i>All Programs</"
-"i>, <i>SpeedCrunch</i>."
+"After installed, run it from <i>Start</i> &gt; <i>All Programs</i>  &gt; "
+"<i>SpeedCrunch</i>."
 msgstr ""
 "Po zainstalowaniu uruchom SpeedCrunch używając menu <i>Start</i>, "
 "<i>Wszystkie programy</i>, <i>SpeedCrunch</i>."
 
 #: download.html
-msgid "NEW!"
-msgstr "NOWOŚĆ!"
+msgid "Portable Edition:"
+msgstr ""
 
 #: download.html
-msgid "Now you can also run SpeedCrunch without the need of installing it."
+msgid "No installation."
 msgstr ""
-"Teraz możesz również uruchamiać SpeedCrunch bez potrzeby instalowania go."
+
+#: download.html
+msgid "Take it everywhere."
+msgstr ""
 
 #: download.html
 msgid ""
-"So if you don't have permission to install it on your system or you want to "
-"take it everywhere with you on your pen drive, for instance, just download "
-"the archive below, extract it and click on the executable file inside the "
-"directory."
+"Simply download the archive, extract and run by clicking on the executable "
+"file inside."
 msgstr ""
-"Jeśli nie masz uprawnień, aby zainstalować go na swoim systemie lub chcesz "
-"go zabrać ze sobą, na przykład na twoim dysku przenośnym, po prostu pobierz "
-"archiwum poniżej, rozpakuj i kliknij na plik wykonywalny wewnątrz katalogu."
 
 #: download.html
-msgid "You can move the directory to any place and still run the application."
+msgid "Universal Binary bundle:"
 msgstr ""
-"Możesz przenieść katalog do dowolnego miejsca i wciąż uruchamiać aplikację."
 
 #: download.html
-msgid "Download the bundle:"
-msgstr "Pobierz pakiet:"
-
-#: download.html
-msgid ""
-"This bundle is Universal Binary and should work on Mac OS X 10.3 (Panther), "
-"10.4 (Tiger), and 10.5 (Leopard)."
+#, fuzzy
+msgid "It should work on Mac OS X 10.3 (Panther) and above."
 msgstr ""
 "Ten pakiet jest uniwersalną paczką binarną i powinien działać na Mac OS X "
 "10.3 (Panther), 10,4 (Tiger) oraz 10.5 (Leopard)."
 
 #: download.html
-msgid "SpeedCrunch is packaged by the following Linux distributions."
+#, fuzzy
+msgid "SpeedCrunch is available on all major Linux distributions."
+msgstr "SpeedCrunch jest najlepszym kalkulatorem dostępnym na Linuksie."
+
+#: download.html
+msgid ""
+"Please use your distribution's software center application to search and "
+"install Speedrunch."
 msgstr ""
 
 #: download.html
 #, fuzzy
 msgid ""
-"Note that packages available from various distributions are not necessarily "
-"the latest version."
+"Note that packages available from distributions are not necessarily the "
+"latest version."
 msgstr ""
 "Należy pamiętać, że pakiety SpeedCrunch z różnych dystrybucji niekoniecznie "
 "są najnowszą wersją."
-
-#: download.html
-msgid "Other distributions"
-msgstr "Inne dystrybucje"
-
-#: download.html
-msgid ""
-"For other Linux distributions, you can install SpeedCrunch by compiling it "
-"from source code."
-msgstr ""
-"W przypadku innych dystrybucji Linuksa, możesz zainstalować SpeedCrunch "
-"przez kompilację z kodu źródłowego."
-
-#: download.html
-msgid "See the instructions below."
-msgstr "Zobacz instrukcje poniżej."
 
 #: download.html
 msgid "Source code"
 msgstr "Kod źródłowy"
 
 #: download.html
-msgid "To build the source code and install:"
-msgstr "Aby stworzyć i zainstalować program z kodu źródłowego:"
+msgid "Tarball:"
+msgstr ""
 
 #: download.html
-msgid "Download the tarball:"
-msgstr "Pobierz archiwum:"
-
-#: download.html
-msgid "Extract the package to a temporary directory"
+#, fuzzy
+msgid "Extract to temporary directory"
 msgstr "Rozpakuj pakiet do katalogu tymczasowego"
 
 #: download.html
+#, fuzzy
 msgid ""
-"Run <tt>cmake .</tt> from the <tt>src</tt> subfolder, followed by <tt>make</"
-"tt>"
+"Run <tt>cmake .</tt> from the <tt>src</tt> folder, followed by <tt>make</tt>"
 msgstr ""
 "Uruchom <tt>cmake .</tt> z podfolderu <tt>src</tt>, a następnie <tt>make</tt>"
 
 #: download.html
+#, fuzzy
 msgid ""
-"To install it, run <tt>make install</tt> (might need administation "
-"privileges)"
+"Install with <tt>make install</tt> (might need administration privileges)"
 msgstr ""
 "Aby go zainstalować, należy uruchomić <tt>make install</tt> (mogą potrzebne "
 "być prawa administratorskie)"
@@ -272,11 +254,20 @@ msgstr "<a href=\"http://www.cmake.org\">CMake</a> (w wersji minimum 2.4.4)"
 #: download.html
 #, fuzzy
 msgid ""
-"<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.6 and "
-"including development environment)"
+"<a href=\"http://qt.digia.com\">Qt</a> (minimum version 4.6 and including "
+"development environment)"
 msgstr ""
 "<a href=\"http://trolltech.com/products/qt\">Qt</a> (w wersji minimum 4.3 i "
 "środowisko rozwoju)"
+
+#: download.html
+#, fuzzy
+msgid "Development repository"
+msgstr "Wersja BETA"
+
+#: download.html
+msgid "Clone one of the redundant Git repositories:"
+msgstr ""
 
 #: download.html
 msgid "Main changes in version 0.10.1"
@@ -404,54 +395,6 @@ msgstr "domyślny plik pulpitu dla integracji dystrybucji Linuksa"
 #: download.html
 msgid "possibility to package portable versions with no need for installation"
 msgstr "możliwość pakietu przenośnego bez potrzeby instalacji"
-
-#: download.html
-msgid ""
-"For more information, see also the complete <a href=\"features.html"
-"\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/svn/"
-"tags/0.10.1/ChangeLog\">list of changes</a>, and <a href=\"http://code."
-"google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified"
-"+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner"
-"+Summary&cells=tiles\">resolved bugs</a>."
-msgstr ""
-"Aby uzyskać więcej informacji, zobacz także kompletny <a href=\"features.html"
-"\">opis funkcji</a>, <a href=\"http://speedcrunch.googlecode.com/svn/"
-"tags/0.10.1/ChangeLog\">listę zmian</a> i <a href=\"http://code.google.com/p/"
-"speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified+milestone%"
-"3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles"
-"\">rozwiązania błędów</a>."
-
-#: download.html
-msgid "System requirements"
-msgstr "Wymagania systemowe"
-
-#: download.html
-msgid "Pentium-compatible processor"
-msgstr "procesor zgodny z procesorem Pentium"
-
-#: download.html
-msgid "RAM minimum 32 MB"
-msgstr "minimum 32 MB pamięci"
-
-#: download.html
-msgid "Hard disk space 16 MB"
-msgstr "16 MB miejsca na dysku twardym "
-
-#: download.html
-msgid "Supported operating systems"
-msgstr "Obsługiwane systemy operacyjne"
-
-#: download.html
-msgid "32- and 64-bit"
-msgstr "32 - i 64-bitowe"
-
-#: download.html
-msgid "Development version"
-msgstr "Wersja BETA"
-
-#: download.html
-msgid "Please go to:"
-msgstr "Pobierz:"
 
 #: download.html
 msgid "License"
@@ -1253,6 +1196,95 @@ msgid ""
 msgstr ""
 "Wyślij go do nas (<a href=\"mailto:screenshot@speedcrunch.org"
 "\">screenshot@speedcrunch.org</a>), a my opublikujemy go tutaj."
+
+#~ msgid "Download the tarball:"
+#~ msgstr "Pobierz archiwum:"
+
+#~ msgid ""
+#~ "For more information, see also the complete <a href=\"features.html"
+#~ "\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/"
+#~ "svn/tags/0.10.1/ChangeLog\">list of changes</a>, and <a href=\"http://"
+#~ "code.google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed"
+#~ "%2CVerified+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone"
+#~ "+Owner+Summary&cells=tiles\">resolved bugs</a>."
+#~ msgstr ""
+#~ "Aby uzyskać więcej informacji, zobacz także kompletny <a href=\"features."
+#~ "html\">opis funkcji</a>, <a href=\"http://speedcrunch.googlecode.com/svn/"
+#~ "tags/0.10.1/ChangeLog\">listę zmian</a> i <a href=\"http://code.google."
+#~ "com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified+milestone"
+#~ "%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner"
+#~ "+Summary&cells=tiles\">rozwiązania błędów</a>."
+
+#~ msgid "System requirements"
+#~ msgstr "Wymagania systemowe"
+
+#~ msgid "Pentium-compatible processor"
+#~ msgstr "procesor zgodny z procesorem Pentium"
+
+#~ msgid "RAM minimum 32 MB"
+#~ msgstr "minimum 32 MB pamięci"
+
+#~ msgid "Hard disk space 16 MB"
+#~ msgstr "16 MB miejsca na dysku twardym "
+
+#~ msgid "Supported operating systems"
+#~ msgstr "Obsługiwane systemy operacyjne"
+
+#~ msgid "32- and 64-bit"
+#~ msgstr "32 - i 64-bitowe"
+
+#~ msgid "Please go to:"
+#~ msgstr "Pobierz:"
+
+#, fuzzy
+#~ msgid "To build from source code and install:"
+#~ msgstr "Aby stworzyć i zainstalować program z kodu źródłowego:"
+
+#, fuzzy
+#~ msgid ""
+#~ "Don't have permissions to install it on your system? Want to take it "
+#~ "everywhere with you? Simply download the archive above, extract it and "
+#~ "click on the executable file inside."
+#~ msgstr ""
+#~ "Jeśli nie masz uprawnień, aby zainstalować go na swoim systemie lub "
+#~ "chcesz go zabrać ze sobą, na przykład na twoim dysku przenośnym, po "
+#~ "prostu pobierz archiwum poniżej, rozpakuj i kliknij na plik wykonywalny "
+#~ "wewnątrz katalogu."
+
+#~ msgid "Download the bundle:"
+#~ msgstr "Pobierz pakiet:"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can move the directory to any path on any device and still run the "
+#~ "application."
+#~ msgstr ""
+#~ "Możesz przenieść katalog do dowolnego miejsca i wciąż uruchamiać "
+#~ "aplikację."
+
+#, fuzzy
+#~ msgid "Use this to run SpeedCrunch without installing it."
+#~ msgstr ""
+#~ "Teraz możesz również uruchamiać SpeedCrunch bez potrzeby instalowania go."
+
+#~ msgid "Download the installer:"
+#~ msgstr "Pobierz instalator:"
+
+#~ msgid "NEW!"
+#~ msgstr "NOWOŚĆ!"
+
+#~ msgid "Other distributions"
+#~ msgstr "Inne dystrybucje"
+
+#~ msgid ""
+#~ "For other Linux distributions, you can install SpeedCrunch by compiling "
+#~ "it from source code."
+#~ msgstr ""
+#~ "W przypadku innych dystrybucji Linuksa, możesz zainstalować SpeedCrunch "
+#~ "przez kompilację z kodu źródłowego."
+
+#~ msgid "See the instructions below."
+#~ msgstr "Zobacz instrukcje poniżej."
 
 #~ msgid "SpeedCrunch is the default desktop calculator."
 #~ msgstr "SpeedCrunch jest domyślnym kalkulatorem."

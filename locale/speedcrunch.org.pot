@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-08-11 08:15+0000\n"
+"POT-Creation-Date: 2013-03-04 09:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -127,7 +127,7 @@ msgid "Version 0.10.1 (May 2008)"
 msgstr ""
 
 #: download.html
-msgid "Download the installer:"
+msgid "Installer:"
 msgstr ""
 
 #: download.html
@@ -135,51 +135,43 @@ msgid "To perform the installation, just click on the file to run it and then fo
 msgstr ""
 
 #: download.html
-msgid "After installed, run SpeedCrunch using <i>Start</i> menu, <i>All Programs</i>, <i>SpeedCrunch</i>."
+msgid "After installed, run it from <i>Start</i> &gt; <i>All Programs</i>  &gt; <i>SpeedCrunch</i>."
 msgstr ""
 
 #: download.html
-msgid "NEW!"
+msgid "Portable Edition:"
 msgstr ""
 
 #: download.html
-msgid "Now you can also run SpeedCrunch without the need of installing it."
+msgid "No installation."
 msgstr ""
 
 #: download.html
-msgid "So if you don't have permission to install it on your system or you want to take it everywhere with you on your pen drive, for instance, just download the archive below, extract it and click on the executable file inside the directory."
+msgid "Take it everywhere."
 msgstr ""
 
 #: download.html
-msgid "You can move the directory to any place and still run the application."
+msgid "Simply download the archive, extract and run by clicking on the executable file inside."
 msgstr ""
 
 #: download.html
-msgid "Download the bundle:"
+msgid "Universal Binary bundle:"
 msgstr ""
 
 #: download.html
-msgid "This bundle is Universal Binary and should work on Mac OS X 10.3 (Panther), 10.4 (Tiger), and 10.5 (Leopard)."
+msgid "It should work on Mac OS X 10.3 (Panther) and above."
 msgstr ""
 
 #: download.html
-msgid "SpeedCrunch is packaged by the following Linux distributions."
+msgid "SpeedCrunch is available on all major Linux distributions."
 msgstr ""
 
 #: download.html
-msgid "Note that packages available from various distributions are not necessarily the latest version."
+msgid "Please use your distribution's software center application to search and install Speedrunch."
 msgstr ""
 
 #: download.html
-msgid "Other distributions"
-msgstr ""
-
-#: download.html
-msgid "For other Linux distributions, you can install SpeedCrunch by compiling it from source code."
-msgstr ""
-
-#: download.html
-msgid "See the instructions below."
+msgid "Note that packages available from distributions are not necessarily the latest version."
 msgstr ""
 
 #: download.html
@@ -187,23 +179,19 @@ msgid "Source code"
 msgstr ""
 
 #: download.html
-msgid "To build the source code and install:"
+msgid "Tarball:"
 msgstr ""
 
 #: download.html
-msgid "Download the tarball:"
+msgid "Extract to temporary directory"
 msgstr ""
 
 #: download.html
-msgid "Extract the package to a temporary directory"
+msgid "Run <tt>cmake .</tt> from the <tt>src</tt> folder, followed by <tt>make</tt>"
 msgstr ""
 
 #: download.html
-msgid "Run <tt>cmake .</tt> from the <tt>src</tt> subfolder, followed by <tt>make</tt>"
-msgstr ""
-
-#: download.html
-msgid "To install it, run <tt>make install</tt> (might need administation privileges)"
+msgid "Install with <tt>make install</tt> (might need administration privileges)"
 msgstr ""
 
 #: download.html
@@ -215,7 +203,15 @@ msgid "<a href=\"http://www.cmake.org\">CMake</a> (minimum version 2.4.4)"
 msgstr ""
 
 #: download.html
-msgid "<a href=\"http://trolltech.com/products/qt\">Qt</a> (minimum version 4.6 and including development environment)"
+msgid "<a href=\"http://qt.digia.com\">Qt</a> (minimum version 4.6 and including development environment)"
+msgstr ""
+
+#: download.html
+msgid "Development repository"
+msgstr ""
+
+#: download.html
+msgid "Clone one of the redundant Git repositories:"
 msgstr ""
 
 #: download.html
@@ -332,42 +328,6 @@ msgstr ""
 
 #: download.html
 msgid "possibility to package portable versions with no need for installation"
-msgstr ""
-
-#: download.html
-msgid "For more information, see also the complete <a href=\"features.html\">features description</a>, <a href=\"http://speedcrunch.googlecode.com/svn/tags/0.10.1/ChangeLog\">list of changes</a>, and <a href=\"http://code.google.com/p/speedcrunch/issues/list?can=1&q=status%3AFixed%2CVerified+milestone%3A0.10.1&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles\">resolved bugs</a>."
-msgstr ""
-
-#: download.html
-msgid "System requirements"
-msgstr ""
-
-#: download.html
-msgid "Pentium-compatible processor"
-msgstr ""
-
-#: download.html
-msgid "RAM minimum 32 MB"
-msgstr ""
-
-#: download.html
-msgid "Hard disk space 16 MB"
-msgstr ""
-
-#: download.html
-msgid "Supported operating systems"
-msgstr ""
-
-#: download.html
-msgid "32- and 64-bit"
-msgstr ""
-
-#: download.html
-msgid "Development version"
-msgstr ""
-
-#: download.html
-msgid "Please go to:"
 msgstr ""
 
 #: download.html
