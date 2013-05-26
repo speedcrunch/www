@@ -96,33 +96,23 @@ em {
     line-height: 150%;
 }
 
-#box {
+.extra-info-box {
     width: 88%;
-    background: -webkit-gradient(linear, left top, right top, from(#fff), to(#faabff));
-    background: -moz-linear-gradient(left, #fff, #faabff);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=#FFFFFFFF, endColorStr=#FFFAABFF, GradientType=1);
     border-width: 60px 30px;
-    border-radius: 110px 35px;
-    -moz-border-radius: 110px 35px;
+    border-radius: 35px;
     padding: 30px;
-    margin: 0px;
+    margin: 0;
     text-align: left;
-    box-shadow: 2px 2px 6px rgba(0,0,0,0.6);
-    -webkit-box-shadow: 2px 2px 6px rgba(0,0,0,0.6);
-    -moz-box-shadow: 2px 2px 6px rgba(0,0,0,0.6);
-    /* wait until IE supports this correctly
-    filter: progid:DXImageTransform.Microsoft.Shadow(color=#ffff0000, Direction=180, Strength=2);
-    zoom: 1;
-    */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
 }
 
-#box ul {
+.extra-info-box ul {
   margin-left: 5px;
   padding-left: 15px;
   list-style: none;
 }
 
-#box ul li:before {
+.extra-info-box ul li:before {
   content: "\00BB \0020";
 }
 
