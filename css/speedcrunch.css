@@ -13,11 +13,6 @@ br {
     clear: both;
 }
 
-em {
-    font-style: normal;
-    background: #c0e0a0;
-}
-
 #header {
     background-color: #55acff;
     background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#55acff));
