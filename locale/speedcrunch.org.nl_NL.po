@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-04 09:57+0000\n"
+"POT-Creation-Date: 2013-05-26 10:06+0000\n"
 "PO-Revision-Date: 2008-07-29 11:18+0100\n"
 "Last-Translator: Wishes-to-be-anonymous\n"
 "Language-Team: nl\n"
@@ -14,129 +14,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "calculator"
 msgstr "rekenmachine"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "SpeedCrunch - fast and usable calculator"
-msgstr "SpeedCrunch - snel en bruikbare rekenmachine"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Home"
-msgstr "Thuis"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Try it out"
-msgstr "Probeer het"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Download"
 msgstr "Download"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Learn more"
-msgstr "Leer meer"
+#: download.html, index.html
+msgid "Home"
+msgstr "Thuis"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Features"
-msgstr "Mogelijkheden"
+#: download.html, index.html
+msgid "Try it out"
+msgstr "Probeer het"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "See it in action"
-msgstr "Zie het werkend"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Screenshots"
-msgstr "Schermafdrukken"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Frequently asked questions"
-msgstr "Veel voorkomende vragen"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "FAQ"
-msgstr "FAQ"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-#, fuzzy
-msgid "Authors and contributors"
-msgstr "Andere distributies"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Credits"
-msgstr ""
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Discuss with other users"
 msgstr "Discussieer met andere gebruikers"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Forum"
 msgstr "Forum"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Follow the development"
 msgstr "Volg de ontwikkeling"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Blog"
 msgstr "Blog"
 
-#: credits.html
-msgid "Original author"
-msgstr ""
-
-#: credits.html
-msgid "Maintainer"
-msgstr ""
-
-#: credits.html
-msgid "Authors"
-msgstr ""
-
-#: credits.html
-msgid "Based on original idea from"
-msgstr ""
-
-#: credits.html
-msgid "Special thanks to"
-msgstr ""
-
-#: credits.html
-msgid "Graphics"
-msgstr ""
-
-#: credits.html
-msgid "Thanks to"
-msgstr ""
-
-#: credits.html
-msgid "Website developers"
-msgstr ""
-
-#: credits.html
-msgid "Application and website translators"
-msgstr ""
-
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html
 msgid "icon"
 msgstr "Icoon"
 
@@ -270,136 +180,6 @@ msgid "Clone one of the redundant Git repositories:"
 msgstr ""
 
 #: download.html
-msgid "Main changes in version 0.10.1"
-msgstr "Algemene veranderingen in versie 0.10.1"
-
-#: download.html
-msgid "fixed virtual keypad button ="
-msgstr "verhielp virtueel numeriek toestbord knop ="
-
-#: download.html
-msgid "fixed potential crashes"
-msgstr "verhielp mogelijke crashes"
-
-#: download.html
-msgid ""
-"fixed back and forward buttons that have the opposite meaning in RTL "
-"languages like Hebrew"
-msgstr ""
-"verhielp de terug, en naar voren knop welke de tegenovergestelde betekenis "
-"heeft in RTL talen zoals Hebrew"
-
-#: download.html
-msgid "new Basque, Catalan and Simplified Chinese translations"
-msgstr "nieuw Baskische, Catalaans en Simpel Chinese vertalingen"
-
-#: download.html
-msgid ""
-"new Apple Mac OS X Universal Binary finally available (first since version "
-"0.7)"
-msgstr ""
-"new Apple Mac OS X Universele Binary eindelijk beschikbaar (voor het eerst "
-"sinds versie 0.7)"
-
-#: download.html
-msgid ""
-"Microsoft Windows installer and portable package reduced to around half of "
-"the size compared to version 0.10"
-msgstr ""
-"Microsoft Windows installatieprogramma en draagbaar pakket gereduceerd naar "
-"ongeveer de grootte vergelijkbaar met versie 0.10"
-
-#: download.html
-msgid "What's new in version 0.10"
-msgstr "Wat is nieuw in versie 0.10"
-
-#: download.html
-msgid "bug fixing of almost all known bugs"
-msgstr "verhelpen van fouten van zo ongeveer alle mogelijke fouten"
-
-#: download.html
-msgid "ERF, ERFC, GAMMA, LNGAMMA, IDIV and MOD functions"
-msgstr "ERF, ERFC, GAMMA, LNGAMMA, IDIV en MOD functies"
-
-#: download.html
-msgid "math book browsable pages dock window"
-msgstr "wiskunde boek bladerbaar dok scherm"
-
-#: download.html
-msgid "automatic calculation of the selected text"
-msgstr "automatische berekening van de geselecteerde tekst"
-
-#: download.html
-msgid "automatic syntax highlighting color generation"
-msgstr "automatische benadrukken van gekleurde "
-
-#: download.html
-msgid "complete support for RTL (right-to-left) written languages"
-msgstr "volledige ondersteuning voor RTL (rechts-naar-links) geschreven talen"
-
-#: download.html
-msgid "ability to change the language on-the-fly"
-msgstr "mogelijkheid om de taal on-the-fly the wijzigen"
-
-#: download.html
-msgid "restore last session"
-msgstr "herstellen van de laatste sessie"
-
-#: download.html
-msgid "save and load session"
-msgstr "opslaan, en laden van de sessie"
-
-#: download.html
-msgid "batch calculation"
-msgstr "batch berekening"
-
-#: download.html
-msgid "full screen mode"
-msgstr "volledig scherm modus"
-
-#: download.html
-msgid "minimal view version"
-msgstr "minimaal afgebeelde versie"
-
-#: download.html
-msgid "status bar"
-msgstr "statusbalk"
-
-#: download.html
-msgid "context menu for tray icon"
-msgstr "context menu voor dienblad icoon"
-
-#: download.html
-msgid "new keyboard shortcuts and redesigned menu"
-msgstr "nieuw toetsenbord afkortingen en herontwerp van het menu"
-
-#: download.html
-msgid "new Turkish (incomplete) translation"
-msgstr "nieuw Turks (niet volledig) vertaling"
-
-#: download.html
-msgid "preliminary support of logic functions"
-msgstr "vroegtijdige ondersteuning van logische functies"
-
-#: download.html
-msgid "extended output of real-valued numbers to non-decimal modes"
-msgstr "uitgebriede uitkomst van echte-waarde cijfers, als non-decimal modus."
-
-#: download.html
-msgid "allow real-valued arguments for NPR and NCR"
-msgstr "sta echte-waarde argumenten toe voor NPR, en NCR"
-
-#: download.html
-msgid "default desktop file for menu integration in Linux desktops"
-msgstr "standaard desktop bestand voor menuintegratie in Linux bureaubladen"
-
-#: download.html
-msgid "possibility to package portable versions with no need for installation"
-msgstr ""
-"mogelijkheid om meeneembare versies te maken zonder de vereiste om te "
-"installeren"
-
-#: download.html
 msgid "License"
 msgstr "Licentie"
 
@@ -429,114 +209,11 @@ msgstr ""
 "DEGELIJKHEID VOOR EEN BEPAALD DOELEIND. Zie de GNU General Public License "
 "voor meer"
 
-#: faq.html
-msgid "Here are some frequently asked questions (with answers):"
-msgstr "Hier zijn een aantal veel voorkomende vragen (met antwoorden):"
-
-#: faq.html
-msgid "What is <tt>ans</tt>?"
-msgstr "Wat is <tt>ans</tt>?"
-
-#: faq.html
-msgid ""
-"<tt>ans</tt> is a special variable which always holds the last calculation "
-"result."
+#: download.html
+msgid "Help us improving it!"
 msgstr ""
-"<tt>ans</tt> is een speciale variabele welke altijd het resultaat van de "
-"laatste berekening bevat."
 
-#: faq.html
-msgid "You can use it to avoid typing the result again."
-msgstr ""
-"Je kan het gebruiken om te voorkomen dat je het resultaat opnieuw te typen."
-
-#: faq.html
-msgid "For example, for finding <tt>sin(pi/3)</tt>, you can do these steps:"
-msgstr ""
-"Voorbeeld: om te zoeken naar <tt>sin(pi/3)</tt>, kan je de volgende stappen "
-"doen:"
-
-#: faq.html
-msgid "type <tt>pi/3</tt> and press Enter"
-msgstr "type <tt>pi/3</tt> en druk op Enter"
-
-#: faq.html
-msgid "type <tt>sin(ans)</tt> and press Enter"
-msgstr "type <tt>sin(ans)</tt> en druk op Enter"
-
-#: faq.html
-msgid "How do I separate function parameters?"
-msgstr "Hoe maak ik onderscheid tussen functie parameters?"
-
-#: faq.html
-msgid ""
-"When using functions that take more than one parameter, use semicolon ( <i>;"
-"</i> ) between all of them."
-msgstr ""
-"Wanneer je de functies gebruikt welke meer dan één paramter heeft gebruikt u "
-"de puntkomma ( <i>;</i> ) tussen al deze."
-
-#: faq.html
-msgid ""
-"For example, for finding the arithmetic mean of <tt>2</tt>, <tt>5</tt> and "
-"<tt>7</tt> just follow this:"
-msgstr ""
-"Bijvoorbeeld, om de aritmetische betekenis te vinden van <tt>2</tt>, <tt>5</"
-"tt> en <tt>7</tt> volg alleen:"
-
-#: faq.html
-msgid "type <tt>average(2;5;7)</tt> and press Enter"
-msgstr "type <tt>average(2;5;7)</tt> and druk op Enter"
-
-#: faq.html
-msgid "I do not like the keypad."
-msgstr "Ik heb het numerieke toetsenbord niet nodig."
-
-#: faq.html
-msgid "How do I hide it?"
-msgstr "Hoe verberg ik het?"
-
-#: faq.html
-msgid "Use menu <tt>View</tt>, <tt>Keypad</tt>."
-msgstr "Gebruik menu <tt>Beeld</tt>, <tt>Toetsenpaneel</tt>."
-
-#: faq.html
-msgid ""
-"If the keypad is hidden, clicking this menu item will make it visible again."
-msgstr ""
-"Als het toetsenbord verborgen is kan u het weer zichtbaar maken door op dit "
-"menu item te klikken."
-
-#: faq.html
-msgid "I found a bug! How can I report it?"
-msgstr "Ik heb een fout gevonden! Hoe kan ik het rapporteren?"
-
-#: faq.html
-msgid ""
-"The best way is to report the bug as a new issue in our <a href=\"http://"
-"code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
-msgstr ""
-"De beste manier om een fout te rapporteren is om een nieuw issue aan te "
-"maken in onze <a href=\"http://code.google.com/p/speedcrunch/issues/entry"
-"\">issue volger</a>."
-
-#: faq.html
-msgid "Please check first that this bug has not been reported before."
-msgstr "Controleer alstublieft dat de fout niet al gerapporteerd is."
-
-#: faq.html
-msgid ""
-"Do not forget to include the information about the program version (click "
-"menu <tt>Help</tt>, <tt>About</tt>) and your operating system."
-msgstr ""
-"Vergeet niet de informatie van de programma versie in te sluiten (klik menu "
-"<tt>Help</tt>, <tt>Over</tt>), en het besturingssysteem."
-
-#: faq.html
-msgid "Help us!"
-msgstr "Help ons!"
-
-#: faq.html
+#: download.html
 msgid ""
 "If you find a bug, please report it in our <a href=\"http://code.google.com/"
 "p/speedcrunch/issues/entry\">issue tracker</a>."
@@ -544,11 +221,7 @@ msgstr ""
 "Als u een fout vind rapporteer dit alstublieft in onze <a href=\"http://code."
 "google.com/p/speedcrunch/issues/entry\">issue verkenner</a>."
 
-#: faq.html
-msgid "This will make sure that the report is not lost."
-msgstr "Dit zorgt ervoor dat de melding niet vergeten zal worden."
-
-#: faq.html
+#: download.html
 msgid ""
 "We will work to make sure the bugs that you reported will be fixed in the "
 "next version."
@@ -556,25 +229,33 @@ msgstr ""
 "We zullen er zorg voor dragen dat de fout welke gerapporteerd is verholpen "
 "zal worden in de volgende versie."
 
-#: features.html
+#: index.html
+msgid "Home of the free scientific calculator"
+msgstr ""
+
+#: index.html
+msgid "A free, high-precision scientific calculator"
+msgstr ""
+
+#: index.html
 msgid "At your fingertip"
 msgstr "Op het puntje van uw vinger"
 
-#: features.html
+#: index.html
 msgid "Unlike traditional desktop calculator, SpeedCrunch is easier to use."
 msgstr ""
 "Anders als traditionele tafel rekenmachines is SpeedCrunch gemakkelijker in "
 "gebruik."
 
-#: features.html
+#: index.html
+#, fuzzy
 msgid ""
-"You just <em>type the expression</em> that you want to calculate and press "
-"Enter."
+"You just type the expression that you want to calculate and press Enter."
 msgstr ""
 "U typt gewoon <em>type de expressie</em> dat u berekent wilt hebben, en druk "
 "op Enter."
 
-#: features.html
+#: index.html
 msgid ""
 "You can see clearly what you typed along with the result in the scrollable "
 "display."
@@ -582,11 +263,11 @@ msgstr ""
 "Je can duidelijk zien wat u getypt heeft naast het resultaat in het rollende "
 "venster."
 
-#: features.html
+#: index.html
 msgid "That is faster and more convenient, isn't it?"
 msgstr "Dit is sneller, en gemakkelijker. Nietwaar?"
 
-#: features.html
+#: index.html
 msgid ""
 "You can also paste the expression from the clipboard, that you copied from "
 "somewhere else."
@@ -594,7 +275,7 @@ msgstr ""
 "Je can ook de expressie plakken vanuit het klembord dat je elders gekopieerd "
 "hebt."
 
-#: features.html
+#: index.html
 msgid ""
 "And, you can quickly copy the last calculation result to the clipboard using "
 "Ctrl+R."
@@ -602,7 +283,7 @@ msgstr ""
 "En je kan snel het resultaat van de laatste berekening kopieren naar het "
 "klembord met Ctrl+R."
 
-#: features.html
+#: index.html
 msgid ""
 "Before you finish, SpeedCrunch may even give already the answer (calc-as-you-"
 "type, anyone?)."
@@ -610,11 +291,11 @@ msgstr ""
 "Voordat je eindigt, SpeedCrunch kan misschien al het antwoord geven (bereken-"
 "als-je-typt, nietwaar?)."
 
-#: features.html
+#: index.html
 msgid "autocalc"
 msgstr "autocalc"
 
-#: features.html
+#: index.html
 msgid ""
 "This allows you to &quot;fix&quot; your expression if you think it is not "
 "what you want."
@@ -622,24 +303,25 @@ msgstr ""
 "Dit maakt het mogelijk om &quot;fix&quot;, je expressie zelfs als je denkt "
 "dat het niet is wat je wilt hebben."
 
-#: features.html
+#: index.html
 msgid "Unlimited variables"
 msgstr "Ongelimiteerde variabelen"
 
-#: features.html
+#: index.html
 msgid "Advanced calculation sometimes needs memory feature."
 msgstr "Geavanceerde berekening gebruikt soms geheugen."
 
-#: features.html
+#: index.html
+#, fuzzy
 msgid ""
-"SpeedCrunch allows <em>variables to hold calculation result</em>, e.g. <tt>x "
-"= 0.3</tt> which can be reused in <tt>y = 2*x</tt>."
+"SpeedCrunch allows variables to hold calculation result, e.g. <tt>x = 0.3</"
+"tt> which can be reused in <tt>y = 2*x</tt>."
 msgstr ""
 "SpeedCrunch stelt in staat om <em>variabelen het resultaat te laten "
 "bevatten</em>, bijv. <tt>x = 0.3</tt> welke hergebruikt kan worden in <tt>y "
 "= 2*x</tt>."
 
-#: features.html
+#: index.html
 msgid ""
 "Variables need not only a character, <tt>InterestRate</tt> is a perfect name "
 "as well."
@@ -647,11 +329,11 @@ msgstr ""
 "Variabelen vereisen maar één karakter, <tt>InterestRate</tt> is ook een "
 "prima naam."
 
-#: features.html
+#: index.html
 msgid "And still, you can define as many variables as you want."
 msgstr "En nog steeds kan je zoveel variabelen definieren als je wilt."
 
-#: features.html
+#: index.html
 msgid ""
 "There is a special variable, <tt>ans</tt>, which <i>always</i> holds the "
 "last calculation result."
@@ -659,7 +341,7 @@ msgstr ""
 "Er is een speciale variabele, <tt>ans</tt>, welke <i>altijd</i> het laatste "
 "resultaat van de berekening bevat."
 
-#: features.html
+#: index.html
 msgid ""
 "Another variable <tt>pi</tt> holds one of the most important constant in "
 "math world."
@@ -667,46 +349,47 @@ msgstr ""
 "Een andere variabele <tt>pi</tt> bevat een van de meest belangrijke "
 "konstanten in de wikundige wereld."
 
-#: features.html
+#: index.html
 #, fuzzy
 msgid "Syntax highlighting"
 msgstr "Syntax benadrukt"
 
-#: features.html
+#: index.html
 msgid "Do you close your parentheses correctly?"
 msgstr "Sluit u uw haakjes korrekt?"
 
-#: features.html
+#: index.html
 msgid "Mistype the number?"
 msgstr "Een nummer fout getypt?"
 
-#: features.html
+#: index.html
+#, fuzzy
 msgid ""
-"No need to worry again because SpeedCrunch can always <em>color the "
-"expression</em> according to the syntax."
+"No need to worry again because SpeedCrunch can always color the expression "
+"according to the syntax."
 msgstr ""
 "Geen reden om zorgen te maken omdat SpeedCrunch altijd <em>de expressie "
 "kleurt</em> aan de hand van de syntax."
 
-#: features.html
+#: index.html
 #, fuzzy
 msgid "syntax highlighting"
 msgstr "Syntax benadrukt"
 
-#: features.html
+#: index.html
 msgid "You can easily distinguish numbers from variables."
 msgstr "Je kan gemakkelijk de nummers van de variabelen onderscheiden."
 
-#: features.html
+#: index.html
 msgid "You can also see the matched parentheses."
 msgstr "Je can ook de gevonden haakjes zien."
 
-#: features.html
+#: index.html
 #, fuzzy
 msgid "Functions, with automatic completion"
 msgstr "Functies, met automagische beïndiging"
 
-#: features.html
+#: index.html
 msgid ""
 "Beside standard algebraic operator like + (addition), - (subtraction), * "
 "(multiplication), / (division), ^ or ** (exponentiation), there is support "
@@ -718,7 +401,7 @@ msgstr ""
 "sommige functies, bijvoorbeeld <tt>sin</tt>, <tt>log</tt>, <tt>abs</tt>, en "
 "nog veel meer."
 
-#: features.html
+#: index.html
 msgid ""
 "You do not need to memorize function names, use Ctrl+F to pop up a dialog "
 "where you can choose the function that you need."
@@ -727,16 +410,17 @@ msgstr ""
 "dialoogvenster te laten verschijnen waar je kan kiezen uit de functies die "
 "je wilt."
 
-#: features.html
-msgid "Or take advantage of its <em>auto-completion</em>."
+#: index.html
+#, fuzzy
+msgid "Or take advantage of its auto-completion."
 msgstr "Of haal voordeel uit de <em>auto-completion</em>."
 
-#: features.html
+#: index.html
 #, fuzzy
 msgid "automatic completion"
 msgstr "intelligente automatische beïndiging"
 
-#: features.html
+#: index.html
 msgid ""
 "Type the letter <tt>c</tt> only and in less than a second you will be "
 "automagically given with choices of <tt>cos</tt>, <tt>cosh</tt> or your "
@@ -746,18 +430,18 @@ msgstr ""
 "automagisch de mogelijkheden gegeven worden van <tt>cos</tt>, <tt>cosh</tt> "
 "of de variableen die starten met c."
 
-#: features.html
+#: index.html
 msgid "50 decimals at your disposal"
 msgstr "50 decimalen verwijdert"
 
-#: features.html
+#: index.html
 msgid ""
 "With its unique calculation routines, you can get up to 50 decimals of "
 "precision."
 msgstr ""
 "Met z'n unieke berekenings routines kan je tot 50 decimalen nauwkeurigheid."
 
-#: features.html
+#: index.html
 #, fuzzy
 msgid ""
 "Normally, all the important digits are shown, but you can also ask "
@@ -766,11 +450,11 @@ msgstr ""
 "Normaal gezien worden alle belangrijke cijfers afgebeeld, maar je kan "
 "SpeedCrunch ook vragen om het af te ronden tot een aantal cijfers."
 
-#: features.html
+#: index.html
 msgid "precision"
 msgstr "nauwkeurigheid"
 
-#: features.html
+#: index.html
 msgid ""
 "When your calculation is quite complex and involving a chain of operations, "
 "this high precision ensures that you would get less rounding error in the "
@@ -779,20 +463,21 @@ msgstr ""
 "Wanneer je berekening erg complex is, en er een aantal operaties betrokken "
 "zijn garandeerd deze hoge nauwkeurigheid minder afronding aan het eind."
 
-#: features.html
+#: index.html
 msgid "History repeats itself"
 msgstr "De gescheidenis herhaalt zichzelf"
 
-#: features.html
+#: index.html
+#, fuzzy
 msgid ""
-"If you want to <em>recall again the expression</em> which you typed before, "
-"then press up and down arrow to access the expression history."
+"If you want to recall again the expression which you typed before, then "
+"press up and down arrow to access the expression history."
 msgstr ""
 "Als je wilt om <em>de expressie terug te halen</em> welke je eerder getypt "
 "hebt, dan druk je de omhoog, en omlaag pijltjestoets om toegang te krijgen "
 "tot de expressie geschiedenis."
 
-#: features.html
+#: index.html
 msgid ""
 "Moreover, your expression history (maximum last 100 expressions) is saved "
 "between sessions."
@@ -800,7 +485,7 @@ msgstr ""
 "Daarnaast word de expressie geschiedenis (maximaal de laatste 100 "
 "expressies) opgeslagen worden tussen sessies."
 
-#: features.html
+#: index.html
 msgid ""
 "This means you can still invoke those calculations you have done yesterday "
 "or last week."
@@ -808,16 +493,16 @@ msgstr ""
 "Dit betekent dat je nog steeds die berekeningen op kan vragen die je "
 "gisteren of afgelopen week gedaan hebt."
 
-#: features.html
+#: index.html
 msgid "Smart correction"
 msgstr "Slimme correctie"
 
-#: features.html
+#: index.html
 msgid "Often, SpeedCrunch can still understand an incomplete expression."
 msgstr ""
 "SpeedCrunch kan vaak nog steeds een niet afgemaakte expressie begrijpen."
 
-#: features.html
+#: index.html
 msgid ""
 "For example, just typing <tt>sin</tt> followed by Enter - likely means "
 "taking the sine of last value - is automatically translated as <tt>sin(ans)</"
@@ -827,7 +512,7 @@ msgstr ""
 "betekent hoogstwaarschijnlijk de sinus van de laatste waarde - welke "
 "automatisch vertaald word als <tt>sin(ans)</tt>."
 
-#: features.html
+#: index.html
 msgid ""
 "Also, for some functions you may skip the parentheses if you pass simple "
 "number or variable, <tt>sin 0.1</tt> is as valid as <tt>sin(0.1)</tt>."
@@ -835,7 +520,7 @@ msgstr ""
 "Daarnaast, voor sommige functies mag je de haakjes overslaan bij een simpel "
 "getal of variabele, <tt>sin 0.1</tt> is net zo geldig als <tt>sin(0.1)</tt>."
 
-#: features.html
+#: index.html
 msgid ""
 "Speaking about parentheses, closing them can be left to SpeedCrunch, e.g. "
 "<tt>cos(pi/4</tt> is automatically corrected to <tt>cos(pi/4)</tt>."
@@ -843,146 +528,179 @@ msgstr ""
 "Sprekend over haakjes, ze sluiten kan je overlaten aan SpeedCrunch. bijv. "
 "<tt>cos(pi/4</tt> is automatisch gecorrigeerd naar <tt>cos(pi/4)</tt>."
 
-#: features.html
+#: index.html
 msgid "Keyboard-friendly"
 msgstr "Toetsenbord-vriendelijk"
 
-#: features.html
+#: index.html
 msgid "SpeedCrunch has many keyboard shortcuts to speed up your task:"
 msgstr ""
 "SpeedCrunch heeft veel toetsenbord afkortingen om de opdracht te versnellen."
 
 #. shortcut for Previous/Next Expression
-#: features.html
+#: index.html
 msgid "Up/Down"
 msgstr "Omhoog/Naar beneden"
 
-#: features.html
+#: index.html
 msgid "recall last expression"
 msgstr "laatste expressie terug roepen"
 
 #. shortcut for Insert Variable
-#: features.html
+#: index.html
 msgid "Ctrl+I"
 msgstr "Ctrl+I"
 
-#: features.html
+#: index.html
 msgid "insert variable"
 msgstr "variabele invoegen"
 
 #. shortcut for Insert Function
-#: features.html
+#: index.html
 msgid "Ctrl+F"
 msgstr "Ctrl+F"
 
-#: features.html
+#: index.html
 msgid "insert function"
 msgstr "functie invoegen"
 
 #. shortcut for Copy Result
-#: features.html
+#: index.html
 msgid "Ctrl+R"
 msgstr "Ctrl+R"
 
-#: features.html
+#: index.html
 msgid "copy last result to clipboard"
 msgstr "kopieer het laatste resultaat naar het klembord"
 
 #. shortcut for Save Session
-#: features.html
+#: index.html
 msgid "Ctrl+S"
 msgstr "Ctrl+S"
 
-#: features.html
+#: index.html
 msgid "save current session to text file"
 msgstr "sla huidige sessie op in tekstbestand"
 
-#: features.html
+#: index.html
 msgid "radians mode for trigonometric functions"
 msgstr "radiale modus voor trigometrische functies"
 
-#: features.html
+#: index.html
 msgid "degrees mode for trigonometric functions"
 msgstr "graden modus voor trigometrische functies"
 
-#: features.html
+#: index.html
+msgid "Overview"
+msgstr "Overzicht"
+
+#: index.html
+msgid "completely free"
+msgstr ""
+
+#: index.html
+msgid "history and results on a scrollable display"
+msgstr "geschiedenis en resultaat op een rollend venster"
+
+#: index.html
+msgid "automatic completion of variables and functions"
+msgstr ""
+
+#: index.html
+msgid "syntax highlighting and parentheses matching"
+msgstr "benadrukken van syntax, en het koppelen van haakjes"
+
+#: index.html
+msgid "up to 50 decimal precisions"
+msgstr "tot 50 decimalen precies"
+
+#: index.html
+msgid "unlimited variable storage"
+msgstr "ongelimiteerde opslag van variabelen"
+
+#: index.html
+msgid "optimized for keyboard"
+msgstr ""
+
+#: index.html
+#, fuzzy
+msgid "dozens of built-in math functions"
+msgstr "meer dan 50 ingebouwde wiskundige functies"
+
+#: index.html
+#, fuzzy
+msgid "optional virtual keypad"
+msgstr "optimaal virtueel toetsenbord te gebruiken met de muis"
+
+#: index.html
+msgid "on-the-fly and selection calculation"
+msgstr "on-the-fly en te selecteren berekening"
+
+#: index.html
+#, fuzzy
+msgid "customizable layout and color schemes"
+msgstr "aan te passen gebruikersinterface"
+
+#: index.html
 msgid "Testimonials"
 msgstr "Getuigschriften"
 
-#: features.html
-msgid "Speedcrunch is better than a TI-83+."
-msgstr ""
-
-#: features.html
-msgid "source"
-msgstr ""
-
-#: features.html
+#: index.html
 msgid ""
 "SpeedCrunch performs all of the functions necessary for high school Algebra "
 "and Geometry courses."
 msgstr ""
 
-#: features.html
+#: index.html
 msgid ""
 "SpeedCrunch is a good free alternative to buying expensive scientific "
 "calculators."
 msgstr ""
 
-#: features.html
+#: index.html
+msgid "source"
+msgstr ""
+
+#: index.html
 msgid ""
 "We can conclude that this is THE most comprehensive calculator application "
 "available freely and you can hardly find anything better than this one."
 msgstr ""
 
-#: features.html
+#: index.html
 msgid ""
 "The most powerful desktop calculator you can have, it's like you don’t need "
 "to buy a pro calci if you want to work all time on computer."
 msgstr ""
 
-#: features.html
+#: index.html
 msgid "We were completely bowled over when we came across SpeedCrunch."
 msgstr ""
 
-#: features.html
+#: index.html
 msgid ""
 "Overall this is a must have utility and goes in to the Techie Buzz Hall of "
 "Fame for applications."
 msgstr ""
 
-#: features.html
+#: index.html
 msgid ""
 "Its easy to use functionality and keyboard driven powers make it the best "
 "calculator for a student or engineer."
 msgstr ""
 
-#: features.html
+#: index.html
 #, fuzzy
 msgid "SpeedCrunch is the best calculator available on Linux."
 msgstr "SpeedCrunch is de standaard tafelblad rekenmachine."
 
-#: features.html
-msgid ""
-"Overall, I think I’ll be using SpeedCrunch more and more for doing my "
-"mathematic evaluations. It works on Windows too, so if you’ve decided to "
-"stick with that operating system, here’s a better replacement for the "
-"included calculator, and at a great price with code you can trust that is "
-"actively being enhanced."
-msgstr ""
-"Over het algemeen denk ik dat ik SpeedCrunch meer, en meer gebruik bij het "
-"doen van m'n wiskundige evaluaties. Het werkt ook onder Windows dus dat "
-"heeft me er toe doen besluiten om met dat besturingssysteem te blijven. Hier "
-"is er een betere vervanger voor de ingebouwde rekenmachine, en tegen een "
-"goede prijs van code welke je kan vertrouwen en welke actief word verbeterd."
-
-#: features.html
+#: index.html
 msgid ""
 "If I had had SpeedCrunch or Qalculate! during high school, finishing "
 "homework really would've been child's play."
 msgstr ""
 
-#: features.html
+#: index.html
 #, fuzzy
 msgid ""
 "Wow! This little app has made my investigation. You have saved me hours and "
@@ -994,7 +712,7 @@ msgstr ""
 "de beste! Ik kan niet wachten op de volgende versie ;) Ga door met dit "
 "fantastische werk!"
 
-#: features.html
+#: index.html
 msgid ""
 "Mostly run by keyboard, SpeedCrunch is the calculator for the technical or "
 "engineer oriented professional."
@@ -1002,181 +720,366 @@ msgstr ""
 "Meestal gebruikt door het toetsenbord, SpeedCrunch is de rekenmachine voor "
 "de technische of ingenieur georiënteerde professional."
 
-#: features.html
+#: index.html
 msgid "A \"must look\" at."
 msgstr "U dient te kijken naar."
 
-#: features.html
+#: index.html
 msgid ""
 "All in all, SpeedCrunch lives up to its claim of being a fast, precise "
 "scientific calculator."
 msgstr ""
 
-#: features.html
+#: index.html
 #, fuzzy
 msgid ""
 "From the perspective of a non-math guy, SpeedCrunch is the best calculator "
 "on Linux."
 msgstr "SpeedCrunch is de standaard tafelblad rekenmachine."
 
-#: features.html
+#: index.html
 msgid ""
 "I am wondering why they didn’t offer a basic free version and a low-priced "
 "upgrade with more functionality."
 msgstr ""
 
-#: features.html
+#: index.html
 msgid "Leave Windows Calculator behind and use SpeedCrunch instead."
 msgstr ""
 
-#: index.html
-msgid "SpeedCrunch is a fast, high precision and powerful desktop calculator."
-msgstr "SpeedCrunch is een snel, met hoge preciesie en krachtige rekenmachine."
+#~ msgid "Learn more"
+#~ msgstr "Leer meer"
 
-#: index.html
-msgid ""
-"Available for <img src=\"../icons/tux.png\" alt=\"Linux\" style=\"vertical-"
-"align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../icons/win."
-"png\" alt=\"Windows\" style=\"vertical-align: middle; margin-right: 3px;\" /"
-"><b>Microsoft Windows</b>, and <img src=\"../icons/mac.png\" alt=\"Apple Mac "
-"OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Apple Mac "
-"OS X</b>."
-msgstr ""
-"Beschikbaar voor <img src=\"../icons/tux.png\" alt=\"Linux\" style="
-"\"vertical-align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../"
-"icons/win.png\" alt=\"Windows\" style=\"vertical-align: middle; margin-"
-"right: 3px;\" /><b>Microsoft Windows</b>, and <img src=\"../icons/mac.png\" "
-"alt=\"Apple Mac OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /"
-"><b>Apple Mac OS X</b>."
+#~ msgid "Features"
+#~ msgstr "Mogelijkheden"
 
-#: index.html
-msgid "See more screenshots!"
-msgstr "Zie meer schermafdrukken!"
-
-#: index.html
-msgid "Screenshot"
-msgstr "Schermafdruk"
-
-#: index.html
-msgid "Overview"
-msgstr "Overzicht"
-
-#: index.html
-msgid "history and results on a scrollable display"
-msgstr "geschiedenis en resultaat op een rollend venster"
-
-#: index.html
-msgid "up to 50 decimal precisions"
-msgstr "tot 50 decimalen precies"
-
-#: index.html
-msgid "unlimited variable storage"
-msgstr "ongelimiteerde opslag van variabelen"
-
-#: index.html
-msgid "intelligent automatic completion"
-msgstr "intelligente automatische beïndiging"
-
-#: index.html
-msgid "fully usable from the keyboard"
-msgstr "volledig te gebruiken met het toetsenbord"
-
-#: index.html
-msgid "more than 50 built-in math functions"
-msgstr "meer dan 50 ingebouwde wiskundige functies"
-
-#: index.html
-msgid "optional virtual keypad to be used with a mouse"
-msgstr "optimaal virtueel toetsenbord te gebruiken met de muis"
-
-#: index.html
-msgid "on-the-fly and selection calculation"
-msgstr "on-the-fly en te selecteren berekening"
-
-#: index.html
-msgid "customizable appearance"
-msgstr "aan te passen gebruikersinterface"
-
-#: index.html
-msgid "syntax highlighting and parentheses matching"
-msgstr "benadrukken van syntax, en het koppelen van haakjes"
-
-#: index.html
 #, fuzzy
-msgid ""
-"<a href=\"features.html\">Learn more</a> or <a href=\"download.html"
-"\">download it now</a>"
-msgstr ""
-"<a href=\"features.htm\">Leer meer</a> or <a href=\"download.htm\">download "
-"het nu</a>"
+#~ msgid ""
+#~ "<a href=\"features.html\">Learn more</a> or <a href=\"download.html"
+#~ "\">download it now</a>"
+#~ msgstr ""
+#~ "<a href=\"features.htm\">Leer meer</a> or <a href=\"download.htm"
+#~ "\">download het nu</a>"
 
-#: index.html
-msgid "It's completely <b>FREE</b>!"
-msgstr "Het is helemaal <b>GRATIS </b>!"
+#~ msgid "See more screenshots!"
+#~ msgstr "Zie meer schermafdrukken!"
 
-#: screenshots.html
-msgid "Go to home page"
-msgstr "Ga naar de pagina"
+#~ msgid "Screenshot"
+#~ msgstr "Schermafdruk"
 
-#: screenshots.html
-msgid "For each screenshot, click the preview to enlarge."
-msgstr "Voor elke schermafdruk: klik het voorbeeld om te vergroten"
+#~ msgid ""
+#~ "Available for <img src=\"../icons/tux.png\" alt=\"Linux\" style="
+#~ "\"vertical-align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src="
+#~ "\"../icons/win.png\" alt=\"Windows\" style=\"vertical-align: middle; "
+#~ "margin-right: 3px;\" /><b>Microsoft Windows</b>, and <img src=\"../icons/"
+#~ "mac.png\" alt=\"Apple Mac OS X\" style=\"vertical-align: middle; margin-"
+#~ "right: 3px;\" /><b>Apple Mac OS X</b>."
+#~ msgstr ""
+#~ "Beschikbaar voor <img src=\"../icons/tux.png\" alt=\"Linux\" style="
+#~ "\"vertical-align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src="
+#~ "\"../icons/win.png\" alt=\"Windows\" style=\"vertical-align: middle; "
+#~ "margin-right: 3px;\" /><b>Microsoft Windows</b>, and <img src=\"../icons/"
+#~ "mac.png\" alt=\"Apple Mac OS X\" style=\"vertical-align: middle; margin-"
+#~ "right: 3px;\" /><b>Apple Mac OS X</b>."
 
-#: screenshots.html
-msgid ""
-"All images are from version 0.10.1 running on Microsoft Windows Vista, Apple "
-"Mac OS X and KDE."
-msgstr ""
-"Alle plaatjes zijn van versie 0.10.1 draaiende op Microsoft Windows Vista, "
-"Apple Mac OS X and KDE."
+#~ msgid ""
+#~ "SpeedCrunch is a fast, high precision and powerful desktop calculator."
+#~ msgstr ""
+#~ "SpeedCrunch is een snel, met hoge preciesie en krachtige rekenmachine."
 
-#: screenshots.html
-msgid ""
-"In addition to the default appearance already visible in the home page "
-"(showing the menu bar, scrolling display, expression editor and virtual "
-"keypad), here you can see the extra visual elements at full capacity (status "
-"bar and all dock windows)."
-msgstr ""
-"In tegenstelling tot de standaard gebruikersinterface welke te zien is op de "
-"homepage (welke het menu, het rollende venster, de expressie editor en het "
-"virtuele toetsenbord laat zien) kan je hier de extra visuele elementen zien "
-"(statusbalk, en alle dok-vensters)."
+#~ msgid "intelligent automatic completion"
+#~ msgstr "intelligente automatische beïndiging"
 
-#: screenshots.html
-msgid ""
-"Finally, you can also see the application in its minimal appearance (just "
-"the scrolling display and the expression editor - even no menu bar!)."
-msgstr ""
-"Eindelijk kan je de applicatie ook zien in z'n minimale uitvoering (alleen "
-"het rollende venster, en de expressie editor - zels geen menubalk!)."
+#~ msgid "fully usable from the keyboard"
+#~ msgstr "volledig te gebruiken met het toetsenbord"
 
-#: screenshots.html
+#~ msgid "It's completely <b>FREE</b>!"
+#~ msgstr "Het is helemaal <b>GRATIS </b>!"
+
+#~ msgid "Frequently asked questions"
+#~ msgstr "Veel voorkomende vragen"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Here are some frequently asked questions (with answers):"
+#~ msgstr "Hier zijn een aantal veel voorkomende vragen (met antwoorden):"
+
+#~ msgid "What is <tt>ans</tt>?"
+#~ msgstr "Wat is <tt>ans</tt>?"
+
+#~ msgid ""
+#~ "<tt>ans</tt> is a special variable which always holds the last "
+#~ "calculation result."
+#~ msgstr ""
+#~ "<tt>ans</tt> is een speciale variabele welke altijd het resultaat van de "
+#~ "laatste berekening bevat."
+
+#~ msgid "You can use it to avoid typing the result again."
+#~ msgstr ""
+#~ "Je kan het gebruiken om te voorkomen dat je het resultaat opnieuw te "
+#~ "typen."
+
+#~ msgid "For example, for finding <tt>sin(pi/3)</tt>, you can do these steps:"
+#~ msgstr ""
+#~ "Voorbeeld: om te zoeken naar <tt>sin(pi/3)</tt>, kan je de volgende "
+#~ "stappen doen:"
+
+#~ msgid "type <tt>pi/3</tt> and press Enter"
+#~ msgstr "type <tt>pi/3</tt> en druk op Enter"
+
+#~ msgid "type <tt>sin(ans)</tt> and press Enter"
+#~ msgstr "type <tt>sin(ans)</tt> en druk op Enter"
+
+#~ msgid "How do I separate function parameters?"
+#~ msgstr "Hoe maak ik onderscheid tussen functie parameters?"
+
+#~ msgid ""
+#~ "When using functions that take more than one parameter, use semicolon "
+#~ "( <i>;</i> ) between all of them."
+#~ msgstr ""
+#~ "Wanneer je de functies gebruikt welke meer dan één paramter heeft "
+#~ "gebruikt u de puntkomma ( <i>;</i> ) tussen al deze."
+
+#~ msgid ""
+#~ "For example, for finding the arithmetic mean of <tt>2</tt>, <tt>5</tt> "
+#~ "and <tt>7</tt> just follow this:"
+#~ msgstr ""
+#~ "Bijvoorbeeld, om de aritmetische betekenis te vinden van <tt>2</tt>, "
+#~ "<tt>5</tt> en <tt>7</tt> volg alleen:"
+
+#~ msgid "type <tt>average(2;5;7)</tt> and press Enter"
+#~ msgstr "type <tt>average(2;5;7)</tt> and druk op Enter"
+
+#~ msgid "I do not like the keypad."
+#~ msgstr "Ik heb het numerieke toetsenbord niet nodig."
+
+#~ msgid "How do I hide it?"
+#~ msgstr "Hoe verberg ik het?"
+
+#~ msgid "Use menu <tt>View</tt>, <tt>Keypad</tt>."
+#~ msgstr "Gebruik menu <tt>Beeld</tt>, <tt>Toetsenpaneel</tt>."
+
+#~ msgid ""
+#~ "If the keypad is hidden, clicking this menu item will make it visible "
+#~ "again."
+#~ msgstr ""
+#~ "Als het toetsenbord verborgen is kan u het weer zichtbaar maken door op "
+#~ "dit menu item te klikken."
+
+#~ msgid "I found a bug! How can I report it?"
+#~ msgstr "Ik heb een fout gevonden! Hoe kan ik het rapporteren?"
+
+#~ msgid ""
+#~ "The best way is to report the bug as a new issue in our <a href=\"http://"
+#~ "code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
+#~ msgstr ""
+#~ "De beste manier om een fout te rapporteren is om een nieuw issue aan te "
+#~ "maken in onze <a href=\"http://code.google.com/p/speedcrunch/issues/entry"
+#~ "\">issue volger</a>."
+
+#~ msgid "Please check first that this bug has not been reported before."
+#~ msgstr "Controleer alstublieft dat de fout niet al gerapporteerd is."
+
+#~ msgid ""
+#~ "Do not forget to include the information about the program version (click "
+#~ "menu <tt>Help</tt>, <tt>About</tt>) and your operating system."
+#~ msgstr ""
+#~ "Vergeet niet de informatie van de programma versie in te sluiten (klik "
+#~ "menu <tt>Help</tt>, <tt>Over</tt>), en het besturingssysteem."
+
+#~ msgid "Main changes in version 0.10.1"
+#~ msgstr "Algemene veranderingen in versie 0.10.1"
+
+#~ msgid "fixed virtual keypad button ="
+#~ msgstr "verhielp virtueel numeriek toestbord knop ="
+
+#~ msgid "fixed potential crashes"
+#~ msgstr "verhielp mogelijke crashes"
+
+#~ msgid ""
+#~ "fixed back and forward buttons that have the opposite meaning in RTL "
+#~ "languages like Hebrew"
+#~ msgstr ""
+#~ "verhielp de terug, en naar voren knop welke de tegenovergestelde "
+#~ "betekenis heeft in RTL talen zoals Hebrew"
+
+#~ msgid "new Basque, Catalan and Simplified Chinese translations"
+#~ msgstr "nieuw Baskische, Catalaans en Simpel Chinese vertalingen"
+
+#~ msgid ""
+#~ "new Apple Mac OS X Universal Binary finally available (first since "
+#~ "version 0.7)"
+#~ msgstr ""
+#~ "new Apple Mac OS X Universele Binary eindelijk beschikbaar (voor het "
+#~ "eerst sinds versie 0.7)"
+
+#~ msgid ""
+#~ "Microsoft Windows installer and portable package reduced to around half "
+#~ "of the size compared to version 0.10"
+#~ msgstr ""
+#~ "Microsoft Windows installatieprogramma en draagbaar pakket gereduceerd "
+#~ "naar ongeveer de grootte vergelijkbaar met versie 0.10"
+
+#~ msgid "What's new in version 0.10"
+#~ msgstr "Wat is nieuw in versie 0.10"
+
+#~ msgid "bug fixing of almost all known bugs"
+#~ msgstr "verhelpen van fouten van zo ongeveer alle mogelijke fouten"
+
+#~ msgid "ERF, ERFC, GAMMA, LNGAMMA, IDIV and MOD functions"
+#~ msgstr "ERF, ERFC, GAMMA, LNGAMMA, IDIV en MOD functies"
+
+#~ msgid "math book browsable pages dock window"
+#~ msgstr "wiskunde boek bladerbaar dok scherm"
+
+#~ msgid "automatic calculation of the selected text"
+#~ msgstr "automatische berekening van de geselecteerde tekst"
+
+#~ msgid "automatic syntax highlighting color generation"
+#~ msgstr "automatische benadrukken van gekleurde "
+
+#~ msgid "complete support for RTL (right-to-left) written languages"
+#~ msgstr ""
+#~ "volledige ondersteuning voor RTL (rechts-naar-links) geschreven talen"
+
+#~ msgid "ability to change the language on-the-fly"
+#~ msgstr "mogelijkheid om de taal on-the-fly the wijzigen"
+
+#~ msgid "restore last session"
+#~ msgstr "herstellen van de laatste sessie"
+
+#~ msgid "save and load session"
+#~ msgstr "opslaan, en laden van de sessie"
+
+#~ msgid "batch calculation"
+#~ msgstr "batch berekening"
+
+#~ msgid "full screen mode"
+#~ msgstr "volledig scherm modus"
+
+#~ msgid "minimal view version"
+#~ msgstr "minimaal afgebeelde versie"
+
+#~ msgid "status bar"
+#~ msgstr "statusbalk"
+
+#~ msgid "context menu for tray icon"
+#~ msgstr "context menu voor dienblad icoon"
+
+#~ msgid "new keyboard shortcuts and redesigned menu"
+#~ msgstr "nieuw toetsenbord afkortingen en herontwerp van het menu"
+
+#~ msgid "new Turkish (incomplete) translation"
+#~ msgstr "nieuw Turks (niet volledig) vertaling"
+
+#~ msgid "preliminary support of logic functions"
+#~ msgstr "vroegtijdige ondersteuning van logische functies"
+
+#~ msgid "extended output of real-valued numbers to non-decimal modes"
+#~ msgstr ""
+#~ "uitgebriede uitkomst van echte-waarde cijfers, als non-decimal modus."
+
+#~ msgid "allow real-valued arguments for NPR and NCR"
+#~ msgstr "sta echte-waarde argumenten toe voor NPR, en NCR"
+
+#~ msgid "default desktop file for menu integration in Linux desktops"
+#~ msgstr "standaard desktop bestand voor menuintegratie in Linux bureaubladen"
+
+#~ msgid ""
+#~ "possibility to package portable versions with no need for installation"
+#~ msgstr ""
+#~ "mogelijkheid om meeneembare versies te maken zonder de vereiste om te "
+#~ "installeren"
+
+#~ msgid "Help us!"
+#~ msgstr "Help ons!"
+
+#~ msgid "This will make sure that the report is not lost."
+#~ msgstr "Dit zorgt ervoor dat de melding niet vergeten zal worden."
+
+#~ msgid "SpeedCrunch - fast and usable calculator"
+#~ msgstr "SpeedCrunch - snel en bruikbare rekenmachine"
+
+#~ msgid "See it in action"
+#~ msgstr "Zie het werkend"
+
+#~ msgid "Screenshots"
+#~ msgstr "Schermafdrukken"
+
 #, fuzzy
-msgid ""
-"Check also the description of <a href=\"features.html\">many unique "
-"features</a> available only in SpeedCrunch!"
-msgstr ""
-"Controleer ook de beschrijving van <a href=\"features.htm\">vele unieke "
-"mogelijkheden</a> voorhanden alleen in SpeedCrunch!"
+#~ msgid "Authors and contributors"
+#~ msgstr "Andere distributies"
 
-#: screenshots.html
-msgid "Send your screenshot"
-msgstr "Zend ons uw schermafdruk"
+#~ msgid "Go to home page"
+#~ msgstr "Ga naar de pagina"
 
-#: screenshots.html
-msgid ""
-"Do you have a nice screenshot showing interesting features of SpeedCrunch?"
-msgstr ""
-"Heeft u een mooie schermafdruk wat de interessante mogelijkheden van "
-"SpeedCrunch laat zien?"
+#~ msgid "For each screenshot, click the preview to enlarge."
+#~ msgstr "Voor elke schermafdruk: klik het voorbeeld om te vergroten"
 
-#: screenshots.html
-msgid ""
-"Send it to us (<a href=\"mailto:screenshot@speedcrunch.org"
-"\">screenshot@speedcrunch.org</a>) and we'll place it here."
-msgstr ""
-"Zend het naar ons (<a href=\"mailto:screenshot@speedcrunch.org"
-"\">screenshot@speedcrunch.org</a>), en we plaatsen het hier."
+#~ msgid ""
+#~ "All images are from version 0.10.1 running on Microsoft Windows Vista, "
+#~ "Apple Mac OS X and KDE."
+#~ msgstr ""
+#~ "Alle plaatjes zijn van versie 0.10.1 draaiende op Microsoft Windows "
+#~ "Vista, Apple Mac OS X and KDE."
+
+#~ msgid ""
+#~ "In addition to the default appearance already visible in the home page "
+#~ "(showing the menu bar, scrolling display, expression editor and virtual "
+#~ "keypad), here you can see the extra visual elements at full capacity "
+#~ "(status bar and all dock windows)."
+#~ msgstr ""
+#~ "In tegenstelling tot de standaard gebruikersinterface welke te zien is op "
+#~ "de homepage (welke het menu, het rollende venster, de expressie editor en "
+#~ "het virtuele toetsenbord laat zien) kan je hier de extra visuele "
+#~ "elementen zien (statusbalk, en alle dok-vensters)."
+
+#~ msgid ""
+#~ "Finally, you can also see the application in its minimal appearance (just "
+#~ "the scrolling display and the expression editor - even no menu bar!)."
+#~ msgstr ""
+#~ "Eindelijk kan je de applicatie ook zien in z'n minimale uitvoering "
+#~ "(alleen het rollende venster, en de expressie editor - zels geen "
+#~ "menubalk!)."
+
+#, fuzzy
+#~ msgid ""
+#~ "Check also the description of <a href=\"features.html\">many unique "
+#~ "features</a> available only in SpeedCrunch!"
+#~ msgstr ""
+#~ "Controleer ook de beschrijving van <a href=\"features.htm\">vele unieke "
+#~ "mogelijkheden</a> voorhanden alleen in SpeedCrunch!"
+
+#~ msgid "Send your screenshot"
+#~ msgstr "Zend ons uw schermafdruk"
+
+#~ msgid ""
+#~ "Do you have a nice screenshot showing interesting features of SpeedCrunch?"
+#~ msgstr ""
+#~ "Heeft u een mooie schermafdruk wat de interessante mogelijkheden van "
+#~ "SpeedCrunch laat zien?"
+
+#~ msgid ""
+#~ "Send it to us (<a href=\"mailto:screenshot@speedcrunch.org"
+#~ "\">screenshot@speedcrunch.org</a>) and we'll place it here."
+#~ msgstr ""
+#~ "Zend het naar ons (<a href=\"mailto:screenshot@speedcrunch.org"
+#~ "\">screenshot@speedcrunch.org</a>), en we plaatsen het hier."
+
+#~ msgid ""
+#~ "Overall, I think I’ll be using SpeedCrunch more and more for doing my "
+#~ "mathematic evaluations. It works on Windows too, so if you’ve decided to "
+#~ "stick with that operating system, here’s a better replacement for the "
+#~ "included calculator, and at a great price with code you can trust that is "
+#~ "actively being enhanced."
+#~ msgstr ""
+#~ "Over het algemeen denk ik dat ik SpeedCrunch meer, en meer gebruik bij "
+#~ "het doen van m'n wiskundige evaluaties. Het werkt ook onder Windows dus "
+#~ "dat heeft me er toe doen besluiten om met dat besturingssysteem te "
+#~ "blijven. Hier is er een betere vervanger voor de ingebouwde rekenmachine, "
+#~ "en tegen een goede prijs van code welke je kan vertrouwen en welke actief "
+#~ "word verbeterd."
 
 #~ msgid "Download the tarball:"
 #~ msgstr "Download de tarball:"

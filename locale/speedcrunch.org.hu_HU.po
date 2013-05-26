@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-04 09:57+0000\n"
+"POT-Creation-Date: 2013-05-26 10:06+0000\n"
 "PO-Revision-Date: 2009-08-31 21:00+0000\n"
 "Last-Translator: Bálint Török <torokbalint@hdsnet.hu>\n"
 "Language-Team: hu\n"
@@ -14,128 +14,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "calculator"
 msgstr "számológép"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "SpeedCrunch - fast and usable calculator"
-msgstr "SpeedCrunch - gyors és praktikus számológép"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Home"
-msgstr "Kezdõlap"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Try it out"
-msgstr "Próbáld ki"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Download"
 msgstr "Letöltés"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Learn more"
-msgstr "Tudj meg még többet"
+#: download.html, index.html
+msgid "Home"
+msgstr "Kezdõlap"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Features"
-msgstr "Leírás"
+#: download.html, index.html
+msgid "Try it out"
+msgstr "Próbáld ki"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "See it in action"
-msgstr "Nézz bele"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Screenshots"
-msgstr "Képek"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Frequently asked questions"
-msgstr "Gyakran Ismételt Kérdések"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "FAQ"
-msgstr "GYIK"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Authors and contributors"
-msgstr "Szerzõk és közremûködõk"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
-msgid "Credits"
-msgstr "Fejlesztõk"
-
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Discuss with other users"
 msgstr "Beszélj a többi felhasználóval"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Forum"
 msgstr "Fórum"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Follow the development"
 msgstr "Kövesd a fejlesztést"
 
-#: download.html, index.html, credits.html, screenshots.html, faq.html,
-#: features.html
+#: download.html, index.html
 msgid "Blog"
 msgstr "Blog"
 
-#: credits.html
-msgid "Original author"
-msgstr "Eredeti szerzõ"
-
-#: credits.html
-msgid "Maintainer"
-msgstr "Fenntartó"
-
-#: credits.html
-msgid "Authors"
-msgstr "Szerzõk"
-
-#: credits.html
-msgid "Based on original idea from"
-msgstr "Eredeti ötlet"
-
-#: credits.html
-msgid "Special thanks to"
-msgstr "Külön köszönet"
-
-#: credits.html
-msgid "Graphics"
-msgstr "Grafika"
-
-#: credits.html
-msgid "Thanks to"
-msgstr "Köszönet"
-
-#: credits.html
-msgid "Website developers"
-msgstr "Honlap fejlesztõk"
-
-#: credits.html
-msgid "Application and website translators"
-msgstr "Az alkalmazás és a honlap fordítói"
-
-#: download.html, index.html, screenshots.html, faq.html, features.html
+#: download.html, index.html
 msgid "icon"
 msgstr "ikon"
 
@@ -269,134 +180,6 @@ msgid "Clone one of the redundant Git repositories:"
 msgstr ""
 
 #: download.html
-msgid "Main changes in version 0.10.1"
-msgstr "Fõbb változások a 0.10.1 verzióban"
-
-#: download.html
-msgid "fixed virtual keypad button ="
-msgstr "javítva: virtuális = billenytyû"
-
-#: download.html
-msgid "fixed potential crashes"
-msgstr "javítva: esetleges fagyások"
-
-#: download.html
-msgid ""
-"fixed back and forward buttons that have the opposite meaning in RTL "
-"languages like Hebrew"
-msgstr ""
-"javítva: elõre és hátra gombok helyes értelmezése a jobbról balra író "
-"nyelveken, mint például a héber"
-
-#: download.html
-msgid "new Basque, Catalan and Simplified Chinese translations"
-msgstr "új: baszk, katalán és egyszerû kínai fordítások"
-
-#: download.html
-msgid ""
-"new Apple Mac OS X Universal Binary finally available (first since version "
-"0.7)"
-msgstr ""
-"új: Apple Max OS X Universal Binary elérhetõség (0.7 verzió óta elõször)"
-
-#: download.html
-msgid ""
-"Microsoft Windows installer and portable package reduced to around half of "
-"the size compared to version 0.10"
-msgstr ""
-"A Microsoft Windows telepítõ és hordozható csomag mérete majdnem a felére "
-"csökkent a 0.10 verzióhoz képest"
-
-#: download.html
-msgid "What's new in version 0.10"
-msgstr "Változások a 0.10 verzióban"
-
-#: download.html
-msgid "bug fixing of almost all known bugs"
-msgstr "majdnem az összes ismert bug javítása"
-
-#: download.html
-msgid "ERF, ERFC, GAMMA, LNGAMMA, IDIV and MOD functions"
-msgstr "ERF, ERFC, GAMMA, LNGAMMA, IDIV és MOD függvények"
-
-#: download.html
-msgid "math book browsable pages dock window"
-msgstr "böngészhetõ matekkönyv oldalak dokkolható ablakban"
-
-#: download.html
-msgid "automatic calculation of the selected text"
-msgstr "kiválasztott szöveg automatikus számolása"
-
-#: download.html
-msgid "automatic syntax highlighting color generation"
-msgstr "színgenerálás az automatikus szintaxis kiemeléshez"
-
-#: download.html
-msgid "complete support for RTL (right-to-left) written languages"
-msgstr "teljes támogatás a jobbról balra író nyelvekhez"
-
-#: download.html
-msgid "ability to change the language on-the-fly"
-msgstr "gyors nyelvváltási lehetõség"
-
-#: download.html
-msgid "restore last session"
-msgstr "utolsó munkamenet visszaállítása"
-
-#: download.html
-msgid "save and load session"
-msgstr "munkamenet mentése és betöltése"
-
-#: download.html
-msgid "batch calculation"
-msgstr "kötegelt számlálás"
-
-#: download.html
-msgid "full screen mode"
-msgstr "teljes képernyõs mód"
-
-#: download.html
-msgid "minimal view version"
-msgstr "minimum nézet"
-
-#: download.html
-msgid "status bar"
-msgstr "állapotjelzõ sor"
-
-#: download.html
-msgid "context menu for tray icon"
-msgstr "felugró menü a tálcán lévõ ikonhoz"
-
-#: download.html
-msgid "new keyboard shortcuts and redesigned menu"
-msgstr "új billentyûparancsok és újratervezett menü"
-
-#: download.html
-msgid "new Turkish (incomplete) translation"
-msgstr "új török fordítás (befejezetlen)"
-
-#: download.html
-msgid "preliminary support of logic functions"
-msgstr "bevezetõ támogatás a logikai függvényekhez"
-
-#: download.html
-msgid "extended output of real-valued numbers to non-decimal modes"
-msgstr ""
-"kibõvített kimenet a valósértékû számokhoz nem tízes számrendszerû módokban"
-
-#: download.html
-msgid "allow real-valued arguments for NPR and NCR"
-msgstr "valósértékû argumentumok engedélyezése az NPR ÉS NCR számára"
-
-#: download.html
-msgid "default desktop file for menu integration in Linux desktops"
-msgstr "alapértelmezett fájl a menü integrációhoz a Linux gépeken"
-
-#: download.html
-msgid "possibility to package portable versions with no need for installation"
-msgstr "lehetõség telepítés nélküli, hordozható verziók létrehozására"
-
-#: download.html
 msgid "License"
 msgstr "Licenc"
 
@@ -424,111 +207,11 @@ msgstr ""
 "az ELADHATÓSÁGBAN vagy a SAJÁTOS CÉLRA VALÓ ALKALMASSÁGBAN vállaltakat sem. "
 "Több információért olvasd el a GNU Általános Nyilvános Licencet."
 
-#: faq.html
-msgid "Here are some frequently asked questions (with answers):"
-msgstr "Itt találhatsz néhány gyakran ismételt kérdést (és a válaszokat):"
-
-#: faq.html
-msgid "What is <tt>ans</tt>?"
-msgstr "Mi az az <tt>ans</tt>?"
-
-#: faq.html
-msgid ""
-"<tt>ans</tt> is a special variable which always holds the last calculation "
-"result."
+#: download.html
+msgid "Help us improving it!"
 msgstr ""
-"Az <tt>ans</tt> egy speciális változó, mindig az utolsó számolás eredménye."
 
-#: faq.html
-msgid "You can use it to avoid typing the result again."
-msgstr "Használhatod arra, hogy ne kelljen az eredményt újra begépelni."
-
-#: faq.html
-msgid "For example, for finding <tt>sin(pi/3)</tt>, you can do these steps:"
-msgstr "Például, hogy kiszámoljuk <tt>sin(pi/3)</tt> eredményét:"
-
-#: faq.html
-msgid "type <tt>pi/3</tt> and press Enter"
-msgstr "írd be: <tt>pi/3</tt> és nyomj Entert"
-
-#: faq.html
-msgid "type <tt>sin(ans)</tt> and press Enter"
-msgstr "írd be: <tt>sin(ans)</tt> majd nyomj Entert"
-
-#: faq.html
-msgid "How do I separate function parameters?"
-msgstr "Hogy választhatom el egy függvény paramétereit?"
-
-#: faq.html
-msgid ""
-"When using functions that take more than one parameter, use semicolon ( <i>;"
-"</i> ) between all of them."
-msgstr ""
-"Többparaméteres függvénynél a paramétereket a pontosvesszõ segítségével "
-"( <i>;</i> ) választhatjuk el."
-
-#: faq.html
-msgid ""
-"For example, for finding the arithmetic mean of <tt>2</tt>, <tt>5</tt> and "
-"<tt>7</tt> just follow this:"
-msgstr ""
-"Például a 2, 5 és 7 számtani közepének megtalálásához csináld a következõ "
-"lépéseket:"
-
-#: faq.html
-msgid "type <tt>average(2;5;7)</tt> and press Enter"
-msgstr "írd be: <tt>average(2;5;7)</tt> és nyomj Entert"
-
-#: faq.html
-msgid "I do not like the keypad."
-msgstr "Nem szeretem a numerikus billentyûzetet."
-
-#: faq.html
-msgid "How do I hide it?"
-msgstr "Hogy rejtsem el?"
-
-#: faq.html
-msgid "Use menu <tt>View</tt>, <tt>Keypad</tt>."
-msgstr ""
-"Pipáld ki a <tt>Nézet</tt> menüben a <tt>Numerikus billentyûzet</tt>-et!"
-
-#: faq.html
-msgid ""
-"If the keypad is hidden, clicking this menu item will make it visible again."
-msgstr ""
-"Ha a numerikus billentyûzet el van rejtve, ugyanezzel a menüvel "
-"visszaállíthatod."
-
-#: faq.html
-msgid "I found a bug! How can I report it?"
-msgstr "Bugot találtam. Hogy jelezhetném?"
-
-#: faq.html
-msgid ""
-"The best way is to report the bug as a new issue in our <a href=\"http://"
-"code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
-msgstr ""
-"A legjobb módszer a bugok jelentésére egy új téma nyitása a <a href=\"http://"
-"code.google.com/p/speedcrunch/issues/entry\">probléma követõnkön</a>."
-
-#: faq.html
-msgid "Please check first that this bug has not been reported before."
-msgstr ""
-"Kérjuk elõször ellenõrizd, hogy nem jelentették-e már korábban ezt a bugot."
-
-#: faq.html
-msgid ""
-"Do not forget to include the information about the program version (click "
-"menu <tt>Help</tt>, <tt>About</tt>) and your operating system."
-msgstr ""
-"Ne felejtsd el csatolni a programinformációt (a <tt>Segítség</tt>, <tt>Súgó</"
-"tt> menüpontban megtalálod) és az operációs rendszered verzióját sem!"
-
-#: faq.html
-msgid "Help us!"
-msgstr "Segíthetsz nekünk!"
-
-#: faq.html
+#: download.html
 msgid ""
 "If you find a bug, please report it in our <a href=\"http://code.google.com/"
 "p/speedcrunch/issues/entry\">issue tracker</a>."
@@ -536,11 +219,7 @@ msgstr ""
 "Ha bugot találtál, kérjük jelezd a <a href=\"http://code.google.com/p/"
 "speedcrunch/issues/entry\">probléma követõnkön</a>."
 
-#: faq.html
-msgid "This will make sure that the report is not lost."
-msgstr "Így biztos, hogy a probléma nem vész el."
-
-#: faq.html
+#: download.html
 msgid ""
 "We will work to make sure the bugs that you reported will be fixed in the "
 "next version."
@@ -548,24 +227,32 @@ msgstr ""
 "Keményen dolgozunk, hogy ezek a hibák ki legyenek javítva a következõ "
 "verziókban."
 
-#: features.html
+#: index.html
+msgid "Home of the free scientific calculator"
+msgstr ""
+
+#: index.html
+msgid "A free, high-precision scientific calculator"
+msgstr ""
+
+#: index.html
 msgid "At your fingertip"
 msgstr "Minden egy karnyújtásnyira"
 
-#: features.html
+#: index.html
 msgid "Unlike traditional desktop calculator, SpeedCrunch is easier to use."
 msgstr ""
 "A többi számológéppel ellentétben a SpeedCrunch rendkívül könnyen kezelhetõ."
 
-#: features.html
+#: index.html
+#, fuzzy
 msgid ""
-"You just <em>type the expression</em> that you want to calculate and press "
-"Enter."
+"You just type the expression that you want to calculate and press Enter."
 msgstr ""
 "Csak kezd el <em>beírni a kifejezéseket</em>, amire kíváncsi vagy és nyomj "
 "Entert."
 
-#: features.html
+#: index.html
 msgid ""
 "You can see clearly what you typed along with the result in the scrollable "
 "display."
@@ -573,17 +260,17 @@ msgstr ""
 "A görgethetõ kijelzõn tisztán követheted az elõzményeket az eredményekkel "
 "együtt."
 
-#: features.html
+#: index.html
 msgid "That is faster and more convenient, isn't it?"
 msgstr "Gyorsabb és kényelmesebb, ugye?"
 
-#: features.html
+#: index.html
 msgid ""
 "You can also paste the expression from the clipboard, that you copied from "
 "somewhere else."
 msgstr "A máshonnan kimásolt kifejezéseket beillesztheted a vágólapról."
 
-#: features.html
+#: index.html
 msgid ""
 "And, you can quickly copy the last calculation result to the clipboard using "
 "Ctrl+R."
@@ -591,7 +278,7 @@ msgstr ""
 "Ráadásul a az utolsó számolás eredményét gyorsan vágólapra másolhatod a a "
 "Ctrl+R kombináció segítségével."
 
-#: features.html
+#: index.html
 msgid ""
 "Before you finish, SpeedCrunch may even give already the answer (calc-as-you-"
 "type, anyone?)."
@@ -599,11 +286,11 @@ msgstr ""
 "Mielõtt befejeznéd a SpeedCrunch már ki is számolhatja az eredményt (számol, "
 "miközben írsz)"
 
-#: features.html
+#: index.html
 msgid "autocalc"
 msgstr "autocalc"
 
-#: features.html
+#: index.html
 msgid ""
 "This allows you to &quot;fix&quot; your expression if you think it is not "
 "what you want."
@@ -611,24 +298,25 @@ msgstr ""
 "Így könnyen &quot;javíthatod&quot; a kifejezést, ha úgy gondolod, nem ezt "
 "kerested."
 
-#: features.html
+#: index.html
 msgid "Unlimited variables"
 msgstr "Végtelen változók"
 
-#: features.html
+#: index.html
 msgid "Advanced calculation sometimes needs memory feature."
 msgstr "A magasabb szintû számításoknál jól jöhet a memória funkció."
 
-#: features.html
+#: index.html
+#, fuzzy
 msgid ""
-"SpeedCrunch allows <em>variables to hold calculation result</em>, e.g. <tt>x "
-"= 0.3</tt> which can be reused in <tt>y = 2*x</tt>."
+"SpeedCrunch allows variables to hold calculation result, e.g. <tt>x = 0.3</"
+"tt> which can be reused in <tt>y = 2*x</tt>."
 msgstr ""
 "A SpeedCrunchban lehetõség nyílik a <em>számolási eredmények változókba "
 "mentésére</em>. Például a <tt>x = 0.3</tt> felhasználhatod késõbb a <tt>y = "
 "2*x</tt> egyenletben."
 
-#: features.html
+#: index.html
 msgid ""
 "Variables need not only a character, <tt>InterestRate</tt> is a perfect name "
 "as well."
@@ -636,11 +324,11 @@ msgstr ""
 "A változók nem csak egy karakter hosszúak lehetnek, elnevezheted akár "
 "<tt>jövedelmi adónak</tt> is, ha szeretnéd."
 
-#: features.html
+#: index.html
 msgid "And still, you can define as many variables as you want."
 msgstr "Ráadásul annyi változót írhatsz le, amennyit akarsz."
 
-#: features.html
+#: index.html
 msgid ""
 "There is a special variable, <tt>ans</tt>, which <i>always</i> holds the "
 "last calculation result."
@@ -648,7 +336,7 @@ msgstr ""
 "Külön speciális változó, az <tt>ans</tt>, ami <i>mindig</i> az utolsó "
 "számolás eredménye."
 
-#: features.html
+#: index.html
 msgid ""
 "Another variable <tt>pi</tt> holds one of the most important constant in "
 "math world."
@@ -656,42 +344,43 @@ msgstr ""
 "Vagy például a matematika egyik legfontosabb állandóját írja le a <tt>pi</"
 "tt> ."
 
-#: features.html
+#: index.html
 msgid "Syntax highlighting"
 msgstr "Szintaxis kiemelés"
 
-#: features.html
+#: index.html
 msgid "Do you close your parentheses correctly?"
 msgstr "Minden zárójelet bezártál?"
 
-#: features.html
+#: index.html
 msgid "Mistype the number?"
 msgstr "Elírtál egy számot?"
 
-#: features.html
+#: index.html
+#, fuzzy
 msgid ""
-"No need to worry again because SpeedCrunch can always <em>color the "
-"expression</em> according to the syntax."
+"No need to worry again because SpeedCrunch can always color the expression "
+"according to the syntax."
 msgstr ""
 "Nincs miért aggódni, a SpeedCrunch bármikor <em>kiemeli a kifejezéseket</em>."
 
-#: features.html
+#: index.html
 msgid "syntax highlighting"
 msgstr "syntax highlighting"
 
-#: features.html
+#: index.html
 msgid "You can easily distinguish numbers from variables."
 msgstr "Könnyen megkülönböztetheted a változókat az konstansoktól."
 
-#: features.html
+#: index.html
 msgid "You can also see the matched parentheses."
 msgstr "Láthatod az összetartozó zárójeleket."
 
-#: features.html
+#: index.html
 msgid "Functions, with automatic completion"
 msgstr "Függvények automatikus kiegészítéssel"
 
-#: features.html
+#: index.html
 msgid ""
 "Beside standard algebraic operator like + (addition), - (subtraction), * "
 "(multiplication), / (division), ^ or ** (exponentiation), there is support "
@@ -703,7 +392,7 @@ msgstr ""
 "függvényt is támogat, mint például a <tt>sin</tt>, <tt>log</tt>, <tt>abs</"
 "tt> és még sok más."
 
-#: features.html
+#: index.html
 msgid ""
 "You do not need to memorize function names, use Ctrl+F to pop up a dialog "
 "where you can choose the function that you need."
@@ -712,15 +401,16 @@ msgstr ""
 "kombinációt és a felugró ablakból válaszd ki a függvényt ,amivel dolgozni "
 "szeretnél!"
 
-#: features.html
-msgid "Or take advantage of its <em>auto-completion</em>."
+#: index.html
+#, fuzzy
+msgid "Or take advantage of its auto-completion."
 msgstr "Vagy használd ki az <em>automatikus kiegészítés</em> elõnyeit!"
 
-#: features.html
+#: index.html
 msgid "automatic completion"
 msgstr "automatic completion"
 
-#: features.html
+#: index.html
 msgid ""
 "Type the letter <tt>c</tt> only and in less than a second you will be "
 "automagically given with choices of <tt>cos</tt>, <tt>cosh</tt> or your "
@@ -730,11 +420,11 @@ msgstr ""
 "választhatsz a <tt>cos</tt>, <tt>cosh</tt> vagy a c-vel kezdõdõ változók "
 "közül!"
 
-#: features.html
+#: index.html
 msgid "50 decimals at your disposal"
 msgstr "50 tizedesjegy áll a rendelkezésedre"
 
-#: features.html
+#: index.html
 msgid ""
 "With its unique calculation routines, you can get up to 50 decimals of "
 "precision."
@@ -742,7 +432,7 @@ msgstr ""
 "Az egyedülálló számolási módszernek köszönhetõen 50 tizedesnyi pontosságot "
 "is elérhetsz."
 
-#: features.html
+#: index.html
 msgid ""
 "Normally, all the important digits are shown, but you can also ask "
 "SpeedCrunch to round it to several digits."
@@ -750,11 +440,11 @@ msgstr ""
 "Alapállapotban az összes fontos számjegy megejelenik, de akár meg is "
 "kérheted a SpeedCrunchot, hogy kerekítsen."
 
-#: features.html
+#: index.html
 msgid "precision"
 msgstr "precision"
 
-#: features.html
+#: index.html
 msgid ""
 "When your calculation is quite complex and involving a chain of operations, "
 "this high precision ensures that you would get less rounding error in the "
@@ -763,20 +453,21 @@ msgstr ""
 "A meglehetõsen bonyolult és többlépéses, hosszú számításoknál ez a precízió "
 "biztosítja, hogy végül pontosabb eredményt kapj. "
 
-#: features.html
+#: index.html
 msgid "History repeats itself"
 msgstr "Az elõzmények"
 
-#: features.html
+#: index.html
+#, fuzzy
 msgid ""
-"If you want to <em>recall again the expression</em> which you typed before, "
-"then press up and down arrow to access the expression history."
+"If you want to recall again the expression which you typed before, then "
+"press up and down arrow to access the expression history."
 msgstr ""
 "Ha szeretnél <em>újrahasználni egy kifejezést</em>, amit korábban már "
 "beírtál, csak nyomd meg a felfele és lefele gombokat és elérheted az "
 "elõzményeket!"
 
-#: features.html
+#: index.html
 msgid ""
 "Moreover, your expression history (maximum last 100 expressions) is saved "
 "between sessions."
@@ -784,7 +475,7 @@ msgstr ""
 "Ráadásul a kifejezések elõzményei (maximum 100 kifejezés) átmenthetõk "
 "munkamenetek között."
 
-#: features.html
+#: index.html
 msgid ""
 "This means you can still invoke those calculations you have done yesterday "
 "or last week."
@@ -792,15 +483,15 @@ msgstr ""
 "Ez azt jelenti, hogy újra elõhívhatsz számításokat, amit tegnap vagy akár "
 "egy hete végeztél."
 
-#: features.html
+#: index.html
 msgid "Smart correction"
 msgstr "Intelligens javítás"
 
-#: features.html
+#: index.html
 msgid "Often, SpeedCrunch can still understand an incomplete expression."
 msgstr "A SpeedCrunch gyakran a befejezetlen kifejezéseket is megérti."
 
-#: features.html
+#: index.html
 msgid ""
 "For example, just typing <tt>sin</tt> followed by Enter - likely means "
 "taking the sine of last value - is automatically translated as <tt>sin(ans)</"
@@ -810,7 +501,7 @@ msgstr ""
 "eredmény színuszát keresve - azt a  program automatikusan <tt>sin(ans)</tt>-"
 "ként értelmezi."
 
-#: features.html
+#: index.html
 msgid ""
 "Also, for some functions you may skip the parentheses if you pass simple "
 "number or variable, <tt>sin 0.1</tt> is as valid as <tt>sin(0.1)</tt>."
@@ -819,7 +510,7 @@ msgstr ""
 "változóval dolgozol, a <tt>sin 0.1</tt> ugyanúgy érvényes lesz, mint a "
 "<tt>sin(0.1)</tt>."
 
-#: features.html
+#: index.html
 msgid ""
 "Speaking about parentheses, closing them can be left to SpeedCrunch, e.g. "
 "<tt>cos(pi/4</tt> is automatically corrected to <tt>cos(pi/4)</tt>."
@@ -827,243 +518,87 @@ msgstr ""
 "Ha már zárójeleknél járunk: a bezárásukat ráhagyhatod a SpeedCrunch-ra, "
 "például a <tt>cos(pi/4</tt> automatikusan <tt>cos(pi/4)</tt>-ra javítja."
 
-#: features.html
+#: index.html
 msgid "Keyboard-friendly"
 msgstr "Billentyûzet barátság"
 
-#: features.html
+#: index.html
 msgid "SpeedCrunch has many keyboard shortcuts to speed up your task:"
 msgstr ""
 "A SpeedCrunch számos billentyûzet kombinációval gyorsíthatja a munkádat:"
 
 #. shortcut for Previous/Next Expression
-#: features.html
+#: index.html
 msgid "Up/Down"
 msgstr "Fel/le"
 
-#: features.html
+#: index.html
 msgid "recall last expression"
 msgstr "az elõzõ kifejezés visszaállítása"
 
 #. shortcut for Insert Variable
-#: features.html
+#: index.html
 msgid "Ctrl+I"
 msgstr "Ctrl+I"
 
-#: features.html
+#: index.html
 msgid "insert variable"
 msgstr "változó beillesztése"
 
 #. shortcut for Insert Function
-#: features.html
+#: index.html
 msgid "Ctrl+F"
 msgstr "Ctrl+F"
 
-#: features.html
+#: index.html
 msgid "insert function"
 msgstr "függvény beillesztése"
 
 #. shortcut for Copy Result
-#: features.html
+#: index.html
 msgid "Ctrl+R"
 msgstr "Ctrl+R"
 
-#: features.html
+#: index.html
 msgid "copy last result to clipboard"
 msgstr "az utolsó eredmény vágólapra másolása"
 
 #. shortcut for Save Session
-#: features.html
+#: index.html
 msgid "Ctrl+S"
 msgstr "Ctrl+S"
 
-#: features.html
+#: index.html
 msgid "save current session to text file"
 msgstr "jelenlegi munkamenet szövegfájlba mentése"
 
-#: features.html
+#: index.html
 msgid "radians mode for trigonometric functions"
 msgstr "radián mód a trigonometrikus függvényekhez"
 
-#: features.html
+#: index.html
 msgid "degrees mode for trigonometric functions"
 msgstr "fok mód a trigonometrikus függvényekhez"
-
-#: features.html
-msgid "Testimonials"
-msgstr "Ajánlólevelek"
-
-#: features.html
-msgid "Speedcrunch is better than a TI-83+."
-msgstr "A SpeedCrunch jobb, mint egy TI-83+ számológép."
-
-#: features.html
-msgid "source"
-msgstr "forrás"
-
-#: features.html
-msgid ""
-"SpeedCrunch performs all of the functions necessary for high school Algebra "
-"and Geometry courses."
-msgstr "A SpeedCrunch mindent tud, ami a gimnáziumi matematikához kellhet."
-
-#: features.html
-#, fuzzy
-msgid ""
-"SpeedCrunch is a good free alternative to buying expensive scientific "
-"calculators."
-msgstr ""
-"A SpeedCrunch egy jó ingyenes alternatíva a drága tudományos számológépek "
-"vásárlására."
-
-#: features.html
-msgid ""
-"We can conclude that this is THE most comprehensive calculator application "
-"available freely and you can hardly find anything better than this one."
-msgstr ""
-"Állíthatjuk, hogy ez a legátfogóbb számológép alkalmazás, amit ingyen "
-"elérhetünk. Aliga találhatunk ennél jobbat."
-
-#: features.html
-#, fuzzy
-msgid ""
-"The most powerful desktop calculator you can have, it's like you don’t need "
-"to buy a pro calci if you want to work all time on computer."
-msgstr ""
-"A leggyorsabb elérhetõ számológép, profi számológépet nem is kell vennünk, "
-"ha csak a számítógépen dolgozunk."
-
-#: features.html
-msgid "We were completely bowled over when we came across SpeedCrunch."
-msgstr "Teljesen elképedtünk, amikor a SpeedCrunchba futottunk."
-
-#: features.html
-msgid ""
-"Overall this is a must have utility and goes in to the Techie Buzz Hall of "
-"Fame for applications."
-msgstr ""
-"Mindent egybevéve, kötelezõ példány, bérelt helye van a Techie Buzz Hall of "
-"Fame-jében."
-
-#: features.html
-msgid ""
-"Its easy to use functionality and keyboard driven powers make it the best "
-"calculator for a student or engineer."
-msgstr ""
-"Könnyû használni és a billentyûzettel vezérelhetõsége teszi a legjobb "
-"számológéppé egy diák vagy egy mérnök számára."
-
-#: features.html
-msgid "SpeedCrunch is the best calculator available on Linux."
-msgstr "A SpeedCrunch az elérhetõ legjobb számológép Linuxra."
-
-#: features.html
-#, fuzzy
-msgid ""
-"Overall, I think I’ll be using SpeedCrunch more and more for doing my "
-"mathematic evaluations. It works on Windows too, so if you’ve decided to "
-"stick with that operating system, here’s a better replacement for the "
-"included calculator, and at a great price with code you can trust that is "
-"actively being enhanced."
-msgstr ""
-"Mindent egybevéve egyre többet használom a SpeedCrunchot matematikai "
-"értékelésekre. Remekül mûködik Windows alatt is, úgyhogy ha ezen az "
-"operációs rendszeren dolgozol, remek helyettesítõje lehet a beépített "
-"számológépnek, ráadásul ingyen és folymatatosan bõvülõ szolgáltatásokkal."
-
-#: features.html
-msgid ""
-"If I had had SpeedCrunch or Qalculate! during high school, finishing "
-"homework really would've been child's play."
-msgstr ""
-"Ha lett volna SpeedCrunch vagy Qalculate! amikor gimis voltam, gyerek játék "
-"lett volna a házi feladat!"
-
-#: features.html
-msgid ""
-"Wow! This little app has made my investigation. You have saved me hours and "
-"hours of long and boring statistical calculations!"
-msgstr ""
-"Ez a kis alkalmazás megérte a kutatgatást. Több órányi unalmas statisztikai "
-"számításoktól mentettetek meg!"
-
-#: features.html
-msgid ""
-"Mostly run by keyboard, SpeedCrunch is the calculator for the technical or "
-"engineer oriented professional."
-msgstr ""
-"A leginkább billentyûzet vezérelt SpeedCrunch az elsõszámû számológép a "
-"mûszaki beállítottságú szakembereknek."
-
-#: features.html
-msgid "A \"must look\" at."
-msgstr "Egy kötelezõ darab."
-
-#: features.html
-msgid ""
-"All in all, SpeedCrunch lives up to its claim of being a fast, precise "
-"scientific calculator."
-msgstr ""
-"A SpeedCrunch eleget tesz minden ígéretének: egy gyors, precíz tudományos "
-"számológép."
-
-#: features.html
-msgid ""
-"From the perspective of a non-math guy, SpeedCrunch is the best calculator "
-"on Linux."
-msgstr ""
-"Egy nem matekos srác szemszögébõl: a SpeedCrunch a legjobb számológép "
-"Linuxra."
-
-#: features.html
-#, fuzzy
-msgid ""
-"I am wondering why they didn’t offer a basic free version and a low-priced "
-"upgrade with more functionality."
-msgstr ""
-"Csodálkozom, hogy miért nincs egy ingyenes alapprogram és ez egy alacsony "
-"áron megvásárolható kiegészítés."
-
-#: features.html
-msgid "Leave Windows Calculator behind and use SpeedCrunch instead."
-msgstr ""
-"Felejtsétek el a Windows számológépet és használjátok a SpeedCrunchot inkább."
-
-#: index.html
-msgid "SpeedCrunch is a fast, high precision and powerful desktop calculator."
-msgstr "A SpeedCrunch egy gyors, precíz és erõs számológép."
-
-#: index.html
-msgid ""
-"Available for <img src=\"../icons/tux.png\" alt=\"Linux\" style=\"vertical-"
-"align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../icons/win."
-"png\" alt=\"Windows\" style=\"vertical-align: middle; margin-right: 3px;\" /"
-"><b>Microsoft Windows</b>, and <img src=\"../icons/mac.png\" alt=\"Apple Mac "
-"OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /><b>Apple Mac "
-"OS X</b>."
-msgstr ""
-"Elérhetõ a következõkön: <img src=\"../icons/tux.png\" alt=\"Linux\" style="
-"\"vertical-align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src=\"../"
-"icons/win.png\" alt=\"Windows\" style=\"vertical-align: middle; margin-"
-"right: 3px;\" /><b>Microsoft Windows</b> és <img src=\"../icons/mac.png\" "
-"alt=\"Apple Mac OS X\" style=\"vertical-align: middle; margin-right: 3px;\" /"
-"><b>Apple Mac OS X</b>."
-
-#: index.html
-msgid "See more screenshots!"
-msgstr "Még több kép!"
-
-#: index.html
-msgid "Screenshot"
-msgstr "Képek"
 
 #: index.html
 msgid "Overview"
 msgstr "Áttekintés"
 
 #: index.html
+msgid "completely free"
+msgstr ""
+
+#: index.html
 msgid "history and results on a scrollable display"
 msgstr "elõzmények és eredmények görgethetõ kijelzõn"
+
+#: index.html
+msgid "automatic completion of variables and functions"
+msgstr ""
+
+#: index.html
+msgid "syntax highlighting and parentheses matching"
+msgstr "szintaxis kiemelés és zárójelek párosítása"
 
 #: index.html
 msgid "up to 50 decimal precisions"
@@ -1074,19 +609,17 @@ msgid "unlimited variable storage"
 msgstr "végtelen elmenthetõ változó"
 
 #: index.html
-msgid "intelligent automatic completion"
-msgstr "intelligens automata kiegészítés"
+msgid "optimized for keyboard"
+msgstr ""
 
 #: index.html
-msgid "fully usable from the keyboard"
-msgstr "csak billentyûzettel is használható"
-
-#: index.html
-msgid "more than 50 built-in math functions"
+#, fuzzy
+msgid "dozens of built-in math functions"
 msgstr "több, mint 50 beépített matematikai függvény"
 
 #: index.html
-msgid "optional virtual keypad to be used with a mouse"
+#, fuzzy
+msgid "optional virtual keypad"
 msgstr "választható egérrel használható virtuális billentyûzet"
 
 #: index.html
@@ -1094,85 +627,487 @@ msgid "on-the-fly and selection calculation"
 msgstr "villámgyors kiválasztás és számolás"
 
 #: index.html
-msgid "customizable appearance"
+#, fuzzy
+msgid "customizable layout and color schemes"
 msgstr "testreszabható megjelenés"
 
 #: index.html
-msgid "syntax highlighting and parentheses matching"
-msgstr "szintaxis kiemelés és zárójelek párosítása"
+msgid "Testimonials"
+msgstr "Ajánlólevelek"
 
 #: index.html
 msgid ""
-"<a href=\"features.html\">Learn more</a> or <a href=\"download.html"
-"\">download it now</a>"
-msgstr ""
-"<a href=\"features.html\">Tudj meg még többet</a> vagy <a href=\"download."
-"html\">töltsd le most</a>!"
+"SpeedCrunch performs all of the functions necessary for high school Algebra "
+"and Geometry courses."
+msgstr "A SpeedCrunch mindent tud, ami a gimnáziumi matematikához kellhet."
 
 #: index.html
-msgid "It's completely <b>FREE</b>!"
-msgstr "Teljesen <b>INGYENES</b>!"
-
-#: screenshots.html
-msgid "Go to home page"
-msgstr "Vissza a kezdõlapra"
-
-#: screenshots.html
-msgid "For each screenshot, click the preview to enlarge."
-msgstr "Kattints a képekre, ha nagyban szeretnéd látni."
-
-#: screenshots.html
+#, fuzzy
 msgid ""
-"All images are from version 0.10.1 running on Microsoft Windows Vista, Apple "
-"Mac OS X and KDE."
+"SpeedCrunch is a good free alternative to buying expensive scientific "
+"calculators."
 msgstr ""
-"Az összes kép a 0.10.1 verzióban készült, Microsoft Windows Vista, Apple Max "
-"OS X és KDE alatt."
+"A SpeedCrunch egy jó ingyenes alternatíva a drága tudományos számológépek "
+"vásárlására."
 
-#: screenshots.html
+#: index.html
+msgid "source"
+msgstr "forrás"
+
+#: index.html
 msgid ""
-"In addition to the default appearance already visible in the home page "
-"(showing the menu bar, scrolling display, expression editor and virtual "
-"keypad), here you can see the extra visual elements at full capacity (status "
-"bar and all dock windows)."
+"We can conclude that this is THE most comprehensive calculator application "
+"available freely and you can hardly find anything better than this one."
 msgstr ""
-"Az alapértelmezett, fõoldalon látott(menüsort, görgethetõ menüt, kifejezés "
-"szerkesztõt és virtuális billentyûzetet ábrázoló) kinézet mellett itt "
-"láthatod a speciális vizuális elemeket is teljes kapacitásukban (állapotsor "
-"és a dokkolható ablakok)."
+"Állíthatjuk, hogy ez a legátfogóbb számológép alkalmazás, amit ingyen "
+"elérhetünk. Aliga találhatunk ennél jobbat."
 
-#: screenshots.html
+#: index.html
+#, fuzzy
 msgid ""
-"Finally, you can also see the application in its minimal appearance (just "
-"the scrolling display and the expression editor - even no menu bar!)."
+"The most powerful desktop calculator you can have, it's like you don’t need "
+"to buy a pro calci if you want to work all time on computer."
 msgstr ""
-"Végül láthatod az alkalmazást, a minimum megjelenítésen (csak a görgethetõ "
-"kijelzõ és a kifejezés szerkesztõ - még menüsor sincs!)."
+"A leggyorsabb elérhetõ számológép, profi számológépet nem is kell vennünk, "
+"ha csak a számítógépen dolgozunk."
 
-#: screenshots.html
+#: index.html
+msgid "We were completely bowled over when we came across SpeedCrunch."
+msgstr "Teljesen elképedtünk, amikor a SpeedCrunchba futottunk."
+
+#: index.html
 msgid ""
-"Check also the description of <a href=\"features.html\">many unique "
-"features</a> available only in SpeedCrunch!"
+"Overall this is a must have utility and goes in to the Techie Buzz Hall of "
+"Fame for applications."
 msgstr ""
-"Nézd meg a csak a SpeedCrunchban elérhetõ <a href=\"features.html\">egyedi "
-"funkciók</a> listáját is!"
+"Mindent egybevéve, kötelezõ példány, bérelt helye van a Techie Buzz Hall of "
+"Fame-jében."
 
-#: screenshots.html
-msgid "Send your screenshot"
-msgstr "Küldd el a saját képed"
-
-#: screenshots.html
+#: index.html
 msgid ""
-"Do you have a nice screenshot showing interesting features of SpeedCrunch?"
-msgstr "Van egy jó képed a SpeedCrunch valamelyik érdekességérõl?"
-
-#: screenshots.html
-msgid ""
-"Send it to us (<a href=\"mailto:screenshot@speedcrunch.org"
-"\">screenshot@speedcrunch.org</a>) and we'll place it here."
+"Its easy to use functionality and keyboard driven powers make it the best "
+"calculator for a student or engineer."
 msgstr ""
-"Küldd el nekünk (<a href=\"mailto:screenshot@speedcrunch.org"
-"\">screenshot@speedcrunch.org</a>) és mi kirakjuk ide!"
+"Könnyû használni és a billentyûzettel vezérelhetõsége teszi a legjobb "
+"számológéppé egy diák vagy egy mérnök számára."
+
+#: index.html
+msgid "SpeedCrunch is the best calculator available on Linux."
+msgstr "A SpeedCrunch az elérhetõ legjobb számológép Linuxra."
+
+#: index.html
+msgid ""
+"If I had had SpeedCrunch or Qalculate! during high school, finishing "
+"homework really would've been child's play."
+msgstr ""
+"Ha lett volna SpeedCrunch vagy Qalculate! amikor gimis voltam, gyerek játék "
+"lett volna a házi feladat!"
+
+#: index.html
+msgid ""
+"Wow! This little app has made my investigation. You have saved me hours and "
+"hours of long and boring statistical calculations!"
+msgstr ""
+"Ez a kis alkalmazás megérte a kutatgatást. Több órányi unalmas statisztikai "
+"számításoktól mentettetek meg!"
+
+#: index.html
+msgid ""
+"Mostly run by keyboard, SpeedCrunch is the calculator for the technical or "
+"engineer oriented professional."
+msgstr ""
+"A leginkább billentyûzet vezérelt SpeedCrunch az elsõszámû számológép a "
+"mûszaki beállítottságú szakembereknek."
+
+#: index.html
+msgid "A \"must look\" at."
+msgstr "Egy kötelezõ darab."
+
+#: index.html
+msgid ""
+"All in all, SpeedCrunch lives up to its claim of being a fast, precise "
+"scientific calculator."
+msgstr ""
+"A SpeedCrunch eleget tesz minden ígéretének: egy gyors, precíz tudományos "
+"számológép."
+
+#: index.html
+msgid ""
+"From the perspective of a non-math guy, SpeedCrunch is the best calculator "
+"on Linux."
+msgstr ""
+"Egy nem matekos srác szemszögébõl: a SpeedCrunch a legjobb számológép "
+"Linuxra."
+
+#: index.html
+#, fuzzy
+msgid ""
+"I am wondering why they didn’t offer a basic free version and a low-priced "
+"upgrade with more functionality."
+msgstr ""
+"Csodálkozom, hogy miért nincs egy ingyenes alapprogram és ez egy alacsony "
+"áron megvásárolható kiegészítés."
+
+#: index.html
+msgid "Leave Windows Calculator behind and use SpeedCrunch instead."
+msgstr ""
+"Felejtsétek el a Windows számológépet és használjátok a SpeedCrunchot inkább."
+
+#~ msgid "Learn more"
+#~ msgstr "Tudj meg még többet"
+
+#~ msgid "Features"
+#~ msgstr "Leírás"
+
+#~ msgid ""
+#~ "<a href=\"features.html\">Learn more</a> or <a href=\"download.html"
+#~ "\">download it now</a>"
+#~ msgstr ""
+#~ "<a href=\"features.html\">Tudj meg még többet</a> vagy <a href=\"download."
+#~ "html\">töltsd le most</a>!"
+
+#~ msgid "See more screenshots!"
+#~ msgstr "Még több kép!"
+
+#~ msgid "Screenshot"
+#~ msgstr "Képek"
+
+#~ msgid ""
+#~ "Available for <img src=\"../icons/tux.png\" alt=\"Linux\" style="
+#~ "\"vertical-align: middle; margin-right: 3px;\" /><b>Linux</b>, <img src="
+#~ "\"../icons/win.png\" alt=\"Windows\" style=\"vertical-align: middle; "
+#~ "margin-right: 3px;\" /><b>Microsoft Windows</b>, and <img src=\"../icons/"
+#~ "mac.png\" alt=\"Apple Mac OS X\" style=\"vertical-align: middle; margin-"
+#~ "right: 3px;\" /><b>Apple Mac OS X</b>."
+#~ msgstr ""
+#~ "Elérhetõ a következõkön: <img src=\"../icons/tux.png\" alt=\"Linux\" "
+#~ "style=\"vertical-align: middle; margin-right: 3px;\" /><b>Linux</b>, <img "
+#~ "src=\"../icons/win.png\" alt=\"Windows\" style=\"vertical-align: middle; "
+#~ "margin-right: 3px;\" /><b>Microsoft Windows</b> és <img src=\"../icons/"
+#~ "mac.png\" alt=\"Apple Mac OS X\" style=\"vertical-align: middle; margin-"
+#~ "right: 3px;\" /><b>Apple Mac OS X</b>."
+
+#~ msgid ""
+#~ "SpeedCrunch is a fast, high precision and powerful desktop calculator."
+#~ msgstr "A SpeedCrunch egy gyors, precíz és erõs számológép."
+
+#~ msgid "intelligent automatic completion"
+#~ msgstr "intelligens automata kiegészítés"
+
+#~ msgid "fully usable from the keyboard"
+#~ msgstr "csak billentyûzettel is használható"
+
+#~ msgid "It's completely <b>FREE</b>!"
+#~ msgstr "Teljesen <b>INGYENES</b>!"
+
+#~ msgid "Frequently asked questions"
+#~ msgstr "Gyakran Ismételt Kérdések"
+
+#~ msgid "FAQ"
+#~ msgstr "GYIK"
+
+#~ msgid "Here are some frequently asked questions (with answers):"
+#~ msgstr "Itt találhatsz néhány gyakran ismételt kérdést (és a válaszokat):"
+
+#~ msgid "What is <tt>ans</tt>?"
+#~ msgstr "Mi az az <tt>ans</tt>?"
+
+#~ msgid ""
+#~ "<tt>ans</tt> is a special variable which always holds the last "
+#~ "calculation result."
+#~ msgstr ""
+#~ "Az <tt>ans</tt> egy speciális változó, mindig az utolsó számolás "
+#~ "eredménye."
+
+#~ msgid "You can use it to avoid typing the result again."
+#~ msgstr "Használhatod arra, hogy ne kelljen az eredményt újra begépelni."
+
+#~ msgid "For example, for finding <tt>sin(pi/3)</tt>, you can do these steps:"
+#~ msgstr "Például, hogy kiszámoljuk <tt>sin(pi/3)</tt> eredményét:"
+
+#~ msgid "type <tt>pi/3</tt> and press Enter"
+#~ msgstr "írd be: <tt>pi/3</tt> és nyomj Entert"
+
+#~ msgid "type <tt>sin(ans)</tt> and press Enter"
+#~ msgstr "írd be: <tt>sin(ans)</tt> majd nyomj Entert"
+
+#~ msgid "How do I separate function parameters?"
+#~ msgstr "Hogy választhatom el egy függvény paramétereit?"
+
+#~ msgid ""
+#~ "When using functions that take more than one parameter, use semicolon "
+#~ "( <i>;</i> ) between all of them."
+#~ msgstr ""
+#~ "Többparaméteres függvénynél a paramétereket a pontosvesszõ segítségével "
+#~ "( <i>;</i> ) választhatjuk el."
+
+#~ msgid ""
+#~ "For example, for finding the arithmetic mean of <tt>2</tt>, <tt>5</tt> "
+#~ "and <tt>7</tt> just follow this:"
+#~ msgstr ""
+#~ "Például a 2, 5 és 7 számtani közepének megtalálásához csináld a következõ "
+#~ "lépéseket:"
+
+#~ msgid "type <tt>average(2;5;7)</tt> and press Enter"
+#~ msgstr "írd be: <tt>average(2;5;7)</tt> és nyomj Entert"
+
+#~ msgid "I do not like the keypad."
+#~ msgstr "Nem szeretem a numerikus billentyûzetet."
+
+#~ msgid "How do I hide it?"
+#~ msgstr "Hogy rejtsem el?"
+
+#~ msgid "Use menu <tt>View</tt>, <tt>Keypad</tt>."
+#~ msgstr ""
+#~ "Pipáld ki a <tt>Nézet</tt> menüben a <tt>Numerikus billentyûzet</tt>-et!"
+
+#~ msgid ""
+#~ "If the keypad is hidden, clicking this menu item will make it visible "
+#~ "again."
+#~ msgstr ""
+#~ "Ha a numerikus billentyûzet el van rejtve, ugyanezzel a menüvel "
+#~ "visszaállíthatod."
+
+#~ msgid "I found a bug! How can I report it?"
+#~ msgstr "Bugot találtam. Hogy jelezhetném?"
+
+#~ msgid ""
+#~ "The best way is to report the bug as a new issue in our <a href=\"http://"
+#~ "code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
+#~ msgstr ""
+#~ "A legjobb módszer a bugok jelentésére egy új téma nyitása a <a href="
+#~ "\"http://code.google.com/p/speedcrunch/issues/entry\">probléma "
+#~ "követõnkön</a>."
+
+#~ msgid "Please check first that this bug has not been reported before."
+#~ msgstr ""
+#~ "Kérjuk elõször ellenõrizd, hogy nem jelentették-e már korábban ezt a "
+#~ "bugot."
+
+#~ msgid ""
+#~ "Do not forget to include the information about the program version (click "
+#~ "menu <tt>Help</tt>, <tt>About</tt>) and your operating system."
+#~ msgstr ""
+#~ "Ne felejtsd el csatolni a programinformációt (a <tt>Segítség</tt>, "
+#~ "<tt>Súgó</tt> menüpontban megtalálod) és az operációs rendszered "
+#~ "verzióját sem!"
+
+#~ msgid "Main changes in version 0.10.1"
+#~ msgstr "Fõbb változások a 0.10.1 verzióban"
+
+#~ msgid "fixed virtual keypad button ="
+#~ msgstr "javítva: virtuális = billenytyû"
+
+#~ msgid "fixed potential crashes"
+#~ msgstr "javítva: esetleges fagyások"
+
+#~ msgid ""
+#~ "fixed back and forward buttons that have the opposite meaning in RTL "
+#~ "languages like Hebrew"
+#~ msgstr ""
+#~ "javítva: elõre és hátra gombok helyes értelmezése a jobbról balra író "
+#~ "nyelveken, mint például a héber"
+
+#~ msgid "new Basque, Catalan and Simplified Chinese translations"
+#~ msgstr "új: baszk, katalán és egyszerû kínai fordítások"
+
+#~ msgid ""
+#~ "new Apple Mac OS X Universal Binary finally available (first since "
+#~ "version 0.7)"
+#~ msgstr ""
+#~ "új: Apple Max OS X Universal Binary elérhetõség (0.7 verzió óta elõször)"
+
+#~ msgid ""
+#~ "Microsoft Windows installer and portable package reduced to around half "
+#~ "of the size compared to version 0.10"
+#~ msgstr ""
+#~ "A Microsoft Windows telepítõ és hordozható csomag mérete majdnem a felére "
+#~ "csökkent a 0.10 verzióhoz képest"
+
+#~ msgid "What's new in version 0.10"
+#~ msgstr "Változások a 0.10 verzióban"
+
+#~ msgid "bug fixing of almost all known bugs"
+#~ msgstr "majdnem az összes ismert bug javítása"
+
+#~ msgid "ERF, ERFC, GAMMA, LNGAMMA, IDIV and MOD functions"
+#~ msgstr "ERF, ERFC, GAMMA, LNGAMMA, IDIV és MOD függvények"
+
+#~ msgid "math book browsable pages dock window"
+#~ msgstr "böngészhetõ matekkönyv oldalak dokkolható ablakban"
+
+#~ msgid "automatic calculation of the selected text"
+#~ msgstr "kiválasztott szöveg automatikus számolása"
+
+#~ msgid "automatic syntax highlighting color generation"
+#~ msgstr "színgenerálás az automatikus szintaxis kiemeléshez"
+
+#~ msgid "complete support for RTL (right-to-left) written languages"
+#~ msgstr "teljes támogatás a jobbról balra író nyelvekhez"
+
+#~ msgid "ability to change the language on-the-fly"
+#~ msgstr "gyors nyelvváltási lehetõség"
+
+#~ msgid "restore last session"
+#~ msgstr "utolsó munkamenet visszaállítása"
+
+#~ msgid "save and load session"
+#~ msgstr "munkamenet mentése és betöltése"
+
+#~ msgid "batch calculation"
+#~ msgstr "kötegelt számlálás"
+
+#~ msgid "full screen mode"
+#~ msgstr "teljes képernyõs mód"
+
+#~ msgid "minimal view version"
+#~ msgstr "minimum nézet"
+
+#~ msgid "status bar"
+#~ msgstr "állapotjelzõ sor"
+
+#~ msgid "context menu for tray icon"
+#~ msgstr "felugró menü a tálcán lévõ ikonhoz"
+
+#~ msgid "new keyboard shortcuts and redesigned menu"
+#~ msgstr "új billentyûparancsok és újratervezett menü"
+
+#~ msgid "new Turkish (incomplete) translation"
+#~ msgstr "új török fordítás (befejezetlen)"
+
+#~ msgid "preliminary support of logic functions"
+#~ msgstr "bevezetõ támogatás a logikai függvényekhez"
+
+#~ msgid "extended output of real-valued numbers to non-decimal modes"
+#~ msgstr ""
+#~ "kibõvített kimenet a valósértékû számokhoz nem tízes számrendszerû "
+#~ "módokban"
+
+#~ msgid "allow real-valued arguments for NPR and NCR"
+#~ msgstr "valósértékû argumentumok engedélyezése az NPR ÉS NCR számára"
+
+#~ msgid "default desktop file for menu integration in Linux desktops"
+#~ msgstr "alapértelmezett fájl a menü integrációhoz a Linux gépeken"
+
+#~ msgid ""
+#~ "possibility to package portable versions with no need for installation"
+#~ msgstr "lehetõség telepítés nélküli, hordozható verziók létrehozására"
+
+#~ msgid "Help us!"
+#~ msgstr "Segíthetsz nekünk!"
+
+#~ msgid "This will make sure that the report is not lost."
+#~ msgstr "Így biztos, hogy a probléma nem vész el."
+
+#~ msgid "SpeedCrunch - fast and usable calculator"
+#~ msgstr "SpeedCrunch - gyors és praktikus számológép"
+
+#~ msgid "See it in action"
+#~ msgstr "Nézz bele"
+
+#~ msgid "Screenshots"
+#~ msgstr "Képek"
+
+#~ msgid "Authors and contributors"
+#~ msgstr "Szerzõk és közremûködõk"
+
+#~ msgid "Credits"
+#~ msgstr "Fejlesztõk"
+
+#~ msgid "Original author"
+#~ msgstr "Eredeti szerzõ"
+
+#~ msgid "Maintainer"
+#~ msgstr "Fenntartó"
+
+#~ msgid "Authors"
+#~ msgstr "Szerzõk"
+
+#~ msgid "Based on original idea from"
+#~ msgstr "Eredeti ötlet"
+
+#~ msgid "Special thanks to"
+#~ msgstr "Külön köszönet"
+
+#~ msgid "Graphics"
+#~ msgstr "Grafika"
+
+#~ msgid "Thanks to"
+#~ msgstr "Köszönet"
+
+#~ msgid "Website developers"
+#~ msgstr "Honlap fejlesztõk"
+
+#~ msgid "Application and website translators"
+#~ msgstr "Az alkalmazás és a honlap fordítói"
+
+#~ msgid "Go to home page"
+#~ msgstr "Vissza a kezdõlapra"
+
+#~ msgid "For each screenshot, click the preview to enlarge."
+#~ msgstr "Kattints a képekre, ha nagyban szeretnéd látni."
+
+#~ msgid ""
+#~ "All images are from version 0.10.1 running on Microsoft Windows Vista, "
+#~ "Apple Mac OS X and KDE."
+#~ msgstr ""
+#~ "Az összes kép a 0.10.1 verzióban készült, Microsoft Windows Vista, Apple "
+#~ "Max OS X és KDE alatt."
+
+#~ msgid ""
+#~ "In addition to the default appearance already visible in the home page "
+#~ "(showing the menu bar, scrolling display, expression editor and virtual "
+#~ "keypad), here you can see the extra visual elements at full capacity "
+#~ "(status bar and all dock windows)."
+#~ msgstr ""
+#~ "Az alapértelmezett, fõoldalon látott(menüsort, görgethetõ menüt, "
+#~ "kifejezés szerkesztõt és virtuális billentyûzetet ábrázoló) kinézet "
+#~ "mellett itt láthatod a speciális vizuális elemeket is teljes "
+#~ "kapacitásukban (állapotsor és a dokkolható ablakok)."
+
+#~ msgid ""
+#~ "Finally, you can also see the application in its minimal appearance (just "
+#~ "the scrolling display and the expression editor - even no menu bar!)."
+#~ msgstr ""
+#~ "Végül láthatod az alkalmazást, a minimum megjelenítésen (csak a "
+#~ "görgethetõ kijelzõ és a kifejezés szerkesztõ - még menüsor sincs!)."
+
+#~ msgid ""
+#~ "Check also the description of <a href=\"features.html\">many unique "
+#~ "features</a> available only in SpeedCrunch!"
+#~ msgstr ""
+#~ "Nézd meg a csak a SpeedCrunchban elérhetõ <a href=\"features.html"
+#~ "\">egyedi funkciók</a> listáját is!"
+
+#~ msgid "Send your screenshot"
+#~ msgstr "Küldd el a saját képed"
+
+#~ msgid ""
+#~ "Do you have a nice screenshot showing interesting features of SpeedCrunch?"
+#~ msgstr "Van egy jó képed a SpeedCrunch valamelyik érdekességérõl?"
+
+#~ msgid ""
+#~ "Send it to us (<a href=\"mailto:screenshot@speedcrunch.org"
+#~ "\">screenshot@speedcrunch.org</a>) and we'll place it here."
+#~ msgstr ""
+#~ "Küldd el nekünk (<a href=\"mailto:screenshot@speedcrunch.org"
+#~ "\">screenshot@speedcrunch.org</a>) és mi kirakjuk ide!"
+
+#~ msgid "Speedcrunch is better than a TI-83+."
+#~ msgstr "A SpeedCrunch jobb, mint egy TI-83+ számológép."
+
+#, fuzzy
+#~ msgid ""
+#~ "Overall, I think I’ll be using SpeedCrunch more and more for doing my "
+#~ "mathematic evaluations. It works on Windows too, so if you’ve decided to "
+#~ "stick with that operating system, here’s a better replacement for the "
+#~ "included calculator, and at a great price with code you can trust that is "
+#~ "actively being enhanced."
+#~ msgstr ""
+#~ "Mindent egybevéve egyre többet használom a SpeedCrunchot matematikai "
+#~ "értékelésekre. Remekül mûködik Windows alatt is, úgyhogy ha ezen az "
+#~ "operációs rendszeren dolgozol, remek helyettesítõje lehet a beépített "
+#~ "számológépnek, ráadásul ingyen és folymatatosan bõvülõ szolgáltatásokkal."
 
 #~ msgid ""
 #~ "SpeedCrunch may sound like a breakfast cereal, but it's actually a very "
