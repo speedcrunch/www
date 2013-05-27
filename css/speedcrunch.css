@@ -13,6 +13,21 @@ br {
     clear: both;
 }
 
+h1 {
+    font-size: 150%;
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 120%;
+}
+
+h3 {
+    font-size: 100%;
+}
+
 #header {
     background-color: #55acff;
     background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#55acff));
@@ -97,31 +112,27 @@ br {
     border-radius: 35px;
     padding: 30px;
     text-align: left;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 15px black;
+    background: #300a24;
+    color: #fff;
 }
 
 .extra-info-box ul {
-  margin-left: 5px;
-  padding-left: 15px;
-  list-style: none;
+    margin-left: 5px;
+    padding-left: 15px;
+    list-style: none;
 }
 
 .extra-info-box ul li:before {
-  content: "\00BB \0020";
+    content: "\00BB \0020";
 }
 
-h1 {
-  font-size:150%;
-  visibility: hidden;
-  margin: 0; padding: 0;
+.extra-info-box a {
+    color: #689fcf;
 }
 
-h2 {
-  font-size:120%;
-}
-
-h3 {
-  font-size:100%;
+.extra-info-box h3 {
+    color: #c4a000;
 }
 
 #rightcontent p {
