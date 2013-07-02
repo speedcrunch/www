@@ -47,13 +47,14 @@ for poFile in locale/*.po
 do
     file=${poFile#locale/speedcrunch.org.}
     lang=${file%.po}
+    hyphenLang=${lang/_/-}
     touch locale/speedcrunch.org."$lang".po
-    mkdir -p "$DIR"/"$lang"
+    mkdir -p "$DIR"/"$hyphenLang"
     msgmerge -U --quiet locale/speedcrunch.org."$lang".po locale/speedcrunch.org.pot
     for htmlFile in templates/*.html
     do
         file=${htmlFile#templates/}
-        $P2H -t templates/"$file" -i locale/speedcrunch.org."$lang".po -o "$DIR"/"$lang"/"$file"
+        $P2H -t templates/"$file" -i locale/speedcrunch.org."$lang".po -o "$DIR"/"$hyphenLang"/"$file"
     done
 done
 
