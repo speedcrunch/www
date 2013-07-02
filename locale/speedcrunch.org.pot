@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-26 10:06+0000\n"
+"POT-Creation-Date: 2013-07-02 01:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,164 +14,64 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: download.html, index.html
+#: index.html
 msgid "calculator"
 msgstr ""
 
-#: download.html, index.html
+#: index.html
+msgid "SpeedCrunch high-precision scientific calculator"
+msgstr ""
+
+#: index.html
+msgid "Learn"
+msgstr ""
+
+#: index.html
 msgid "Download"
 msgstr ""
 
-#: download.html, index.html
-msgid "Home"
+#: index.html
+msgid "Contact"
 msgstr ""
 
-#: download.html, index.html
-msgid "Try it out"
+#: index.html
+msgid "Follow"
 msgstr ""
 
-#: download.html, index.html
-msgid "Discuss with other users"
+#: index.html
+msgid "Choose language"
 msgstr ""
 
-#: download.html, index.html
-msgid "Forum"
+#: index.html
+msgid "Help the project"
 msgstr ""
 
-#: download.html, index.html
-msgid "Follow the development"
+#: index.html
+msgid "If you find a bug or have a feature request, please enter it in our <a href=\"http://code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
 msgstr ""
 
-#: download.html, index.html
-msgid "Blog"
+#: index.html
+msgid "New features, bug fixes and translations are very welcome."
 msgstr ""
 
-#: download.html, index.html
-msgid "icon"
+#: index.html
+msgid "If all you can share with us is your opinion, that's certainly valued as well."
 msgstr ""
 
-#: download.html
-msgid "Version 0.10.1 (May 2008)"
-msgstr ""
-
-#: download.html
-msgid "Installer:"
-msgstr ""
-
-#: download.html
-msgid "To perform the installation, just click on the file to run it and then follow the step-by-step instructions."
-msgstr ""
-
-#: download.html
-msgid "After installed, run it from <i>Start</i> &gt; <i>All Programs</i>  &gt; <i>SpeedCrunch</i>."
-msgstr ""
-
-#: download.html
-msgid "Portable Edition:"
-msgstr ""
-
-#: download.html
-msgid "No installation."
-msgstr ""
-
-#: download.html
-msgid "Take it everywhere."
-msgstr ""
-
-#: download.html
-msgid "Simply download the archive, extract and run by clicking on the executable file inside."
-msgstr ""
-
-#: download.html
-msgid "Universal Binary bundle:"
-msgstr ""
-
-#: download.html
-msgid "It should work on Mac OS X 10.3 (Panther) and above."
-msgstr ""
-
-#: download.html
-msgid "SpeedCrunch is available on all major Linux distributions."
-msgstr ""
-
-#: download.html
-msgid "Please use your distribution's software center application to search and install Speedrunch."
-msgstr ""
-
-#: download.html
-msgid "Note that packages available from distributions are not necessarily the latest version."
-msgstr ""
-
-#: download.html
-msgid "Source code"
-msgstr ""
-
-#: download.html
-msgid "Tarball:"
-msgstr ""
-
-#: download.html
-msgid "Extract to temporary directory"
-msgstr ""
-
-#: download.html
-msgid "Run <tt>cmake .</tt> from the <tt>src</tt> folder, followed by <tt>make</tt>"
-msgstr ""
-
-#: download.html
-msgid "Install with <tt>make install</tt> (might need administration privileges)"
-msgstr ""
-
-#: download.html
-msgid "NOTE: the following tools and libraries are required:"
-msgstr ""
-
-#: download.html
-msgid "<a href=\"http://www.cmake.org\">CMake</a> (minimum version 2.4.4)"
-msgstr ""
-
-#: download.html
-msgid "<a href=\"http://qt.digia.com\">Qt</a> (minimum version 4.6 and including development environment)"
-msgstr ""
-
-#: download.html
-msgid "Development repository"
-msgstr ""
-
-#: download.html
-msgid "Clone one of the redundant Git repositories:"
-msgstr ""
-
-#: download.html
+#: index.html
 msgid "License"
 msgstr ""
 
-#: download.html
-msgid "SpeedCrunch is free software; you can redistribute it and/or modify it under the terms of the <a href=\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</a> as published by the <a href=\"http://www.fsf.org\">Free Software Foundation</a>; either version 2 of the License, or (at your option) any later version."
-msgstr ""
-
-#: download.html
-msgid "This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details."
-msgstr ""
-
-#: download.html
-msgid "Help us improving it!"
-msgstr ""
-
-#: download.html
-msgid "If you find a bug, please report it in our <a href=\"http://code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
-msgstr ""
-
-#: download.html
-msgid "We will work to make sure the bugs that you reported will be fixed in the next version."
+#: index.html
+msgid "This program is open-source."
 msgstr ""
 
 #: index.html
-msgid "Home of the free scientific calculator"
+msgid "You can redistribute and/or modify it under the terms of the <a href=\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</a>."
 msgstr ""
 
 #: index.html
-msgid "A free, high-precision scientific calculator"
+msgid "It is distributed in the hope that it will be useful, but without any warranty."
 msgstr ""
 
 #: index.html
@@ -179,39 +79,31 @@ msgid "At your fingertip"
 msgstr ""
 
 #: index.html
-msgid "Unlike traditional desktop calculator, SpeedCrunch is easier to use."
+msgid "Just type an expression and press <tt>Enter</tt>."
 msgstr ""
 
 #: index.html
-msgid "You just type the expression that you want to calculate and press Enter."
+msgid "What you typed and its result will appear in the scrollable result display."
 msgstr ""
 
 #: index.html
-msgid "You can see clearly what you typed along with the result in the scrollable display."
+msgid "Results can be immediately presented as you type without sending them to the history."
 msgstr ""
 
 #: index.html
-msgid "That is faster and more convenient, isn't it?"
+msgid "A myriad of functions"
 msgstr ""
 
 #: index.html
-msgid "You can also paste the expression from the clipboard, that you copied from somewhere else."
+msgid "In addition to the basic algebraic operators, some common functions from mathematics, physics and electronics are available."
 msgstr ""
 
 #: index.html
-msgid "And, you can quickly copy the last calculation result to the clipboard using Ctrl+R."
+msgid "Take advantage of function name auto-completion as you type, or browse all functions in a searchable table."
 msgstr ""
 
 #: index.html
-msgid "Before you finish, SpeedCrunch may even give already the answer (calc-as-you-type, anyone?)."
-msgstr ""
-
-#: index.html
-msgid "autocalc"
-msgstr ""
-
-#: index.html
-msgid "This allows you to &quot;fix&quot; your expression if you think it is not what you want."
+msgid "Separate function arguments with a <tt>;</tt> (semicolon) character."
 msgstr ""
 
 #: index.html
@@ -219,27 +111,19 @@ msgid "Unlimited variables"
 msgstr ""
 
 #: index.html
-msgid "Advanced calculation sometimes needs memory feature."
+msgid "Store results in a variable, e.g. <tt>myVar = sin(1.23)</tt> which can be reused in <tt>y = 2*x</tt>."
 msgstr ""
 
 #: index.html
-msgid "SpeedCrunch allows variables to hold calculation result, e.g. <tt>x = 0.3</tt> which can be reused in <tt>y = 2*x</tt>."
+msgid "There is a special variable, <tt>ans</tt>, that always stores the result of the previous calculation."
 msgstr ""
 
 #: index.html
-msgid "Variables need not only a character, <tt>InterestRate</tt> is a perfect name as well."
+msgid "Another built-in variable, <tt>pi</tt>, holds one of the most important constants in the world."
 msgstr ""
 
 #: index.html
-msgid "And still, you can define as many variables as you want."
-msgstr ""
-
-#: index.html
-msgid "There is a special variable, <tt>ans</tt>, which <i>always</i> holds the last calculation result."
-msgstr ""
-
-#: index.html
-msgid "Another variable <tt>pi</tt> holds one of the most important constant in math world."
+msgid "Like functions, variables are covered by auto-completion."
 msgstr ""
 
 #: index.html
@@ -247,71 +131,27 @@ msgid "Syntax highlighting"
 msgstr ""
 
 #: index.html
-msgid "Do you close your parentheses correctly?"
+msgid "Expressions can be colored according to their syntax."
 msgstr ""
 
 #: index.html
-msgid "Mistype the number?"
+msgid "You can easily distinguish numbers, variables, functions and see matched parentheses."
 msgstr ""
 
 #: index.html
-msgid "No need to worry again because SpeedCrunch can always color the expression according to the syntax."
+msgid "A number of color schemes are available."
 msgstr ""
 
 #: index.html
-msgid "syntax highlighting"
+msgid "Up to 50 decimals of precision"
 msgstr ""
 
 #: index.html
-msgid "You can easily distinguish numbers from variables."
+msgid "With complex calculations involving a chain of operations, this ensures a smaller rounding error at the end."
 msgstr ""
 
 #: index.html
-msgid "You can also see the matched parentheses."
-msgstr ""
-
-#: index.html
-msgid "Functions, with automatic completion"
-msgstr ""
-
-#: index.html
-msgid "Beside standard algebraic operator like + (addition), - (subtraction), * (multiplication), / (division), ^ or ** (exponentiation), there is support for some functions, for example <tt>sin</tt>, <tt>log</tt>, <tt>abs</tt>, and many more."
-msgstr ""
-
-#: index.html
-msgid "You do not need to memorize function names, use Ctrl+F to pop up a dialog where you can choose the function that you need."
-msgstr ""
-
-#: index.html
-msgid "Or take advantage of its auto-completion."
-msgstr ""
-
-#: index.html
-msgid "automatic completion"
-msgstr ""
-
-#: index.html
-msgid "Type the letter <tt>c</tt> only and in less than a second you will be automagically given with choices of <tt>cos</tt>, <tt>cosh</tt> or your variables whose name start with c."
-msgstr ""
-
-#: index.html
-msgid "50 decimals at your disposal"
-msgstr ""
-
-#: index.html
-msgid "With its unique calculation routines, you can get up to 50 decimals of precision."
-msgstr ""
-
-#: index.html
-msgid "Normally, all the important digits are shown, but you can also ask SpeedCrunch to round it to several digits."
-msgstr ""
-
-#: index.html
-msgid "precision"
-msgstr ""
-
-#: index.html
-msgid "When your calculation is quite complex and involving a chain of operations, this high precision ensures that you would get less rounding error in the end."
+msgid "Result formats like scientific and engineering are available."
 msgstr ""
 
 #: index.html
@@ -319,15 +159,11 @@ msgid "History repeats itself"
 msgstr ""
 
 #: index.html
-msgid "If you want to recall again the expression which you typed before, then press up and down arrow to access the expression history."
+msgid "Bring back a previously entered expression with the up and down keyboard arrows."
 msgstr ""
 
 #: index.html
-msgid "Moreover, your expression history (maximum last 100 expressions) is saved between sessions."
-msgstr ""
-
-#: index.html
-msgid "This means you can still invoke those calculations you have done yesterday or last week."
+msgid "The (limited) expression history is saved between sessions and is therefore available even after application restart."
 msgstr ""
 
 #: index.html
@@ -335,198 +171,105 @@ msgid "Smart correction"
 msgstr ""
 
 #: index.html
-msgid "Often, SpeedCrunch can still understand an incomplete expression."
+msgid "Typing <tt>sin</tt> followed by <tt>Enter</tt> is translated to <tt>sin(ans)</tt>."
 msgstr ""
 
 #: index.html
-msgid "For example, just typing <tt>sin</tt> followed by Enter - likely means taking the sine of last value - is automatically translated as <tt>sin(ans)</tt>."
+msgid "Also, functions don't require parentheses if a simple number or variable is used as argument, i.e. <tt>sin pi + 1</tt> is accepted as <tt>sin(pi) + 1</tt>."
 msgstr ""
 
 #: index.html
-msgid "Also, for some functions you may skip the parentheses if you pass simple number or variable, <tt>sin 0.1</tt> is as valid as <tt>sin(0.1)</tt>."
+msgid "Closing parentheses can be skipped, e.g. <tt>cos(pi/4</tt> followed by <tt>Enter</tt> is automatically corrected to <tt>cos(pi/4)</tt>."
 msgstr ""
 
 #: index.html
-msgid "Speaking about parentheses, closing them can be left to SpeedCrunch, e.g. <tt>cos(pi/4</tt> is automatically corrected to <tt>cos(pi/4)</tt>."
+msgid "Version 0.10.1 (May 2008)"
 msgstr ""
 
 #: index.html
-msgid "Keyboard-friendly"
+msgid "Installer:"
 msgstr ""
 
 #: index.html
-msgid "SpeedCrunch has many keyboard shortcuts to speed up your task:"
-msgstr ""
-
-#. shortcut for Previous/Next Expression
-#: index.html
-msgid "Up/Down"
+msgid "To perform the installation, just click on the file to run it and then follow the step-by-step instructions."
 msgstr ""
 
 #: index.html
-msgid "recall last expression"
-msgstr ""
-
-#. shortcut for Insert Variable
-#: index.html
-msgid "Ctrl+I"
+msgid "After installed, run it from <i>Start</i> &gt; <i>All Programs</i>  &gt; <i>SpeedCrunch</i>."
 msgstr ""
 
 #: index.html
-msgid "insert variable"
-msgstr ""
-
-#. shortcut for Insert Function
-#: index.html
-msgid "Ctrl+F"
+msgid "Portable Edition:"
 msgstr ""
 
 #: index.html
-msgid "insert function"
-msgstr ""
-
-#. shortcut for Copy Result
-#: index.html
-msgid "Ctrl+R"
+msgid "No installation."
 msgstr ""
 
 #: index.html
-msgid "copy last result to clipboard"
-msgstr ""
-
-#. shortcut for Save Session
-#: index.html
-msgid "Ctrl+S"
+msgid "Take it everywhere."
 msgstr ""
 
 #: index.html
-msgid "save current session to text file"
+msgid "Simply download the archive, extract and run by clicking on the executable file inside."
 msgstr ""
 
 #: index.html
-msgid "radians mode for trigonometric functions"
+msgid "Universal Binary bundle:"
 msgstr ""
 
 #: index.html
-msgid "degrees mode for trigonometric functions"
+msgid "It should work on Mac OS X 10.3 (Panther) and above."
 msgstr ""
 
 #: index.html
-msgid "Overview"
+msgid "SpeedCrunch is available on all major Linux distributions."
 msgstr ""
 
 #: index.html
-msgid "completely free"
+msgid "Please use your distribution's software center application to search and install Speedrunch."
 msgstr ""
 
 #: index.html
-msgid "history and results on a scrollable display"
+msgid "Note that packages available from distributions are not necessarily the latest version."
 msgstr ""
 
 #: index.html
-msgid "automatic completion of variables and functions"
+msgid "Source code"
 msgstr ""
 
 #: index.html
-msgid "syntax highlighting and parentheses matching"
+msgid "Tarball:"
 msgstr ""
 
 #: index.html
-msgid "up to 50 decimal precisions"
+msgid "Extract to temporary directory"
 msgstr ""
 
 #: index.html
-msgid "unlimited variable storage"
+msgid "Run <tt>cmake .</tt> from the <tt>src</tt> folder, followed by <tt>make</tt>"
 msgstr ""
 
 #: index.html
-msgid "optimized for keyboard"
+msgid "Install with <tt>make install</tt> (might need administration privileges)"
 msgstr ""
 
 #: index.html
-msgid "dozens of built-in math functions"
+msgid "NOTE: the following tools and libraries are required:"
 msgstr ""
 
 #: index.html
-msgid "optional virtual keypad"
+msgid "<a href=\"http://www.cmake.org\">CMake</a> (minimum version 2.4.4)"
 msgstr ""
 
 #: index.html
-msgid "on-the-fly and selection calculation"
+msgid "<a href=\"http://qt.digia.com\">Qt</a> (minimum version 4.6 and including development environment)"
 msgstr ""
 
 #: index.html
-msgid "customizable layout and color schemes"
+msgid "Development repository"
 msgstr ""
 
 #: index.html
-msgid "Testimonials"
-msgstr ""
-
-#: index.html
-msgid "SpeedCrunch performs all of the functions necessary for high school Algebra and Geometry courses."
-msgstr ""
-
-#: index.html
-msgid "SpeedCrunch is a good free alternative to buying expensive scientific calculators."
-msgstr ""
-
-#: index.html
-msgid "source"
-msgstr ""
-
-#: index.html
-msgid "We can conclude that this is THE most comprehensive calculator application available freely and you can hardly find anything better than this one."
-msgstr ""
-
-#: index.html
-msgid "The most powerful desktop calculator you can have, it's like you don’t need to buy a pro calci if you want to work all time on computer."
-msgstr ""
-
-#: index.html
-msgid "We were completely bowled over when we came across SpeedCrunch."
-msgstr ""
-
-#: index.html
-msgid "Overall this is a must have utility and goes in to the Techie Buzz Hall of Fame for applications."
-msgstr ""
-
-#: index.html
-msgid "Its easy to use functionality and keyboard driven powers make it the best calculator for a student or engineer."
-msgstr ""
-
-#: index.html
-msgid "SpeedCrunch is the best calculator available on Linux."
-msgstr ""
-
-#: index.html
-msgid "If I had had SpeedCrunch or Qalculate! during high school, finishing homework really would've been child's play."
-msgstr ""
-
-#: index.html
-msgid "Wow! This little app has made my investigation. You have saved me hours and hours of long and boring statistical calculations!"
-msgstr ""
-
-#: index.html
-msgid "Mostly run by keyboard, SpeedCrunch is the calculator for the technical or engineer oriented professional."
-msgstr ""
-
-#: index.html
-msgid "A \"must look\" at."
-msgstr ""
-
-#: index.html
-msgid "All in all, SpeedCrunch lives up to its claim of being a fast, precise scientific calculator."
-msgstr ""
-
-#: index.html
-msgid "From the perspective of a non-math guy, SpeedCrunch is the best calculator on Linux."
-msgstr ""
-
-#: index.html
-msgid "I am wondering why they didn’t offer a basic free version and a low-priced upgrade with more functionality."
-msgstr ""
-
-#: index.html
-msgid "Leave Windows Calculator behind and use SpeedCrunch instead."
+msgid "Clone one of the redundant Git repositories:"
 msgstr ""
