@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta name="keywords" content="speedcrunch, <i18n>calculator</i18n>" />
@@ -13,26 +13,68 @@
         <div id="header">
             <div>
                 <ul>
-                    <li><a style="color: #444444;" href="index.html" title="<i18n>Home</i18n>"><i18n>Home</i18n></a></li>
-                    <li><a href="download.html" title="<i18n>Try it out</i18n>"><i18n>Download</i18n></a></li>
-                    <li><a href="http://groups.google.com/group/speedcrunch" title="<i18n>Discuss with other users</i18n>"><i18n>Forum</i18n></a></li>
-                    <li><a href="http://speedcrunch.blogspot.com/" title="<i18n>Follow the development</i18n>"><i18n>Blog</i18n></a></li>
+                    <li><a href="#learn"><i18n>Learn</i18n></a></li>
+                    <li><a href="#download"><i18n>Download</i18n></a></li>
+                    <li><a href="http://groups.google.com/group/speedcrunch"><i18n>Contact</i18n></a></li>
+                    <li><a href="http://speedcrunch.blogspot.com/"><i18n>Follow</i18n></a></li>
+                    <li>
+                        <select required>
+                            <option value=""><i18n>Choose language</i18n></option>
+                            <option value="en_US">American English</option>
+                            <option value="de_DE">Deutsch</option>
+                            <option value="es_ES">Español</option>
+                            <option value="fr_FR">Français</option>
+                            <option value="it_IT">Italiano</option>
+                            <option value="hu_HU">Magyar</option>
+                            <option value="nl_NL">Nederlands</option>
+                            <option value="pl_PL">Polski</option> value=""
+                            <option value="pt_BR">Português do Brasil</option>
+                            <option value="pt_PT">Português Europeu</option>
+                            <option value="ru_RU">Русский</option>
+                        </select>
+                    </li>
                 </ul>
             </div>
         </div>
 
-        <div id="leftcontent">
+        <div class="section-anchor no-border"></div>
 
-            <h1>SpeedCrunch</h1>
+        <div id="overview">
+            <img src="../icons/icon.png"/>
+            <img src="../images/headline.png"/>
+            <img src="../images/screenshot2.png" style="margin-top: 30px;"/>
+        </div>
 
-            <img src="../icons/icon.png" style="float: left;" alt="<i18n>icon</i18n>" />
-            <img src="../images/headline.png" alt="SpeedCrunch" />
+        <div id="content">
 
-                <h1><i18n>High-precision scientific calculator</i18n></h1>
-
-            <p align="center">
-                <img src="../images/screenshot2.png" style="padding-top: 30px;" />
+            <div class="section-anchor">
+                <div class="bottom-align">
+                    <h1><i18n>Help the project</i18n></h1>
+                </div>
+            </div>
+            <p>
+                <i18n>If you find a bug or have a feature request, please enter it in our <a href="http://code.google.com/p/speedcrunch/issues/entry">issue tracker</a>.</i18n>
+                <i18n>New features, bug fixes and translations are very welcome.</i18n>
+                <i18n>If all you can share with us is your opinion, that's certainly valued as well.</i18n>
             </p>
+
+
+            <div class="section-anchor">
+                <div class="bottom-align">
+                    <h1><i18n>License</i18n></h1>
+                </div>
+            </div>
+            <p>
+                <i18n>This program is open-source.</i18n>
+                <i18n>You can redistribute and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/gpl.html">GNU General Public License</a>.</i18n>
+                <i18n>It is distributed in the hope that it will be useful, but without any warranty.</i18n>
+            </p>
+
+            <div id="learn" class="section-anchor">
+                <div class="bottom-align">
+                    <h1><i18n>Learn</i18n></h1>
+                </div>
+            </div>
 
             <h2><i18n>At your fingertip</i18n></h2>
             <p>
@@ -58,7 +100,7 @@
 
             <h2><i18n>Syntax highlighting</i18n></h2>
             <p>
-                <i18n>SpeedCrunch can color expressions according to their syntax.</i18n>
+                <i18n>Expressions can be colored according to their syntax.</i18n>
                 <i18n>You can easily distinguish numbers, variables, functions and see matched parentheses.</i18n>
                 <i18n>A number of color schemes are available.</i18n>
             </p>
@@ -80,108 +122,102 @@
             <p>
                 <i18n>Typing <tt>sin</tt> followed by <tt>Enter</tt> is translated to <tt>sin(ans)</tt>.</i18n>
                 <i18n>Also, functions don't require parentheses if a simple number or variable is used as argument, i.e. <tt>sin pi + 1</tt> is accepted as <tt>sin(pi) + 1</tt>.</i18n>
-                <i18n>Closing parentheses can be left to SpeedCrunch, e.g. <tt>cos(pi/4</tt> followed by <tt>Enter</tt> is automatically corrected to <tt>cos(pi/4)</tt>.</i18n>
+                <i18n>Closing parentheses can be skipped, e.g. <tt>cos(pi/4</tt> followed by <tt>Enter</tt> is automatically corrected to <tt>cos(pi/4)</tt>.</i18n>
             </p>
 
-        </div>
-
-        <div id="flags">
-
-            <p style="padding-bottom: 10px; margin-right: 20px; float: right">
-                <a href="../de_DE/index.html" title="Deutsch (DE)"    ><img src="../flags/de.png" alt="Deutsch (DE)"    /></a>
-                <a href="../es_ES/index.html" title="Español (ES)"    ><img src="../flags/es.png" alt="Español (ES)"    /></a>
-                <a href="../fr_FR/index.html" title="Français (FR)"   ><img src="../flags/fr.png" alt="Français (FR)"   /></a>
-                <a href="../hu_HU/index.html" title="Magyar (HU)"     ><img src="../flags/hu.png" alt="Magyar (HU)"     /></a>
-                <a href="../it_IT/index.html" title="Italiano (IT)"   ><img src="../flags/it.png" alt="Italiano (IT)"   /></a>
-                <a href="../nl_NL/index.html" title="Nederlands (NL)" ><img src="../flags/nl.png" alt="Nederlands (NL)" /></a>
-                <a href="../pl_PL/index.html" title="Polski (PL)"     ><img src="../flags/pl.png" alt="Polski (PL)"     /></a>
-                <a href="../pt_PT/index.html" title="Português (PT)"  ><img src="../flags/pt.png" alt="Português (PT)"  /></a>
-                <a href="../pt_BR/index.html" title="Português (BR)"  ><img src="../flags/br.png" alt="Português (BR)"  /></a>
-                <a href="../ru_RU/index.html" title="Русский (RU)"    ><img src="../flags/ru.png" alt="Русский (RU)"    /></a>
-                <a href="../en_US/index.html" title="English (US)"    ><img src="../flags/us.png" alt="English (US)"    /></a>
-            </p>
-
-            <p>&nbsp;</p>
-
-            <div class="extra-info-box">
-                <h3><i18n>Overview</i18n></h3>
-                <ul>
-                    <li><i18n>free, open-source, cross-platform</i18n></li>
-                    <li><i18n>history and results on a scrollable display</i18n></li>
-                    <li><i18n>automatic completion of variables and functions</i18n></li>
-                    <li><i18n>syntax highlighting and parentheses matching</i18n></li>
-                    <li><i18n>up to 50 decimal precisions</i18n></li>
-                    <li><i18n>unlimited variable storage</i18n></li>
-                    <li><i18n>optimized for keyboard</i18n></li>
-                    <li><i18n>dozens of built-in math functions</i18n></li>
-                    <li><i18n>optional virtual keypad</i18n></li>
-                    <li><i18n>as-you-type and selection calculation</i18n></li>
-                    <li><i18n>customizable layout and color schemes</i18n></li>
-                </ul>
-
-                <h3><i18n>Testimonials</i18n></h3>
-                <p>
-                    <i><i18n>SpeedCrunch performs all of the functions necessary for high school Algebra and Geometry courses.</i18n>
-                       <i18n>SpeedCrunch is a good free alternative to buying expensive scientific calculators.</i18n></i>
-                    <a href="http://www.freetech4teachers.com/2009/03/speed-crunch-free-scientific-calculator.html">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>We can conclude that this is THE most comprehensive calculator application available freely and you can hardly find anything better than this one.</i18n></i>
-                    <a href="http://easy-freeware-downloads.blogspot.com/2007/09/speedcrunch-windows-calculator.html">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>The most powerful desktop calculator you can have, it's like you don’t need to buy a pro calci if you want to work all time on computer.</i18n></i>
-                    <a href="http://www.technospot.net/blogs/speedcrunch-the-most-powerful-desktop-calculator-you-can-have/">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>We were completely bowled over when we came across SpeedCrunch.</i18n> <i18n>Overall this is a must have utility and goes in to the Techie Buzz Hall of Fame for applications.</i18n></i>
-                    <a href="http://techie-buzz.com/utilites/feature-application-speedcrunch-best-calculator-replacement.html">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>Its easy to use functionality and keyboard driven powers make it the best calculator for a student or engineer.</i18n></i>
-                    <a href="http://www.sizlopedia.com/2007/06/16/replace-your-windows-calculator-with-speed-crunch/">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>SpeedCrunch is the best calculator available on Linux.</i18n></i>
-                    <a href="http://slunk.wordpress.com/2007/12/13/my-opinion-from-the-perspective-of-a-non-math-guy-speedcrunch-is-the-best-calculator-on-linux/">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>If I had had SpeedCrunch or Qalculate! during high school, finishing homework really would've been child's play.</i18n></i>
-                    <a href="http://www.linux.com/feature/149406">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>Wow! This little app has made my investigation. You have saved me hours and hours of long and boring statistical calculations!</i18n></i>
-                    <a href="https://www.blogger.com/comment.g?blogID=3899900022788320858&postID=712681301978180556">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>Mostly run by keyboard, SpeedCrunch is the calculator for the technical or engineer oriented professional.</i18n> <i18n>A "must look" at.</i18n></i>
-                    <a href="http://freepenguin.blogspot.com/2005/11/speedcrunch-calculator-technical-guy.html">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>Overall this is a must have utility and goes in to the Techie Buzz Hall of Fame for applications.</i18n></i>
-                    <a href="http://techie-buzz.com/utilites/feature-application-speedcrunch-best-calculator-replacement.html">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>All in all, SpeedCrunch lives up to its claim of being a fast, precise scientific calculator.</i18n></i>
-                    <a href="http://linuxandfriends.com/2008/12/18/speedcrunch-an-easy-to-use-scientific-calculator-for-linux/">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>From the perspective of a non-math guy, SpeedCrunch is the best calculator on Linux.</i18n></i>
-                    <a href="http://slunk.wordpress.com/2007/12/13/my-opinion-from-the-perspective-of-a-non-math-guy-speedcrunch-is-the-best-calculator-on-linux/">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>I am wondering why they didn’t offer a basic free version and a low-priced upgrade with more functionality.</i18n></i>
-                    <a href="http://www.centernetworks.com/speedcrunch-calculator">[<i18n>source</i18n>]</a>
-                </p>
-                <p>
-                    <i><i18n>Leave Windows Calculator behind and use SpeedCrunch instead.</i18n></i>
-                    <a href="http://dottech.org/freewaresr/7724">[<i18n>source</i18n>]</a>
-                </p>
+            <div id="download" class="section-anchor">
+                <div class="bottom-align">
+                    <h1><i18n>Download</i18n></h1>
+                </div>
             </div>
-        </div>
 
-        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-        <script type="text/javascript">_uacct = "UA-2092884-1"; urchinTracker();</script>
+            <h2><i18n>Version 0.10.1 (May 2008)</i18n></h2>
+
+            <h3><img src="../icons/win.png" alt="Windows" style="vertical-align: middle; margin-right: 5px;" />Microsoft Windows</h3>
+
+            <span class="indented">
+                <p>
+                    <i18n>Installer:</i18n>
+                    <a href="http://speedcrunch.googlecode.com/files/SpeedCrunch-0.10.1.exe">SpeedCrunch-0.10.1.exe</a> (2.5 MB)
+                </p>
+
+                <p>
+                   <i18n>To perform the installation, just click on the file to run it and then follow the step-by-step instructions.</i18n>
+                   <i18n>After installed, run it from <i>Start</i> &gt; <i>All Programs</i>  &gt; <i>SpeedCrunch</i>.</i18n>
+                </p>
+                <p>
+                    <i18n>Portable Edition:</i18n>
+                    <a href="http://speedcrunch.googlecode.com/files/SpeedCrunch-0.10.1.zip">SpeedCrunch-0.10.1.zip</a> (2.4 MB)
+                </p>
+                <p>
+                   <i18n>No installation.</i18n>
+                   <i18n>Take it everywhere.</i18n>
+                   <i18n>Simply download the archive, extract and run by clicking on the executable file inside.</i18n>
+                </p>
+
+            </span>
+
+            <h3><img src="../icons/mac.png" alt="Mac OS X" style="vertical-align: middle; margin-right: 5px;" />Mac OS X</h3>
+
+            <span class="indented">
+                <p>
+                    <i18n>Universal Binary bundle:</i18n>
+                    <a href="http://speedcrunch.googlecode.com/files/SpeedCrunch-0.10.1.dmg">SpeedCrunch-0.10.1.dmg</a> (6.6 MB)
+                </p>
+                <p>
+                    <i18n>It should work on Mac OS X 10.3 (Panther) and above.</i18n>
+                </p>
+            </span>
+
+            <h3><img src="../icons/tux.png" alt="Linux" style="vertical-align: middle; margin-right: 5px;" />Linux</h3>
+
+            <span class="indented">
+                <p>
+                    <i18n>SpeedCrunch is available on all major Linux distributions.</i18n>
+                    <i18n>Please use your distribution's software center application to search and install Speedrunch.</i18n>
+                    <i18n>Note that packages available from distributions are not necessarily the latest version.</i18n>
+                </p>
+            </span>
+
+            <h3><img src="../icons/tar.png" alt="<i18n>Source code</i18n>" style="vertical-align: middle; margin-right: 5px;" /><i18n>Source code</i18n></h3>
+
+            <span class="indented">
+                <p>
+                    <i18n>Tarball:</i18n> <a href="http://speedcrunch.googlecode.com/files/speedcrunch-0.10.1.tar.gz">speedcrunch-0.10.1.tar.gz</a> (1.6 MB)</li>
+                </p>
+                <ul>
+                    <li><i18n>Extract to temporary directory</i18n></li>
+                    <li><i18n>Run <tt>cmake .</tt> from the <tt>src</tt> folder, followed by <tt>make</tt></i18n></li>
+                    <li><i18n>Install with <tt>make install</tt> (might need administration privileges)</i18n></li>
+                </ul>
+                <p>
+                    <i18n>NOTE: the following tools and libraries are required:</i18n>
+                </p>
+                <ul>
+                    <li><i18n><a href="http://www.cmake.org">CMake</a> (minimum version 2.4.4)</i18n></li>
+                    <li><i18n><a href="http://qt.digia.com">Qt</a> (minimum version 4.6 and including development environment)</i18n></li>
+                </ul>
+            </span>
+
+            <h3><img src="../icons/git.png" alt="<i18n>Development repository</i18n>" style="vertical-align: middle; margin-right: 5px;" /><i18n>Development repository</i18n></h3>
+
+            <span class="indented">
+                <p>
+                    <i18n>Clone one of the redundant Git repositories:</i18n>
+                </p>
+                <ul>
+                    <li><a href="https://github.com/speedcrunch/SpeedCrunch">GitHub</a></li>
+                    <li><a href="https://gitorious.org/speedcrunch/mainline">Gitorious</a></li>
+                    <li><a href="https://code.google.com/p/speedcrunch/source/checkout">Google Code</a></li>
+                </ul>
+            </span>
+
+            <div id="footer" class="section-anchor">
+                <div class="bottom-align">
+                </div>
+            </div>
+
+        </div>
 
     </body>
 </html>
