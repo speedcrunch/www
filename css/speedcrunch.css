@@ -57,7 +57,7 @@ h3 {
 
 #header li {
     display: inline;
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 #header a:link,
@@ -72,7 +72,7 @@ h3 {
     color: #ffff00;
 }
 
-#overview {
+#cover {
     position: relative;
     width: 50%;
     margin-left: auto;
