@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-03 23:43+0000\n"
+"POT-Creation-Date: 2013-07-03 23:58+0000\n"
 "PO-Revision-Date: 2007-07-29 00:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: en\n"
@@ -250,7 +250,7 @@ msgstr ""
 #: index.html
 msgid ""
 "Please use your distribution's software center application to search and "
-"install Speedrunch."
+"install the application."
 msgstr ""
 
 #: index.html

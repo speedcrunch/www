@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-03 23:43+0000\n"
+"POT-Creation-Date: 2013-07-03 23:58+0000\n"
 "PO-Revision-Date: 2009-09-14 16:03+0100\n"
 "Last-Translator: Michał Trzebiatowski <hippie_1968@hotmail.com>\n"
 "Language-Team: de\n"
@@ -307,7 +307,7 @@ msgstr "SpeedCrunch ist der beste Taschenrechner unter Linux."
 #: index.html
 msgid ""
 "Please use your distribution's software center application to search and "
-"install Speedrunch."
+"install the application."
 msgstr ""
 
 #: index.html

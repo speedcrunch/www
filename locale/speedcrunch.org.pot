@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-03 23:43+0000\n"
+"POT-Creation-Date: 2013-07-03 23:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -211,7 +211,7 @@ msgid "SpeedCrunch is available on all major Linux distributions."
 msgstr ""
 
 #: index.html
-msgid "Please use your distribution's software center application to search and install Speedrunch."
+msgid "Please use your distribution's software center application to search and install the application."
 msgstr ""
 
 #: index.html
