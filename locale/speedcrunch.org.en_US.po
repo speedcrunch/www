@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-02 00:17+0000\n"
+"POT-Creation-Date: 2013-07-03 23:43+0000\n"
 "PO-Revision-Date: 2007-07-29 00:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: en\n"
@@ -22,11 +22,15 @@ msgid "SpeedCrunch high-precision scientific calculator"
 msgstr ""
 
 #: index.html
-msgid "Learn"
+msgid "Overview"
 msgstr ""
 
 #: index.html
 msgid "Download"
+msgstr ""
+
+#: index.html
+msgid "Contribute"
 msgstr ""
 
 #: index.html
@@ -39,46 +43,6 @@ msgstr ""
 
 #: index.html
 msgid "Choose language"
-msgstr ""
-
-#: index.html
-msgid "Help the project"
-msgstr ""
-
-#: index.html
-msgid ""
-"If you find a bug or have a feature request, please enter it in our <a href="
-"\"http://code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
-msgstr ""
-
-#: index.html
-msgid "New features, bug fixes and translations are very welcome."
-msgstr ""
-
-#: index.html
-msgid ""
-"If all you can share with us is your opinion, that's certainly valued as "
-"well."
-msgstr ""
-
-#: index.html
-msgid "License"
-msgstr ""
-
-#: index.html
-msgid "This program is open-source."
-msgstr ""
-
-#: index.html
-msgid ""
-"You can redistribute and/or modify it under the terms of the <a href="
-"\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</a>."
-msgstr ""
-
-#: index.html
-msgid ""
-"It is distributed in the hope that it will be useful, but without any "
-"warranty."
 msgstr ""
 
 #: index.html
@@ -218,6 +182,22 @@ msgid ""
 msgstr ""
 
 #: index.html
+msgid "This program is open-source."
+msgstr ""
+
+#: index.html
+msgid ""
+"You can redistribute and/or modify it under the terms of the <a href="
+"\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</a>."
+msgstr ""
+
+#: index.html
+msgid ""
+"It is distributed in the hope that it will be useful, but without any "
+"warranty."
+msgstr ""
+
+#: index.html
 msgid "Version 0.10.1 (May 2008)"
 msgstr ""
 
@@ -321,4 +301,24 @@ msgstr ""
 
 #: index.html
 msgid "Clone one of the redundant Git repositories:"
+msgstr ""
+
+#: index.html
+msgid ""
+"If you find a bug or have a feature request, please enter it in our <a href="
+"\"http://code.google.com/p/speedcrunch/issues\">issue tracker</a>."
+msgstr ""
+
+#: index.html
+msgid ""
+"In case you pocess technical skills, please take a look at the <a href="
+"\"https://github.com/speedcrunch/SpeedCrunch\">source code</a> and try to "
+"implement new features or fix bugs."
+msgstr ""
+
+#: index.html
+msgid ""
+"Translators interested in improving the language support can join the "
+"project page at <a href=\"https://www.transifex.com/projects/p/speedcrunch/"
+"\">Transifex</a>."
 msgstr ""

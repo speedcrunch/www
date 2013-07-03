@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-02 00:17+0000\n"
+"POT-Creation-Date: 2013-07-03 23:43+0000\n"
 "PO-Revision-Date: 2008-07-29 11:18+0100\n"
 "Last-Translator: Wishes-to-be-anonymous\n"
 "Language-Team: nl\n"
@@ -24,13 +24,16 @@ msgid "SpeedCrunch high-precision scientific calculator"
 msgstr "SpeedCrunch - snel en bruikbare rekenmachine"
 
 #: index.html
-#, fuzzy
-msgid "Learn"
-msgstr "Leer meer"
+msgid "Overview"
+msgstr "Overzicht"
 
 #: index.html
 msgid "Download"
 msgstr "Download"
+
+#: index.html
+msgid "Contribute"
+msgstr ""
 
 #: index.html
 msgid "Contact"
@@ -42,55 +45,6 @@ msgstr ""
 
 #: index.html
 msgid "Choose language"
-msgstr ""
-
-#: index.html
-msgid "Help the project"
-msgstr ""
-
-#: index.html
-#, fuzzy
-msgid ""
-"If you find a bug or have a feature request, please enter it in our <a href="
-"\"http://code.google.com/p/speedcrunch/issues/entry\">issue tracker</a>."
-msgstr ""
-"Als u een fout vind rapporteer dit alstublieft in onze <a href=\"http://code."
-"google.com/p/speedcrunch/issues/entry\">issue verkenner</a>."
-
-#: index.html
-msgid "New features, bug fixes and translations are very welcome."
-msgstr ""
-
-#: index.html
-msgid ""
-"If all you can share with us is your opinion, that's certainly valued as "
-"well."
-msgstr ""
-
-#: index.html
-msgid "License"
-msgstr "Licentie"
-
-#: index.html
-msgid "This program is open-source."
-msgstr ""
-
-#: index.html
-#, fuzzy
-msgid ""
-"You can redistribute and/or modify it under the terms of the <a href="
-"\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</a>."
-msgstr ""
-"SpeedCrunch is gratis software; je kan het herdistribueren en/of veranderen "
-"onder de clausules van de <a href=\"http://www.gnu.org/licenses/gpl.html"
-"\">GNU General Public License</a> zoals gepubliceerd bij de <a href=\"http://"
-"www.fsf.org\">Free Software Foundation</a>; zowel versie 2 van de Licentie "
-"als (naargelang je eigen voorkeur) enige latere versie."
-
-#: index.html
-msgid ""
-"It is distributed in the hope that it will be useful, but without any "
-"warranty."
 msgstr ""
 
 #: index.html
@@ -265,6 +219,28 @@ msgstr ""
 "<tt>cos(pi/4</tt> is automatisch gecorrigeerd naar <tt>cos(pi/4)</tt>."
 
 #: index.html
+msgid "This program is open-source."
+msgstr ""
+
+#: index.html
+#, fuzzy
+msgid ""
+"You can redistribute and/or modify it under the terms of the <a href="
+"\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License</a>."
+msgstr ""
+"SpeedCrunch is gratis software; je kan het herdistribueren en/of veranderen "
+"onder de clausules van de <a href=\"http://www.gnu.org/licenses/gpl.html"
+"\">GNU General Public License</a> zoals gepubliceerd bij de <a href=\"http://"
+"www.fsf.org\">Free Software Foundation</a>; zowel versie 2 van de Licentie "
+"als (naargelang je eigen voorkeur) enige latere versie."
+
+#: index.html
+msgid ""
+"It is distributed in the hope that it will be useful, but without any "
+"warranty."
+msgstr ""
+
+#: index.html
 msgid "Version 0.10.1 (May 2008)"
 msgstr "Versie 0.10.1 (Mei 2008)"
 
@@ -393,6 +369,36 @@ msgstr "Ontwikkeling versie"
 msgid "Clone one of the redundant Git repositories:"
 msgstr ""
 
+#: index.html
+#, fuzzy
+msgid ""
+"If you find a bug or have a feature request, please enter it in our <a href="
+"\"http://code.google.com/p/speedcrunch/issues\">issue tracker</a>."
+msgstr ""
+"Als u een fout vind rapporteer dit alstublieft in onze <a href=\"http://code."
+"google.com/p/speedcrunch/issues/entry\">issue verkenner</a>."
+
+#: index.html
+msgid ""
+"In case you pocess technical skills, please take a look at the <a href="
+"\"https://github.com/speedcrunch/SpeedCrunch\">source code</a> and try to "
+"implement new features or fix bugs."
+msgstr ""
+
+#: index.html
+msgid ""
+"Translators interested in improving the language support can join the "
+"project page at <a href=\"https://www.transifex.com/projects/p/speedcrunch/"
+"\">Transifex</a>."
+msgstr ""
+
+#~ msgid "License"
+#~ msgstr "Licentie"
+
+#, fuzzy
+#~ msgid "Learn"
+#~ msgstr "Leer meer"
+
 #~ msgid "Features"
 #~ msgstr "Mogelijkheden"
 
@@ -444,9 +450,6 @@ msgstr ""
 #~ "From the perspective of a non-math guy, SpeedCrunch is the best "
 #~ "calculator on Linux."
 #~ msgstr "SpeedCrunch is de standaard tafelblad rekenmachine."
-
-#~ msgid "Overview"
-#~ msgstr "Overzicht"
 
 #~ msgid "history and results on a scrollable display"
 #~ msgstr "geschiedenis en resultaat op een rollend venster"
