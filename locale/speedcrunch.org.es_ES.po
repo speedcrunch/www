@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-03 23:58+0000\n"
+"POT-Creation-Date: 2013-07-04 00:06+0000\n"
 "PO-Revision-Date: 2008-04-25 20:03+0100\n"
 "Last-Translator: Francesc <franfar@gmail.com>\n"
 "Language-Team: es\n"
@@ -221,6 +221,24 @@ msgstr ""
 "Hablando de paréntesis, la tarea de cerrarlos puede dejarse a SpeedCrunch, "
 "ej. <tt>cos(pi/4</tt> es automáticamente corregido y escrito <tt>cos(pi/4)</"
 "tt>."
+
+#: index.html
+msgid "Share and colaborate"
+msgstr ""
+
+#: index.html
+msgid ""
+"Export your session to a file and send to someone for verification or "
+"collaboration."
+msgstr ""
+
+#: index.html
+msgid "Variables and history will be imported at the other end."
+msgstr ""
+
+#: index.html
+msgid "When importing, sessions can be merged or simply drop the current one."
+msgstr ""
 
 #: index.html
 msgid "This program is open-source."

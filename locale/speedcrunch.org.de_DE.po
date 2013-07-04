@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-03 23:58+0000\n"
+"POT-Creation-Date: 2013-07-04 00:06+0000\n"
 "PO-Revision-Date: 2009-09-14 16:03+0100\n"
 "Last-Translator: Michał Trzebiatowski <hippie_1968@hotmail.com>\n"
 "Language-Team: de\n"
@@ -222,6 +222,24 @@ msgstr ""
 "Apropos Klammern: das korrekte Schließen können Sie auch SpeedCrunch "
 "überlassen. So wird z.B. <tt>cos(pi/4</tt> automatisch zu <tt>cos(pi/4)</tt> "
 "korrigiert."
+
+#: index.html
+msgid "Share and colaborate"
+msgstr ""
+
+#: index.html
+msgid ""
+"Export your session to a file and send to someone for verification or "
+"collaboration."
+msgstr ""
+
+#: index.html
+msgid "Variables and history will be imported at the other end."
+msgstr ""
+
+#: index.html
+msgid "When importing, sessions can be merged or simply drop the current one."
+msgstr ""
 
 #: index.html
 msgid "This program is open-source."

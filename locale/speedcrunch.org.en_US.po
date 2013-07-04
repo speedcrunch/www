@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-03 23:58+0000\n"
+"POT-Creation-Date: 2013-07-04 00:06+0000\n"
 "PO-Revision-Date: 2007-07-29 00:00+0100\n"
 "Last-Translator: \n"
 "Language-Team: en\n"
@@ -179,6 +179,24 @@ msgstr ""
 msgid ""
 "Closing parentheses can be skipped, e.g. <tt>cos(pi/4</tt> followed by "
 "<tt>Enter</tt> is automatically corrected to <tt>cos(pi/4)</tt>."
+msgstr ""
+
+#: index.html
+msgid "Share and colaborate"
+msgstr ""
+
+#: index.html
+msgid ""
+"Export your session to a file and send to someone for verification or "
+"collaboration."
+msgstr ""
+
+#: index.html
+msgid "Variables and history will be imported at the other end."
+msgstr ""
+
+#: index.html
+msgid "When importing, sessions can be merged or simply drop the current one."
 msgstr ""
 
 #: index.html
