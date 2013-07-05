@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: speedcrunch.org\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-04 00:06+0000\n"
+"POT-Creation-Date: 2013-07-05 00:07+0000\n"
 "PO-Revision-Date: 2008-04-25 20:03+0100\n"
 "Last-Translator: Francesc <franfar@gmail.com>\n"
 "Language-Team: es\n"
@@ -45,7 +45,7 @@ msgid "Follow"
 msgstr ""
 
 #: index.html
-msgid "Choose language"
+msgid "Language"
 msgstr ""
 
 #: index.html
