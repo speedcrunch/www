@@ -63,13 +63,13 @@ h3 {
 #header a:link,
 #header a:visited,
 #header a:hover {
-    color: #ffffff;
+    color: white;
     padding: 4px 5px 5px 5px;
     margin-left: 4px;
 }
 
 #header a:hover {
-    color: #ffff00;
+    color: yellow;
 }
 
 #cover {
@@ -114,4 +114,14 @@ h3 {
     position: absolute;
     bottom: 0;
     margin: 0 auto;
+}
+
+#language-select {
+    border: 2px groove white;
+    border-radius: 15px;
+    color: white;
+    background: #55acff;
+    font-weight: 900;
+    font-family: "Segoe UI", verdana, sans-serif;
+    padding: 5px;
 }
