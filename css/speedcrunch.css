@@ -117,11 +117,8 @@ h3 {
 }
 
 #language-select {
-    border: 2px groove white;
-    border-radius: 15px;
-    color: white;
-    background: #55acff;
-    font-weight: 900;
-    font-family: "Segoe UI", verdana, sans-serif;
-    padding: 5px;
+    border: 1px groove white;
+    border-radius: 10px;
+    color: #55acff;
+    background: white;
 }
