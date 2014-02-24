@@ -74,7 +74,13 @@ function showNextSlide() {
     }, 0);
 }
 
+function checkBrowser() {
+    if (document.getElementById("noIE11") !== null)
+        alert("Please upgrade to Microsoft Internet Explorer 11 for this website to be properly rendered. Or consider using Google Chrome, Mozilla Firefox, or Opera.");
+}
+
 function main() {
+    checkBrowser();
     setTimeout("showNextSlide();", 0);
     setTimeout(function() {
         document.getElementById("menu").className = "full-opaque";
